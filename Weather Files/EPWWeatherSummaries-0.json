@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "Combolcha 633330 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "Katanning",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "946410",
+      "Latitude": -33.68,
+      "Longitude": 117.60,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 321.0
+    }
+  },
+  {
+    "OriginalFileName": "Bahar Dar 633320 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "BAHAR_DAR",
+      "StateName": "-",
+      "Country": "ETH",
+      "WeatherSource": "SWERA",
+      "WMOID": "633320",
+      "Latitude": 11.60,
+      "Longitude": 37.40,
+      "TimeZoneOffset": 3.0,
+      "Elevation": 1820.0
+    }
+  },
+  {
+    "OriginalFileName": "Awassa 634600 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "AWASSA_(LAKE)",
+      "StateName": "-",
+      "Country": "ETH",
+      "WeatherSource": "SWERA",
+      "WMOID": "634600",
+      "Latitude": 7.07,
+      "Longitude": 38.05,
+      "TimeZoneOffset": 3.0,
+      "Elevation": 1652.0
+    }
+  },
+  {
+    "OriginalFileName": "Addis Ababa-Bole 634500 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "ADDIS_ABABA/BOLE",
+      "StateName": "-",
+      "Country": "ETH",
+      "WeatherSource": "SWERA",
+      "WMOID": "634500",
+      "Latitude": 8.98,
+      "Longitude": 38.80,
+      "TimeZoneOffset": 3.0,
+      "Elevation": 2355.0
+    }
+  },
+  {
+    "OriginalFileName": "Luxor 624050 (ETMY)",
+    "EPWLocationInfo": {
+      "CityName": "Luxor",
+      "StateName": "Qina",
+      "Country": "EGY",
+      "WeatherSource": "ETMY",
+      "WMOID": "624050",
+      "Latitude": 25.67,
+      "Longitude": 32.70,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 99.0
+    }
+  },
+  {
+    "OriginalFileName": "Kharga 624350 (ETMY)",
+    "EPWLocationInfo": {
+      "CityName": "Kharga",
+      "StateName": "Al Wadi al Jadid",
+      "Country": "EGY",
+      "WeatherSource": "ETMY",
+      "WMOID": "624350",
+      "Latitude": 25.45,
+      "Longitude": 30.53,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 73.0
+    }
+  },
+  {
+    "OriginalFileName": "Ismailia 624400 (ETMY)",
+    "EPWLocationInfo": {
+      "CityName": "Ismailia",
+      "StateName": "Al Ismailiyah",
+      "Country": "EGY",
+      "WeatherSource": "ETMY",
+      "WMOID": "624400",
+      "Latitude": 30.60,
+      "Longitude": 32.25,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 13.0
+    }
+  },
+  {
+    "OriginalFileName": "Hurghada 624630 (ETMY)",
+    "EPWLocationInfo": {
+      "CityName": "Hurghada",
+      "StateName": "Al Bahr al Ahmar",
+      "Country": "EGY",
+      "WeatherSource": "ETMY",
+      "WMOID": "624630",
+      "Latitude": 27.15,
+      "Longitude": 33.72,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 14.0
+    }
+  },
+  {
+    "OriginalFileName": "Helwan 623780 (ETMY)",
+    "EPWLocationInfo": {
+      "CityName": "Helwan",
+      "StateName": "Al Qahirah",
+      "Country": "EGY",
+      "WeatherSource": "ETMY",
+      "WMOID": "623780",
+      "Latitude": 29.87,
+      "Longitude": 31.33,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 141.0
+    }
+  },
+  {
+    "OriginalFileName": "El Arish 623370 (ETMY)",
+    "EPWLocationInfo": {
+      "CityName": "El Arish",
+      "StateName": "Shamal Sina",
+      "Country": "EGY",
+      "WeatherSource": "ETMY",
+      "WMOID": "623370",
+      "Latitude": 31.08,
+      "Longitude": 33.82,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 32.0
+    }
+  },
+  {
+    "OriginalFileName": "Cairo Intl Airport 623660 (ETMY)",
+    "EPWLocationInfo": {
+      "CityName": "Cairo Intl Airport",
+      "StateName": "Al Qahirah",
+      "Country": "EGY",
+      "WeatherSource": "ETMY",
+      "WMOID": "623660",
+      "Latitude": 30.13,
+      "Longitude": 31.40,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 74.0
+    }
+  },
+  {
+    "OriginalFileName": "Cairo 623660 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "CAIRO",
+      "StateName": "-",
+      "Country": "EGY",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "623660",
+      "Latitude": 30.13,
+      "Longitude": 31.40,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 74.0
+    }
+  },
+  {
+    "OriginalFileName": "Asyut 623930 (ETMY)",
+    "EPWLocationInfo": {
+      "CityName": "Asyut",
+      "StateName": "Asyut",
+      "Country": "EGY",
+      "WeatherSource": "ETMY",
+      "WMOID": "623930",
+      "Latitude": 27.05,
+      "Longitude": 31.02,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 70.0
+    }
+  },
+  {
+    "OriginalFileName": "Aswan 624140 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "ASWAN",
+      "StateName": "-",
+      "Country": "EGY",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "624140",
+      "Latitude": 23.97,
+      "Longitude": 32.78,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 194.0
+    }
+  },
+  {
+    "OriginalFileName": "Aswan 624140 (ETMY)",
+    "EPWLocationInfo": {
+      "CityName": "Aswan",
+      "StateName": "Aswan",
+      "Country": "EGY",
+      "WeatherSource": "ETMY",
+      "WMOID": "624140",
+      "Latitude": 23.97,
+      "Longitude": 32.78,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 194.0
+    }
+  },
+  {
+    "OriginalFileName": "Alexandria 623180 (ETMY)",
+    "EPWLocationInfo": {
+      "CityName": "Alexandria",
+      "StateName": "Al Iskandariyah",
+      "Country": "EGY",
+      "WeatherSource": "ETMY",
+      "WMOID": "623180",
+      "Latitude": 31.20,
+      "Longitude": 29.95,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Al Minya 623870 (ETMY)",
+    "EPWLocationInfo": {
+      "CityName": "Al Minya",
+      "StateName": "Al Minya",
+      "Country": "EGY",
+      "WeatherSource": "ETMY",
+      "WMOID": "623870",
+      "Latitude": 28.08,
+      "Longitude": 30.73,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 40.0
+    }
+  },
+  {
+    "OriginalFileName": "Algiers 603900 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "ALGIERS",
+      "StateName": "-",
+      "Country": "DZA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "603900",
+      "Latitude": 36.72,
+      "Longitude": 3.25,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 25.0
+    }
+  },
+  {
+    "OriginalFileName": "Zamosc 125950 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Zamosc",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "125950",
+      "Latitude": 50.75,
+      "Longitude": 23.25,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 213.0
+    }
+  },
+  {
+    "OriginalFileName": "Wroclaw 124240 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Wroclaw",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "124240",
+      "Latitude": 51.10,
+      "Longitude": 17.03,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 124.0
+    }
+  },
+  {
+    "OriginalFileName": "Zakopane 126250 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Zakopane",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "126250",
+      "Latitude": 49.30,
+      "Longitude": 19.97,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 857.0
+    }
+  },
+  {
+    "OriginalFileName": "Wlodawa 124970 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Wlodawa",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "124970",
+      "Latitude": 51.55,
+      "Longitude": 23.55,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 179.0
+    }
+  },
+  {
+    "OriginalFileName": "Warszawa Okecie 123750 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Warszawa Okecie",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "123750",
+      "Latitude": 52.25,
+      "Longitude": 21.00,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 106.0
+    }
+  },
+  {
+    "OriginalFileName": "Wielun 124550 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Wielun",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "124550",
+      "Latitude": 51.22,
+      "Longitude": 18.55,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 201.0
+    }
+  },
+  {
+    "OriginalFileName": "Warsaw 123750 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "WARSAW",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "123750",
+      "Latitude": 52.17,
+      "Longitude": 20.97,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 107.0
+    }
+  },
+  {
+    "OriginalFileName": "Torun 122500 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Torun",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "122500",
+      "Latitude": 51.10,
+      "Longitude": 23.08,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Ustka 121150 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Ustka",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "121150",
+      "Latitude": 54.58,
+      "Longitude": 16.85,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Tarnow 125750 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Tarnow",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "125750",
+      "Latitude": 50.02,
+      "Longitude": 20.98,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 209.0
+    }
+  },
+  {
+    "OriginalFileName": "Terespol 123990 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Terespol",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "123990",
+      "Latitude": 52.08,
+      "Longitude": 23.57,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 137.0
+    }
+  },
+  {
+    "OriginalFileName": "Szczecin 122050 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Szczecin",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "122050",
+      "Latitude": 53.40,
+      "Longitude": 14.67,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Szczecinek 122150 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Szczecinek",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "122150",
+      "Latitude": 53.72,
+      "Longitude": 16.70,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 144.0
+    }
+  },
+  {
+    "OriginalFileName": "Swinoujscie 122000 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Swinoujscie",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "122000",
+      "Latitude": 53.92,
+      "Longitude": 14.25,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Sulejow 124690 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Sulejow",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "124690",
+      "Latitude": 51.37,
+      "Longitude": 19.88,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 189.0
+    }
+  },
+  {
+    "OriginalFileName": "Suwalki 121950 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Suwalki",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "121950",
+      "Latitude": 54.10,
+      "Longitude": 22.93,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 186.0
+    }
+  },
+  {
+    "OriginalFileName": "Sniezka 125100 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Sniezka",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "125100",
+      "Latitude": 50.74,
+      "Longitude": 15.73,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 1.0
+    }
+  },
+  {
+    "OriginalFileName": "Slubice 123100 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Slubice",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "123100",
+      "Latitude": 52.35,
+      "Longitude": 14.58,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Sandomierz 125850 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Sandomierz",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "125850",
+      "Latitude": 50.68,
+      "Longitude": 21.75,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 218.0
+    }
+  },
+  {
+    "OriginalFileName": "Siedlce 123850 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Siedlce",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "123850",
+      "Latitude": 52.17,
+      "Longitude": 22.30,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 155.0
+    }
+  },
+  {
+    "OriginalFileName": "Rzeszow Jasionka 125800 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Rzeszow Jasionka",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "125800",
+      "Latitude": 50.10,
+      "Longitude": 22.02,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 201.0
+    }
+  },
+  {
+    "OriginalFileName": "Raciborz 125400 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Raciborz",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "125400",
+      "Latitude": 50.08,
+      "Longitude": 18.20,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 206.0
+    }
+  },
+  {
+    "OriginalFileName": "Resko 122100 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Resko",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "122100",
+      "Latitude": 53.72,
+      "Longitude": 15.12,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Przemysl 126950 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Przemysl",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "126950",
+      "Latitude": 49.78,
+      "Longitude": 22.78,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 280.0
+    }
+  },
+  {
+    "OriginalFileName": "Poznan 123300 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Poznan",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "123300",
+      "Latitude": 52.42,
+      "Longitude": 16.97,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Poznan 123300 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "POZNAN",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "123300",
+      "Latitude": 52.42,
+      "Longitude": 16.83,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 92.0
+    }
+  },
+  {
+    "OriginalFileName": "Pila 122300 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Pila",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "122300",
+      "Latitude": 53.15,
+      "Longitude": 16.75,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Plock 123600 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Plock",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "123600",
+      "Latitude": 52.55,
+      "Longitude": 19.70,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 109.0
+    }
+  },
+  {
+    "OriginalFileName": "Ostroleka 122850 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Ostroleka",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "122850",
+      "Latitude": 51.17,
+      "Longitude": 19.13,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Olsztyn 122720 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Olsztyn",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "122720",
+      "Latitude": 53.78,
+      "Longitude": 20.48,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 137.0
+    }
+  },
+  {
+    "OriginalFileName": "Opole 125300 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Opole",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "125300",
+      "Latitude": 50.67,
+      "Longitude": 17.95,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 163.0
+    }
+  },
+  {
+    "OriginalFileName": "Mlawa 122700 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Mlawa",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "122700",
+      "Latitude": 53.12,
+      "Longitude": 20.38,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 149.0
+    }
+  },
+  {
+    "OriginalFileName": "Nowy Sacz 126600 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Nowy Sacz",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "126600",
+      "Latitude": 49.58,
+      "Longitude": 20.50,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 295.0
+    }
+  },
+  {
+    "OriginalFileName": "Lublin Radawiec 124950 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Lublin Radawiec",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "124950",
+      "Latitude": 51.25,
+      "Longitude": 22.50,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 240.0
+    }
+  },
+  {
+    "OriginalFileName": "Mikolajki 122800 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Mikolajki",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "122800",
+      "Latitude": 53.80,
+      "Longitude": 21.58,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 132.0
+    }
+  },
+  {
+    "OriginalFileName": "Leszno 124180 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Leszno",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "124180",
+      "Latitude": 51.83,
+      "Longitude": 16.53,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Lodz 124650 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Lodz",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "124650",
+      "Latitude": 51.75,
+      "Longitude": 19.47,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 190.0
+    }
+  },
+  {
+    "OriginalFileName": "Legnica 124150 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Legnica",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "124150",
+      "Latitude": 51.20,
+      "Longitude": 16.20,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 124.0
+    }
+  },
+  {
+    "OriginalFileName": "Lesko 126900 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Lesko",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "126900",
+      "Latitude": 49.45,
+      "Longitude": 22.32,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 422.0
+    }
+  },
+  {
+    "OriginalFileName": "Lebork 121250 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Lebork",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "121250",
+      "Latitude": 54.55,
+      "Longitude": 17.75,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Krosno 126700 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Krosno",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "126700",
+      "Latitude": 49.68,
+      "Longitude": 21.78,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 310.0
+    }
+  },
+  {
+    "OriginalFileName": "Leba 121200 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Leba",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "121200",
+      "Latitude": 54.75,
+      "Longitude": 17.55,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Krakow 125660 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "KRAKOW",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "125660",
+      "Latitude": 50.08,
+      "Longitude": 19.80,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 237.0
+    }
+  },
+  {
+    "OriginalFileName": "Koszalin 121050 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Koszalin",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "121050",
+      "Latitude": 54.20,
+      "Longitude": 16.18,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Krakow 125660 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Krakow",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "125660",
+      "Latitude": 50.08,
+      "Longitude": 19.92,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 237.0
+    }
+  },
+  {
+    "OriginalFileName": "Kolobrzeg 121000 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Kolobrzeg",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "121000",
+      "Latitude": 54.18,
+      "Longitude": 15.58,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Kolobrzeg 121000 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "KOLOBRZEG",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "121000",
+      "Latitude": 54.18,
+      "Longitude": 15.58,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Klodzko 125200 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Klodzko",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "125200",
+      "Latitude": 50.43,
+      "Longitude": 16.65,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 375.0
+    }
+  },
+  {
+    "OriginalFileName": "Kolo 123450 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Kolo",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "123450",
+      "Latitude": 52.18,
+      "Longitude": 18.62,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 117.0
+    }
+  },
+  {
+    "OriginalFileName": "Ketrzyn 121850 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Ketrzyn",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "121850",
+      "Latitude": 54.08,
+      "Longitude": 21.38,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 110.0
+    }
+  },
+  {
+    "OriginalFileName": "Kielce 125700 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Kielce",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "125700",
+      "Latitude": 50.83,
+      "Longitude": 20.67,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 261.0
+    }
+  },
+  {
+    "OriginalFileName": "Kasprowy Wierch 126500 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Kasprowy Wierch",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "126500",
+      "Latitude": 49.28,
+      "Longitude": 19.97,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 1.0
+    }
+  },
+  {
+    "OriginalFileName": "Katowice 125600 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Katowice",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "125600",
+      "Latitude": 50.23,
+      "Longitude": 19.03,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 304.0
+    }
+  },
+  {
+    "OriginalFileName": "Kalisz 124350 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Kalisz",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "124350",
+      "Latitude": 51.75,
+      "Longitude": 18.08,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 140.0
+    }
+  },
+  {
+    "OriginalFileName": "Hel 121350 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Hel",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "121350",
+      "Latitude": 54.62,
+      "Longitude": 18.78,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Jelenia Gora 125000 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Jelenia Gora",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "125000",
+      "Latitude": 50.90,
+      "Longitude": 15.73,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 344.0
+    }
+  },
+  {
+    "OriginalFileName": "Gdansk Port Polnocny 121400 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Gdansk Port Polnocny",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "121400",
+      "Latitude": 54.35,
+      "Longitude": 18.63,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Gorzow Wlkp 123000 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Gorzow Wlkp",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "123000",
+      "Latitude": 52.73,
+      "Longitude": 15.23,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Elblag 121600 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Elblag",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "121600",
+      "Latitude": 54.15,
+      "Longitude": 19.43,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Chojnice 122350 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Chojnice",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "122350",
+      "Latitude": 53.70,
+      "Longitude": 17.57,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 172.0
+    }
+  },
+  {
+    "OriginalFileName": "Czestochowa 125500 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Czestochowa",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "125500",
+      "Latitude": 50.75,
+      "Longitude": 19.00,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 295.0
+    }
+  },
+  {
+    "OriginalFileName": "Bydgoszcz 122400 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Bydgoszcz",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "122400",
+      "Latitude": 53.15,
+      "Longitude": 18.00,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Bialystok 122950 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Bialystok",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "122950",
+      "Latitude": 53.00,
+      "Longitude": 23.25,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 151.0
+    }
+  },
+  {
+    "OriginalFileName": "Bielsko Biala 126000 (IMGW)",
+    "EPWLocationInfo": {
+      "CityName": "Bielsko Biala",
+      "StateName": "-",
+      "Country": "POL",
+      "WeatherSource": "IMGW",
+      "WMOID": "126000",
+      "Latitude": 49.67,
+      "Longitude": 19.25,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 399.0
+    }
+  },
+  {
+    "OriginalFileName": "Oslo Fornebu 014880 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "OSLO/FORNEBU",
+      "StateName": "-",
+      "Country": "NOR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "014880",
+      "Latitude": 59.90,
+      "Longitude": 10.62,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 17.0
+    }
+  },
+  {
+    "OriginalFileName": "Bergen 013110 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BERGEN",
+      "StateName": "-",
+      "Country": "NOR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "013110",
+      "Latitude": 60.30,
+      "Longitude": 5.22,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 50.0
+    }
+  },
+  {
+    "OriginalFileName": "Groningen 062800 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "GRONINGEN",
+      "StateName": "-",
+      "Country": "NLD",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "062800",
+      "Latitude": 53.13,
+      "Longitude": 6.58,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "Beek 063800 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BEEK",
+      "StateName": "-",
+      "Country": "NLD",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "063800",
+      "Latitude": 50.92,
+      "Longitude": 5.78,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 116.0
+    }
+  },
+  {
+    "OriginalFileName": "Amsterdam 062400 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "AMSTERDAM",
+      "StateName": "-",
+      "Country": "NLD",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "062400",
+      "Latitude": 52.30,
+      "Longitude": 4.77,
+      "TimeZoneOffset": 1.0,
+      "Elevation": -2.0
+    }
+  },
+  {
+    "OriginalFileName": "Kaunas 266290 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "KAUNAS",
+      "StateName": "-",
+      "Country": "LTU",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "266290",
+      "Latitude": 54.88,
+      "Longitude": 23.88,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 75.0
+    }
+  },
+  {
+    "OriginalFileName": "Verona-Villafranca 160900 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Verona-Villafranca",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160900",
+      "Latitude": 45.38,
+      "Longitude": 10.87,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 68.0
+    }
+  },
+  {
+    "OriginalFileName": "Vicenza 160940 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Vicenza",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160940",
+      "Latitude": 45.57,
+      "Longitude": 11.52,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 39.0
+    }
+  },
+  {
+    "OriginalFileName": "Venezia-Tessera 161050 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Venezia-Tessera",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "161050",
+      "Latitude": 45.50,
+      "Longitude": 12.33,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Venice 161050 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "VENICE",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "161050",
+      "Latitude": 45.50,
+      "Longitude": 12.33,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Ustica 164000 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Ustica",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "164000",
+      "Latitude": 38.70,
+      "Longitude": 13.18,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 251.0
+    }
+  },
+  {
+    "OriginalFileName": "Trieste 161100 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Trieste",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "161100",
+      "Latitude": 45.65,
+      "Longitude": 13.75,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 20.0
+    }
+  },
+  {
+    "OriginalFileName": "Udine-Campoformido 160440 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Udine-Campoformido",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160440",
+      "Latitude": 46.03,
+      "Longitude": 13.18,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 92.0
+    }
+  },
+  {
+    "OriginalFileName": "Treviso-S Angelo 160990 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Treviso-S Angelo",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160990",
+      "Latitude": 45.65,
+      "Longitude": 12.18,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 18.0
+    }
+  },
+  {
+    "OriginalFileName": "Treviso-Istrana 160980 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Treviso-Istrana",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160980",
+      "Latitude": 45.68,
+      "Longitude": 12.10,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 45.0
+    }
+  },
+  {
+    "OriginalFileName": "Trapani-Birgi 164290 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Trapani-Birgi",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "164290",
+      "Latitude": 37.92,
+      "Longitude": 12.50,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Torino 160590 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "TORINO",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "160590",
+      "Latitude": 45.22,
+      "Longitude": 7.65,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 287.0
+    }
+  },
+  {
+    "OriginalFileName": "Torino-Caselle 160590 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Torino-Caselle",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160590",
+      "Latitude": 45.18,
+      "Longitude": 7.65,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 282.0
+    }
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "Taranto 163250 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Taranto",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "163250",
+      "Latitude": 40.43,
+      "Longitude": 16.88,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "Tarvisio 160400 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Tarvisio",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160400",
+      "Latitude": 46.50,
+      "Longitude": 13.58,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 778.0
+    }
+  },
+  {
+    "OriginalFileName": "S Maria di Leuca 163600 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "S Maria di Leuca",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "163600",
+      "Latitude": 39.65,
+      "Longitude": 18.35,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 112.0
+    }
+  },
+  {
+    "OriginalFileName": "San Remo 161530 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "San Remo",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "161530",
+      "Latitude": 43.95,
+      "Longitude": 8.17,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 221.0
+    }
+  },
+  {
+    "OriginalFileName": "Rome 162420 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "ROME",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "162420",
+      "Latitude": 41.80,
+      "Longitude": 12.23,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Roma-Ciampino 162390 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Roma-Ciampino",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "162390",
+      "Latitude": 41.80,
+      "Longitude": 12.58,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 131.0
+    }
+  },
+  {
+    "OriginalFileName": "Roma-Fiumicino 162420 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Roma-Fiumicino",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "162420",
+      "Latitude": 41.80,
+      "Longitude": 12.23,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Rimini 161490 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Rimini",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "161490",
+      "Latitude": 44.03,
+      "Longitude": 12.62,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 13.0
+    }
+  },
+  {
+    "OriginalFileName": "Potenza 163000 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Potenza",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "163000",
+      "Latitude": 40.63,
+      "Longitude": 15.80,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 843.0
+    }
+  },
+  {
+    "OriginalFileName": "Pratica di Mare 162450 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Pratica di Mare",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "162450",
+      "Latitude": 41.65,
+      "Longitude": 12.60,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 21.0
+    }
+  },
+  {
+    "OriginalFileName": "Pisa 161580 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "PISA",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "161580",
+      "Latitude": 43.68,
+      "Longitude": 10.38,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 1.0
+    }
+  },
+  {
+    "OriginalFileName": "Ponza 162800 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Ponza",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "162800",
+      "Latitude": 40.92,
+      "Longitude": 12.95,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 185.0
+    }
+  },
+  {
+    "OriginalFileName": "Pisa-S Gusto 161580 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Pisa-S Gusto",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "161580",
+      "Latitude": 43.67,
+      "Longitude": 10.38,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 1.0
+    }
+  },
+  {
+    "OriginalFileName": "Piacenza 160840 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Piacenza",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160840",
+      "Latitude": 44.92,
+      "Longitude": 9.73,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 134.0
+    }
+  },
+  {
+    "OriginalFileName": "Pianosa (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Pianosa",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "-",
+      "Latitude": 42.58,
+      "Longitude": 10.10,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 27.0
+    }
+  },
+  {
+    "OriginalFileName": "Pescara 162300 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Pescara",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "162300",
+      "Latitude": 42.85,
+      "Longitude": 14.20,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 16.0
+    }
+  },
+  {
+    "OriginalFileName": "Perugia 161810 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Perugia",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "161810",
+      "Latitude": 43.08,
+      "Longitude": 12.50,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 213.0
+    }
+  },
+  {
+    "OriginalFileName": "Parma 161300 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Parma",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "161300",
+      "Latitude": 44.48,
+      "Longitude": 10.19,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 68.0
+    }
+  },
+  {
+    "OriginalFileName": "Patelleria 164700 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Patelleria",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "164700",
+      "Latitude": 36.82,
+      "Longitude": 11.97,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 170.0
+    }
+  },
+  {
+    "OriginalFileName": "Palermo 164050 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "PALERMO",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "164050",
+      "Latitude": 38.18,
+      "Longitude": 13.10,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 34.0
+    }
+  },
+  {
+    "OriginalFileName": "Palermo-Punta Raisi 164050 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Palermo-Punta Raisi",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "164050",
+      "Latitude": 38.18,
+      "Longitude": 13.10,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 21.0
+    }
+  },
+  {
+    "OriginalFileName": "Palermo-Boccadifalco 164000 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Palermo-Boccadifalco",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "164000",
+      "Latitude": 38.10,
+      "Longitude": 13.30,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 117.0
+    }
+  },
+  {
+    "OriginalFileName": "Olbia-Costa Smeralda 165310 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Olbia-Costa Smeralda",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "165310",
+      "Latitude": 40.93,
+      "Longitude": 8.50,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Paganella 160220 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Paganella",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160220",
+      "Latitude": 46.15,
+      "Longitude": 11.03,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 2129.0
+    }
+  },
+  {
+    "OriginalFileName": "Napoli-Capodichino 162890 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Napoli-Capodichino",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "162890",
+      "Latitude": 40.85,
+      "Longitude": 14.30,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 72.0
+    }
+  },
+  {
+    "OriginalFileName": "Novara-Cameri 160640 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Novara-Cameri",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160640",
+      "Latitude": 45.65,
+      "Longitude": 8.67,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 178.0
+    }
+  },
+  {
+    "OriginalFileName": "Monte Terminillo 162190 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Monte Terminillo",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "162190",
+      "Latitude": 42.47,
+      "Longitude": 12.98,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 1875.0
+    }
+  },
+  {
+    "OriginalFileName": "Naples 162890 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "NAPLES",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "162890",
+      "Latitude": 40.85,
+      "Longitude": 14.30,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 72.0
+    }
+  },
+  {
+    "OriginalFileName": "Monte Cimone 161340 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Monte Cimone",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "161340",
+      "Latitude": 44.20,
+      "Longitude": 10.70,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 2137.0
+    }
+  },
+  {
+    "OriginalFileName": "Milano-Malpensa 160660 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Milano-Malpensa",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160660",
+      "Latitude": 45.62,
+      "Longitude": 8.73,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 211.0
+    }
+  },
+  {
+    "OriginalFileName": "Milano-Linate 160800 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Milano-Linate",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160800",
+      "Latitude": 45.43,
+      "Longitude": 9.28,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 103.0
+    }
+  },
+  {
+    "OriginalFileName": "Milan 160660 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "MILAN",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "160660",
+      "Latitude": 45.62,
+      "Longitude": 8.73,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 211.0
+    }
+  },
+  {
+    "OriginalFileName": "Messina 164200 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Messina",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "164200",
+      "Latitude": 38.20,
+      "Longitude": 15.55,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 59.0
+    }
+  },
+  {
+    "OriginalFileName": "Messina 164200 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "MESSINA",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "164200",
+      "Latitude": 38.20,
+      "Longitude": 15.55,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 51.0
+    }
+  },
+  {
+    "OriginalFileName": "Marina di Ravenna  (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Marina di Ravenna",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "-",
+      "Latitude": 44.47,
+      "Longitude": 12.28,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Grosseto 162060 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Grosseto",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "162060",
+      "Latitude": 42.75,
+      "Longitude": 11.07,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Lecce 163320 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Lecce",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "163320",
+      "Latitude": 40.23,
+      "Longitude": 18.15,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 48.0
+    }
+  },
+  {
+    "OriginalFileName": "Genova 161200 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "GENOVA",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "161200",
+      "Latitude": 44.42,
+      "Longitude": 8.85,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Gioia del Colle 163120 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Gioia del Colle",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "163120",
+      "Latitude": 40.77,
+      "Longitude": 16.93,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 345.0
+    }
+  },
+  {
+    "OriginalFileName": "Genova-Sestri 161200 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Genova-Sestri",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "161200",
+      "Latitude": 44.42,
+      "Longitude": 8.85,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Foggia 162610 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Foggia",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "162610",
+      "Latitude": 41.42,
+      "Longitude": 15.53,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 80.0
+    }
+  },
+  {
+    "OriginalFileName": "Gela 164530 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Gela",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "164530",
+      "Latitude": 37.08,
+      "Longitude": 14.22,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 11.0
+    }
+  },
+  {
+    "OriginalFileName": "Enna 164500 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Enna",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "164500",
+      "Latitude": 37.57,
+      "Longitude": 14.28,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 965.0
+    }
+  },
+  {
+    "OriginalFileName": "Firenze-Peretola 161700 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Firenze-Peretola",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "161700",
+      "Latitude": 43.80,
+      "Longitude": 11.20,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 38.0
+    }
+  },
+  {
+    "OriginalFileName": "Cozzo Spadaro 164800 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Cozzo Spadaro",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "164800",
+      "Latitude": 36.68,
+      "Longitude": 15.13,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 51.0
+    }
+  },
+  {
+    "OriginalFileName": "Crotone 163500 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Crotone",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "163500",
+      "Latitude": 39.07,
+      "Longitude": 17.07,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 158.0
+    }
+  },
+  {
+    "OriginalFileName": "Catania-Fontanarossa 164600 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Catania-Fontanarossa",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "164600",
+      "Latitude": 37.47,
+      "Longitude": 15.05,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 17.0
+    }
+  },
+  {
+    "OriginalFileName": "Catania-Sigonella 164590 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Catania-Sigonella",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "164590",
+      "Latitude": 37.40,
+      "Longitude": 14.92,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 22.0
+    }
+  },
+  {
+    "OriginalFileName": "Capo Palinuro 163100 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Capo Palinuro",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "163100",
+      "Latitude": 40.02,
+      "Longitude": 15.28,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 185.0
+    }
+  },
+  {
+    "OriginalFileName": "Campobasso 162520 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Campobasso",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "162520",
+      "Latitude": 41.57,
+      "Longitude": 14.65,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 793.0
+    }
+  },
+  {
+    "OriginalFileName": "Capo Bellavista 165500 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Capo Bellavista",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "165500",
+      "Latitude": 39.93,
+      "Longitude": 9.72,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 156.0
+    }
+  },
+  {
+    "OriginalFileName": "Brindisi 163200 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BRINDISI",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "163200",
+      "Latitude": 40.65,
+      "Longitude": 17.95,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Cagliari-Elmas 165600 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Cagliari-Elmas",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "165600",
+      "Latitude": 39.25,
+      "Longitude": 9.05,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 18.0
+    }
+  },
+  {
+    "OriginalFileName": "Brescia-Ghedi 160880 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Brescia-Ghedi",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160880",
+      "Latitude": 45.42,
+      "Longitude": 10.28,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 102.0
+    }
+  },
+  {
+    "OriginalFileName": "Brindisi 163200 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Brindisi",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "163200",
+      "Latitude": 40.65,
+      "Longitude": 17.95,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Bolzano 160200 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Bolzano",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160200",
+      "Latitude": 46.47,
+      "Longitude": 11.33,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 241.0
+    }
+  },
+  {
+    "OriginalFileName": "Bonifati 163370 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Bonifati",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "163370",
+      "Latitude": 39.58,
+      "Longitude": 15.88,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 484.0
+    }
+  },
+  {
+    "OriginalFileName": "Bergamo-Orio al Serio 160760 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Bergamo-Orio al Serio",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160760",
+      "Latitude": 45.67,
+      "Longitude": 9.70,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 238.0
+    }
+  },
+  {
+    "OriginalFileName": "Bologna-Borgo Panigale 161400 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Bologna-Borgo Panigale",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "161400",
+      "Latitude": 44.53,
+      "Longitude": 11.30,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 49.0
+    }
+  },
+  {
+    "OriginalFileName": "Aviano 160370 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Aviano",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "160370",
+      "Latitude": 46.03,
+      "Longitude": 12.60,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 128.0
+    }
+  },
+  {
+    "OriginalFileName": "Bari-Palese Macchie 162700 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Bari-Palese Macchie",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "162700",
+      "Latitude": 41.13,
+      "Longitude": 16.78,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 49.0
+    }
+  },
+  {
+    "OriginalFileName": "Ancona 161910 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Ancona",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "161910",
+      "Latitude": 43.62,
+      "Longitude": 13.52,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 105.0
+    }
+  },
+  {
+    "OriginalFileName": "Ancona-Falconara 161910 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Ancona-Falconara",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "161910",
+      "Latitude": 43.62,
+      "Longitude": 13.37,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "Alghero 165200 (IGDG)",
+    "EPWLocationInfo": {
+      "CityName": "Alghero",
+      "StateName": "-",
+      "Country": "ITA",
+      "WeatherSource": "IGDG",
+      "WMOID": "165200",
+      "Latitude": 40.63,
+      "Longitude": 8.28,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 40.0
+    }
+  },
+  {
+    "OriginalFileName": "Jerusalem 401840 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "JERUSALEM",
+      "StateName": "-",
+      "Country": "ISR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "401840",
+      "Latitude": 31.78,
+      "Longitude": 35.22,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 782.0
+    }
+  },
+  {
+    "OriginalFileName": "Tel Aviv-Bet Dagan 401790 (MSI)",
+    "EPWLocationInfo": {
+      "CityName": "Tel Aviv-Bet Dagan",
+      "StateName": "-",
+      "Country": "ISR",
+      "WeatherSource": "MSI",
+      "WMOID": "401790",
+      "Latitude": 32.00,
+      "Longitude": 34.82,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 35.0
+    }
+  },
+  {
+    "OriginalFileName": "Jerusalem-Atarot AP 401840 (MSI)",
+    "EPWLocationInfo": {
+      "CityName": "Jerusalem-Atarot AP",
+      "StateName": "-",
+      "Country": "ISR",
+      "WeatherSource": "MSI",
+      "WMOID": "401840",
+      "Latitude": 31.87,
+      "Longitude": 35.22,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 757.0
+    }
+  },
+  {
+    "OriginalFileName": "Beer Sheva 401900 (MSI)",
+    "EPWLocationInfo": {
+      "CityName": "Beer Sheva City",
+      "StateName": "-",
+      "Country": "ISR",
+      "WeatherSource": "MSI",
+      "WMOID": "401900",
+      "Latitude": 31.25,
+      "Longitude": 34.80,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 280.0
+    }
+  },
+  {
+    "OriginalFileName": "Eilat 401990 (MSI)",
+    "EPWLocationInfo": {
+      "CityName": "Eilat",
+      "StateName": "-",
+      "Country": "ISR",
+      "WeatherSource": "MSI",
+      "WMOID": "401990",
+      "Latitude": 29.55,
+      "Longitude": 34.95,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "Reykjavik 040300 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "REYKJAVIK",
+      "StateName": "-",
+      "Country": "ISL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "040300",
+      "Latitude": 64.13,
+      "Longitude": -21.90,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 61.0
+    }
+  },
+  {
+    "OriginalFileName": "Valentia Observatory 039530 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "VALENTIA OBSERVATORY",
+      "StateName": "-",
+      "Country": "IRL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "039530",
+      "Latitude": 51.93,
+      "Longitude": -10.25,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 14.0
+    }
+  },
+  {
+    "OriginalFileName": "Malin 039800 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "MALIN",
+      "StateName": "-",
+      "Country": "IRL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "039800",
+      "Latitude": 55.37,
+      "Longitude": -7.33,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 25.0
+    }
+  },
+  {
+    "OriginalFileName": "Dublin 039690 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "DUBLIN",
+      "StateName": "-",
+      "Country": "IRL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "039690",
+      "Latitude": 53.43,
+      "Longitude": -6.25,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 85.0
+    }
+  },
+  {
+    "OriginalFileName": "Kilkenny 039600 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "KILKENNY",
+      "StateName": "-",
+      "Country": "IRL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "039600",
+      "Latitude": 52.67,
+      "Longitude": -7.27,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 64.0
+    }
+  },
+  {
+    "OriginalFileName": "Clones 039740 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "CLONES",
+      "StateName": "-",
+      "Country": "IRL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "039740",
+      "Latitude": 54.18,
+      "Longitude": -7.23,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 89.0
+    }
+  },
+  {
+    "OriginalFileName": "Birr 039650 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BIRR",
+      "StateName": "-",
+      "Country": "IRL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "039650",
+      "Latitude": 53.08,
+      "Longitude": -7.88,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 72.0
+    }
+  },
+  {
+    "OriginalFileName": "Belmullet 039760 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BELMULLET",
+      "StateName": "-",
+      "Country": "IRL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "039760",
+      "Latitude": 54.23,
+      "Longitude": -10.00,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Szombathely 128120 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "SZOMBATHELY",
+      "StateName": "-",
+      "Country": "HUN",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "128120",
+      "Latitude": 47.27,
+      "Longitude": 16.63,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 221.0
+    }
+  },
+  {
+    "OriginalFileName": "Debrecen 128820 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "DEBRECEN",
+      "StateName": "-",
+      "Country": "HUN",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "128820",
+      "Latitude": 47.48,
+      "Longitude": 21.63,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 112.0
+    }
+  },
+  {
+    "OriginalFileName": "Thessaloniki 166220 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "THESSALONIKI",
+      "StateName": "-",
+      "Country": "GRC",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "166220",
+      "Latitude": 40.52,
+      "Longitude": 22.97,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "Athens 167160 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "ATHENS",
+      "StateName": "-",
+      "Country": "GRC",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "167160",
+      "Latitude": 37.90,
+      "Longitude": 23.73,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 15.0
+    }
+  },
+  {
+    "OriginalFileName": "Andravida 166820 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "ANDRAVIDA",
+      "StateName": "-",
+      "Country": "GRC",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "166820",
+      "Latitude": 37.92,
+      "Longitude": 21.28,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "Oban 031140 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "OBAN",
+      "StateName": "-",
+      "Country": "GBR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "031140",
+      "Latitude": 56.42,
+      "Longitude": -5.47,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "Leuchars 031710 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "LEUCHARS",
+      "StateName": "-",
+      "Country": "GBR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "031710",
+      "Latitude": 56.38,
+      "Longitude": -2.87,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "London Gatwick 037760 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "LONDON/GATWICK",
+      "StateName": "-",
+      "Country": "GBR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "037760",
+      "Latitude": 51.15,
+      "Longitude": -0.18,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 62.0
+    }
+  },
+  {
+    "OriginalFileName": "Hemsby 034960 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "HEMSBY",
+      "StateName": "-",
+      "Country": "GBR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "034960",
+      "Latitude": 52.68,
+      "Longitude": 1.68,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 14.0
+    }
+  },
+  {
+    "OriginalFileName": "Jersey Channel Islands 038950 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "JERSEY/CHANNEL ISLANDS",
+      "StateName": "-",
+      "Country": "GBR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "038950",
+      "Latitude": 49.22,
+      "Longitude": -2.20,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 84.0
+    }
+  },
+  {
+    "OriginalFileName": "Finningley 033600 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "FINNINGLEY",
+      "StateName": "-",
+      "Country": "GBR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "033600",
+      "Latitude": 53.48,
+      "Longitude": -1.00,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 17.0
+    }
+  },
+  {
+    "OriginalFileName": "Belfast 039170 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BELFAST",
+      "StateName": "-",
+      "Country": "GBR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "039170",
+      "Latitude": 54.65,
+      "Longitude": -6.22,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 81.0
+    }
+  },
+  {
+    "OriginalFileName": "Birmingham 035340 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BIRMINGHAM",
+      "StateName": "-",
+      "Country": "GBR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "035340",
+      "Latitude": 52.45,
+      "Longitude": -1.73,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 99.0
+    }
+  },
+  {
+    "OriginalFileName": "Aughton 033220 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "AUGHTON",
+      "StateName": "-",
+      "Country": "GBR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "033220",
+      "Latitude": 53.55,
+      "Longitude": -2.92,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 56.0
+    }
+  },
+  {
+    "OriginalFileName": "Aberdeen Dyce 030910 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "ABERDEEN/DYCE",
+      "StateName": "-",
+      "Country": "GBR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "030910",
+      "Latitude": 57.20,
+      "Longitude": -2.22,
+      "TimeZoneOffset": 0.0,
+      "Elevation": 65.0
+    }
+  },
+  {
+    "OriginalFileName": "Strasbourg 071900 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "STRASBOURG",
+      "StateName": "-",
+      "Country": "FRA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "071900",
+      "Latitude": 48.55,
+      "Longitude": 7.63,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 154.0
+    }
+  },
+  {
+    "OriginalFileName": "Paris Orly 071490 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "PARIS_ ORLY",
+      "StateName": "-",
+      "Country": "FRA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "071490",
+      "Latitude": 48.73,
+      "Longitude": 2.40,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 96.0
+    }
+  },
+  {
+    "OriginalFileName": "Nantes 072220 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "NANTES",
+      "StateName": "-",
+      "Country": "FRA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "072220",
+      "Latitude": 47.17,
+      "Longitude": -1.60,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 27.0
+    }
+  },
+  {
+    "OriginalFileName": "Nice 076900 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "NICE",
+      "StateName": "-",
+      "Country": "FRA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "076900",
+      "Latitude": 43.65,
+      "Longitude": 7.20,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Montpellier 076430 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "MONTPELLIER",
+      "StateName": "-",
+      "Country": "FRA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "076430",
+      "Latitude": 43.58,
+      "Longitude": 3.97,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Nancy 071800 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "NANCY",
+      "StateName": "-",
+      "Country": "FRA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "071800",
+      "Latitude": 48.68,
+      "Longitude": 6.22,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 217.0
+    }
+  },
+  {
+    "OriginalFileName": "Marseille 076500 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "MARSEILLE",
+      "StateName": "-",
+      "Country": "FRA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "076500",
+      "Latitude": 43.45,
+      "Longitude": 5.23,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 36.0
+    }
+  },
+  {
+    "OriginalFileName": "Dijon 072800 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "DIJON",
+      "StateName": "-",
+      "Country": "FRA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "072800",
+      "Latitude": 47.27,
+      "Longitude": 5.08,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 227.0
+    }
+  }
+]

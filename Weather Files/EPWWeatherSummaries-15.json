@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "Lihue AP 911650 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Lihue",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY--22536",
+      "WMOID": "911650",
+      "Latitude": 21.98,
+      "Longitude": -159.35,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 45.0
+    }
+  },
+  {
+    "OriginalFileName": "Lihue AP 911650 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lihue Airport",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "911650",
+      "Latitude": 21.98,
+      "Longitude": -159.33,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 31.0
+    }
+  },
+  {
+    "OriginalFileName": "Lihue 911650 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "LIHUE",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-22536",
+      "WMOID": "911650",
+      "Latitude": 21.98,
+      "Longitude": -159.35,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 45.0
+    }
+  },
+  {
+    "OriginalFileName": "Lanai AP 911905 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lanai",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "911905",
+      "Latitude": 20.78,
+      "Longitude": -156.95,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 409.0
+    }
+  },
+  {
+    "OriginalFileName": "Kapalua-West Maui AP 911904 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Kapalua",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "911904",
+      "Latitude": 20.95,
+      "Longitude": -156.63,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 80.0
+    }
+  },
+  {
+    "OriginalFileName": "Keahole-Kona Intl AP 911975 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Kona Intl At Keahol",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "911975",
+      "Latitude": 19.73,
+      "Longitude": -156.05,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 15.0
+    }
+  },
+  {
+    "OriginalFileName": "Kailua-Kaneohe Bay MCAS 911760 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Kaneohe Bay Mcas",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "911760",
+      "Latitude": 21.45,
+      "Longitude": -157.78,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Kahului 911900 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "KAHULUI",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-22516",
+      "WMOID": "911900",
+      "Latitude": 20.90,
+      "Longitude": -156.43,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 15.0
+    }
+  },
+  {
+    "OriginalFileName": "Kahului AP 911900 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Kahului Airport",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "911900",
+      "Latitude": 20.90,
+      "Longitude": -156.43,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 16.0
+    }
+  },
+  {
+    "OriginalFileName": "Honolulu Intl AP 911820 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Honolulu Intl Arpt",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "911820",
+      "Latitude": 21.32,
+      "Longitude": -157.93,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Honolulu 911820 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "HONOLULU",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-22521",
+      "WMOID": "911820",
+      "Latitude": 21.33,
+      "Longitude": -157.92,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Honolulu Intl AP 911820 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Honolulu",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY--22521",
+      "WMOID": "911820",
+      "Latitude": 21.35,
+      "Longitude": -157.93,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Hilo Intl AP 912850 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hilo International Ap",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "912850",
+      "Latitude": 19.72,
+      "Longitude": -155.05,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "Hilo 912850 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "HILO",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-21504",
+      "WMOID": "912850",
+      "Latitude": 19.72,
+      "Longitude": -155.07,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 11.0
+    }
+  },
+  {
+    "OriginalFileName": "Hilo Intl AP 912850 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Hilo",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY--21504",
+      "WMOID": "912850",
+      "Latitude": 19.72,
+      "Longitude": -155.07,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 11.0
+    }
+  },
+  {
+    "OriginalFileName": "Barbers Point NAS 911780 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Barbers Point Nas",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "911780",
+      "Latitude": 21.32,
+      "Longitude": -158.07,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 15.0
+    }
+  },
+  {
+    "OriginalFileName": "Barbers Point NAS 911780 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Ewa/Barbers Point NAS",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY--22514",
+      "WMOID": "911780",
+      "Latitude": 21.32,
+      "Longitude": -158.07,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 15.0
+    }
+  },
+  {
+    "OriginalFileName": "Valdosta Rgnl AP 722166 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Valdosta Wb Airport",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722166",
+      "Latitude": 30.78,
+      "Longitude": -83.28,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 61.0
+    }
+  },
+  {
+    "OriginalFileName": "Warner Robins AFB 722175 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Warner Robins Afb",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722175",
+      "Latitude": 32.63,
+      "Longitude": -83.60,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 92.0
+    }
+  },
+  {
+    "OriginalFileName": "Savannah Intl AP 722070 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Savannah Intl Ap",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722070",
+      "Latitude": 32.12,
+      "Longitude": -81.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 14.0
+    }
+  },
+  {
+    "OriginalFileName": "Valdosta-Moody AFB 747810 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Moody Afb Valdosta",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747810",
+      "Latitude": 30.97,
+      "Longitude": -83.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 71.0
+    }
+  },
+  {
+    "OriginalFileName": "Savannah Intl AP 722070 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Savannah",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY-- 3822",
+      "WMOID": "722070",
+      "Latitude": 32.13,
+      "Longitude": -81.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 15.0
+    }
+  },
+  {
+    "OriginalFileName": "Savannah 722070 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SAVANNAH",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-03822",
+      "WMOID": "722070",
+      "Latitude": 32.13,
+      "Longitude": -81.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 16.0
+    }
+  },
+  {
+    "OriginalFileName": "Savannah-Hunter AAF 747804 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hunter Aaf",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747804",
+      "Latitude": 32.00,
+      "Longitude": -81.15,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 13.0
+    }
+  },
+  {
+    "OriginalFileName": "Marietta-Dobbins AFB 722270 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Marietta Dobbins Afb",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722270",
+      "Latitude": 33.92,
+      "Longitude": -84.52,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 330.0
+    }
+  },
+  {
+    "OriginalFileName": "Rome-Richard B Russell AP 723200 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Rome R B Russell Ap",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723200",
+      "Latitude": 34.35,
+      "Longitude": -85.17,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 195.0
+    }
+  },
+  {
+    "OriginalFileName": "Macon 722170 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "MACON",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-03813",
+      "WMOID": "722170",
+      "Latitude": 32.70,
+      "Longitude": -83.65,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 110.0
+    }
+  },
+  {
+    "OriginalFileName": "Macon-Middle Georgia Rgnl AP 722170 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Macon Middle Ga Regional Ap",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722170",
+      "Latitude": 32.68,
+      "Longitude": -83.65,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 108.0
+    }
+  },
+  {
+    "OriginalFileName": "Macon-Middle Georgia Rgnl AP 722170 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Macon",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY-- 3813",
+      "WMOID": "722170",
+      "Latitude": 32.70,
+      "Longitude": -83.65,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 110.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Benning-Lawson Field 722250 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Benning Lawson",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722250",
+      "Latitude": 32.35,
+      "Longitude": -85.00,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 88.0
+    }
+  },
+  {
+    "OriginalFileName": "Fulton County AP 722195 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fulton Co Arpt Brow",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722195",
+      "Latitude": 33.77,
+      "Longitude": -84.52,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 263.0
+    }
+  },
+  {
+    "OriginalFileName": "Dekalb Peachtree AP 722196 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Dekalb Peachtree",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722196",
+      "Latitude": 33.87,
+      "Longitude": -84.30,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 313.0
+    }
+  },
+  {
+    "OriginalFileName": "Columbus 722255 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "COLUMBUS",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93842",
+      "WMOID": "722255",
+      "Latitude": 32.52,
+      "Longitude": -84.95,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 136.0
+    }
+  },
+  {
+    "OriginalFileName": "Columbus Metro AP 722255 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Columbus Metropolitan Arpt",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722255",
+      "Latitude": 32.52,
+      "Longitude": -84.95,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 120.0
+    }
+  },
+  {
+    "OriginalFileName": "Brunswick-Malcolm McKinnon AP 722137 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Brunswick Malcolm Mckinnon Ap",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722137",
+      "Latitude": 31.15,
+      "Longitude": -81.38,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "Brunswick-Golden Isles AP 722136 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Brunswick Golden Is",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722136",
+      "Latitude": 31.25,
+      "Longitude": -81.47,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "Augusta 722180 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "AUGUSTA",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-03820",
+      "WMOID": "722180",
+      "Latitude": 33.37,
+      "Longitude": -81.97,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 45.0
+    }
+  },
+  {
+    "OriginalFileName": "Augusta-Bush-Field 722180 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Augusta Bush Field",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722180",
+      "Latitude": 33.37,
+      "Longitude": -81.97,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 40.0
+    }
+  },
+  {
+    "OriginalFileName": "Augusta-Bush-Field 722180 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Augusta",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY-- 3820",
+      "WMOID": "722180",
+      "Latitude": 33.37,
+      "Longitude": -81.97,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 45.0
+    }
+  },
+  {
+    "OriginalFileName": "Atlanta 722190 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ATLANTA",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13874",
+      "WMOID": "722190",
+      "Latitude": 33.65,
+      "Longitude": -84.43,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 315.0
+    }
+  },
+  {
+    "OriginalFileName": "Atlanta-Hartsfield-Jackson Intl AP 722190 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Atlanta Hartsfield Intl Ap",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722190",
+      "Latitude": 33.63,
+      "Longitude": -84.43,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 308.0
+    }
+  },
+  {
+    "OriginalFileName": "Atlanta-Hartsfield-Jackson Intl AP 722190 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Atlanta",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY--13874",
+      "WMOID": "722190",
+      "Latitude": 33.65,
+      "Longitude": -84.42,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 315.0
+    }
+  },
+  {
+    "OriginalFileName": "Athens 723110 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ATHENS",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13873",
+      "WMOID": "723110",
+      "Latitude": 33.95,
+      "Longitude": -83.32,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 244.0
+    }
+  },
+  {
+    "OriginalFileName": "Athens-Ben Epps AP 723110 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Athens Ben Epps Ap",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723110",
+      "Latitude": 33.95,
+      "Longitude": -83.33,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 244.0
+    }
+  },
+  {
+    "OriginalFileName": "Alma-Bacon County AP 722135 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Alma Bacon County Ap",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722135",
+      "Latitude": 31.53,
+      "Longitude": -82.50,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 63.0
+    }
+  },
+  {
+    "OriginalFileName": "Albany-Dougherty County AP 722160 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Albany Dougherty County Ap",
+      "StateName": "GA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722160",
+      "Latitude": 31.53,
+      "Longitude": -84.18,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 58.0
+    }
+  },
+  {
+    "OriginalFileName": "Whiting Field NAS 722226 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Whiting Field Naas",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722226",
+      "Latitude": 30.72,
+      "Longitude": -87.02,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 54.0
+    }
+  },
+  {
+    "OriginalFileName": "West Palm Beach Intl AP 722030 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "West Palm Beach",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY--12844",
+      "WMOID": "722030",
+      "Latitude": 26.68,
+      "Longitude": -80.12,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "West Palm Beach Intl AP 722030 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "West Palm Beach Intl Arpt",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722030",
+      "Latitude": 26.68,
+      "Longitude": -80.10,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Vero Beach Muni AP 722045 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Vero Beach Municipal Arpt",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722045",
+      "Latitude": 27.65,
+      "Longitude": -80.42,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "West Palm Beach 722030 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "WEST_PALM_BEACH",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY2-12844",
+      "WMOID": "722030",
+      "Latitude": 26.68,
+      "Longitude": -80.10,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Tyndall AFB 747750 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Tyndall Afb",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747750",
+      "Latitude": 30.07,
+      "Longitude": -85.58,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Valparaiso-Elgin AFB 722210 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Valparaiso Elgin Afb",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722210",
+      "Latitude": 30.48,
+      "Longitude": -86.52,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 20.0
+    }
+  },
+  {
+    "OriginalFileName": "Tampa Intl AP 722110 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Tampa/Int'l Airport",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY--12842",
+      "WMOID": "722110",
+      "Latitude": 27.97,
+      "Longitude": -82.53,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Tampa Intl AP 722110 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Tampa International Ap",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722110",
+      "Latitude": 27.97,
+      "Longitude": -82.53,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Tampa 722110 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "TAMPA",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY2-12842",
+      "WMOID": "722110",
+      "Latitude": 27.97,
+      "Longitude": -82.53,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Tallahassee Rgnl AP 722140 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Tallahassee",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY--93805",
+      "WMOID": "722140",
+      "Latitude": 30.38,
+      "Longitude": -84.37,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 21.0
+    }
+  },
+  {
+    "OriginalFileName": "Tallahassee Rgnl AP 722140 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Tallahassee Regional Ap  Isis",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722140",
+      "Latitude": 30.38,
+      "Longitude": -84.37,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 21.0
+    }
+  },
+  {
+    "OriginalFileName": "St Petersburg-Clearwater Intl AP 722116 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "St Petersburg Clear",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722116",
+      "Latitude": 27.90,
+      "Longitude": -82.68,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Tallahassee 722140 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "TALLAHASSEE",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93805",
+      "WMOID": "722140",
+      "Latitude": 30.38,
+      "Longitude": -84.37,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 21.0
+    }
+  },
+  {
+    "OriginalFileName": "St Petersburg-Albert Whitted Station 722104 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "St Petersburg Albert Whitted",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722104",
+      "Latitude": 27.77,
+      "Longitude": -82.63,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Southwest Florida Intl AP 722108 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Southwest Florida I",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722108",
+      "Latitude": 26.53,
+      "Longitude": -81.75,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "Pensacola Rgnl AP 722223 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Pensacola Regional Ap",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722223",
+      "Latitude": 30.48,
+      "Longitude": -87.18,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 34.0
+    }
+  },
+  {
+    "OriginalFileName": "Sarasota-Bradenton Intl AP 722115 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sarasota Bradenton",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722115",
+      "Latitude": 27.38,
+      "Longitude": -82.55,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Pensacola-Forest Sherman NAS 722225 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Pensacola Forest Sherman Nas",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722225",
+      "Latitude": 30.35,
+      "Longitude": -87.32,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Orlando Intl AP 722050 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Orlando Intl Arpt",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722050",
+      "Latitude": 28.43,
+      "Longitude": -81.33,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 29.0
+    }
+  },
+  {
+    "OriginalFileName": "Panama City-Bay County AP 722245 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Panama City Bay Co",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722245",
+      "Latitude": 30.20,
+      "Longitude": -85.68,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Orlando Executive AP 722053 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Orlando Executive Ap",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722053",
+      "Latitude": 28.55,
+      "Longitude": -81.33,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 33.0
+    }
+  },
+  {
+    "OriginalFileName": "Orlando Executive AP 722053 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Orlando",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY--12841",
+      "WMOID": "722053",
+      "Latitude": 28.55,
+      "Longitude": -81.33,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 32.0
+    }
+  },
+  {
+    "OriginalFileName": "Orlando-Sanford AP 722057 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Orlando Sanford Airport",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722057",
+      "Latitude": 28.78,
+      "Longitude": -81.25,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 17.0
+    }
+  },
+  {
+    "OriginalFileName": "Ocala Muni AWOS 722055 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Ocala Muni  Awos",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722055",
+      "Latitude": 29.17,
+      "Longitude": -82.22,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 27.0
+    }
+  },
+  {
+    "OriginalFileName": "Naples Muni AP 722038 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Naples Municipal",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722038",
+      "Latitude": 26.15,
+      "Longitude": -81.77,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Miami Intl AP 722020 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Miami Intl Ap",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722020",
+      "Latitude": 25.82,
+      "Longitude": -80.30,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 11.0
+    }
+  },
+  {
+    "OriginalFileName": "NASA Shuttle Landing Facility 747946 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Nasa Shuttle Fclty",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747946",
+      "Latitude": 28.62,
+      "Longitude": -80.72,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Miami Intl AP 722020 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Miami/Int'l Airport",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY--12839",
+      "WMOID": "722020",
+      "Latitude": 25.82,
+      "Longitude": -80.28,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "Miami 722020 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "MIAMI",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY2-12839",
+      "WMOID": "722020",
+      "Latitude": 25.80,
+      "Longitude": -80.27,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Miami-Opa Locka AP 722024 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Miami Opa Locka",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722024",
+      "Latitude": 25.90,
+      "Longitude": -80.28,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Miami-Kendall-Tamiami Executive AP 722029 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Miami Kendall Tamia",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722029",
+      "Latitude": 25.65,
+      "Longitude": -80.43,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Melbourne Rgnl AP 722040 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Melbourne Regional Ap",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722040",
+      "Latitude": 28.12,
+      "Longitude": -80.65,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 11.0
+    }
+  },
+  {
+    "OriginalFileName": "Mayport NS 722066 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mayport Ns",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722066",
+      "Latitude": 30.40,
+      "Longitude": -81.42,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Marathon AP 722016 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Marathon Airport",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722016",
+      "Latitude": 24.73,
+      "Longitude": -81.05,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Lakeland Linder Rgnl AP 722119 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lakeland Linder Rgn",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722119",
+      "Latitude": 27.98,
+      "Longitude": -82.02,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 43.0
+    }
+  },
+  {
+    "OriginalFileName": "MacDill AFB 747880 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Macdill Afb",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747880",
+      "Latitude": 27.85,
+      "Longitude": -82.52,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "Key West NAS 722015 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Key West Nas",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722015",
+      "Latitude": 24.58,
+      "Longitude": -81.68,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Key West Intl AP 722010 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Key West Intl Arpt",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722010",
+      "Latitude": 24.55,
+      "Longitude": -81.75,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 1.0
+    }
+  },
+  {
+    "OriginalFileName": "Jacksonville NAS 722065 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Jacksonville Nas",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722065",
+      "Latitude": 30.23,
+      "Longitude": -81.67,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "Key West 722010 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "KEY_WEST",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY2-12836",
+      "WMOID": "722010",
+      "Latitude": 24.55,
+      "Longitude": -81.75,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 1.0
+    }
+  },
+  {
+    "OriginalFileName": "Jacksonville Intl AP 722060 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Jacksonville/Int'l Air",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY--13889",
+      "WMOID": "722060",
+      "Latitude": 30.50,
+      "Longitude": -81.70,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "Jacksonville Intl AP 722060 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Jacksonville Intl Arpt",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722060",
+      "Latitude": 30.50,
+      "Longitude": -81.70,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "Jacksonville 722060 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "JACKSONVILLE",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13889",
+      "WMOID": "722060",
+      "Latitude": 30.50,
+      "Longitude": -81.70,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "Homestead AFB 722026 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Homestead Afb",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722026",
+      "Latitude": 25.48,
+      "Longitude": -80.38,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Jacksonville-Craig Field 722068 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Jacksonville Craig",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722068",
+      "Latitude": 30.33,
+      "Longitude": -81.52,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "Gainesville Rgnl AP 722146 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Gainesville Regional Ap",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722146",
+      "Latitude": 29.70,
+      "Longitude": -82.28,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 41.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Pierce-St Lucie County AP 722103 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "St Lucie Co Intl",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722103",
+      "Latitude": 27.48,
+      "Longitude": -80.37,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Walton Beach-Hurlburt Field 747770 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Valparaiso Hurlburt",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747770",
+      "Latitude": 30.42,
+      "Longitude": -86.68,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Myers-Page Field 722106 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Myers Page Field",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722106",
+      "Latitude": 26.58,
+      "Longitude": -81.87,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Lauderdale Executive AP 722039 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Lauderdale",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722039",
+      "Latitude": 26.20,
+      "Longitude": -80.17,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Lauderdale Intl AP 722025 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Lauderdale Hollywood Int",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722025",
+      "Latitude": 26.07,
+      "Longitude": -80.15,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Daytona Beach Intl AP 722056 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Daytona Beach Intl Ap",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722056",
+      "Latitude": 29.18,
+      "Longitude": -81.07,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "Daytona Beach 722056 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "DAYTONA_BEACH",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY2-12834",
+      "WMOID": "722056",
+      "Latitude": 29.18,
+      "Longitude": -81.05,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 12.0
+    }
+  }
+]

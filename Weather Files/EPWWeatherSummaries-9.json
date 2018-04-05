@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "Republic AP 744864 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Republic",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "744864",
+      "Latitude": 40.72,
+      "Longitude": -73.42,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 26.0
+    }
+  },
+  {
+    "OriginalFileName": "Niagara Falls Intl AP 725287 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Niagara Falls Af",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725287",
+      "Latitude": 43.10,
+      "Longitude": -78.95,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 180.0
+    }
+  },
+  {
+    "OriginalFileName": "Poughkeepsie-Dutchess County AP 725036 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Poughkeepsie Dutchess Co Ap",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725036",
+      "Latitude": 41.63,
+      "Longitude": -73.88,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 47.0
+    }
+  },
+  {
+    "OriginalFileName": "Newburgh-Stewart Intl AP 725038 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Stewart Field",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725038",
+      "Latitude": 41.50,
+      "Longitude": -74.10,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 177.0
+    }
+  },
+  {
+    "OriginalFileName": "New York City-Central Park 94728 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "New York City/Central",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY--94728",
+      "WMOID": ".94728",
+      "Latitude": 40.78,
+      "Longitude": -73.96,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 40.0
+    }
+  },
+  {
+    "OriginalFileName": "New York City-Central Park 744860 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "NEW_YORK_CITY",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94728",
+      "WMOID": "744860",
+      "Latitude": 40.78,
+      "Longitude": -73.97,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 57.0
+    }
+  },
+  {
+    "OriginalFileName": "New York-LaGuardia AP 725030 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "New York Laguardia Arpt",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725030",
+      "Latitude": 40.78,
+      "Longitude": -73.88,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "New York-LaGuardia AP 725030 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "New York City/La Guard",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY--14732",
+      "WMOID": "725030",
+      "Latitude": 40.78,
+      "Longitude": -73.88,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "New York-J F Kennedy Intl AP 744860 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "New York J F Kennedy IntL Ar",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "744860",
+      "Latitude": 40.65,
+      "Longitude": -73.80,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "New York-Central Park 725033 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "New York Central Prk Obs Belv",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725033",
+      "Latitude": 40.78,
+      "Longitude": -73.97,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 40.0
+    }
+  },
+  {
+    "OriginalFileName": "Massena AP 726223 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Massena Ap",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726223",
+      "Latitude": 44.93,
+      "Longitude": -74.85,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 65.0
+    }
+  },
+  {
+    "OriginalFileName": "Monticello AWOS 725145 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Monticello Awos",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725145",
+      "Latitude": 41.70,
+      "Longitude": -74.80,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 428.0
+    }
+  },
+  {
+    "OriginalFileName": "Massena AP 726223 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Massena",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY--94725",
+      "WMOID": "726223",
+      "Latitude": 44.93,
+      "Longitude": -74.85,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 65.0
+    }
+  },
+  {
+    "OriginalFileName": "Jamestown AWOS 725235 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Jamestown  Awos",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725235",
+      "Latitude": 42.15,
+      "Longitude": -79.27,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 525.0
+    }
+  },
+  {
+    "OriginalFileName": "Massena 726223 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "MASSENA",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94725",
+      "WMOID": "726223",
+      "Latitude": 44.93,
+      "Longitude": -74.85,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 63.0
+    }
+  },
+  {
+    "OriginalFileName": "Islip-Long Island MacArthur AP 725035 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Islip Long Isl Macarthur Ap",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725035",
+      "Latitude": 40.78,
+      "Longitude": -73.10,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 26.0
+    }
+  },
+  {
+    "OriginalFileName": "Glens Falls-Bennett Mem AP 725185 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Glens Falls Ap",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725185",
+      "Latitude": 43.35,
+      "Longitude": -73.62,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 98.0
+    }
+  },
+  {
+    "OriginalFileName": "Elmira Rgnl AP 725156 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Elmira Corning Regional Ap",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725156",
+      "Latitude": 42.17,
+      "Longitude": -76.90,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 291.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Drum-Wheeler Sack AAF 743700 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Drum Wheeler S",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "743700",
+      "Latitude": 44.05,
+      "Longitude": -75.72,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 211.0
+    }
+  },
+  {
+    "OriginalFileName": "Buffalo 725280 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "BUFFALO",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14733",
+      "WMOID": "725280",
+      "Latitude": 42.93,
+      "Longitude": -78.73,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 215.0
+    }
+  },
+  {
+    "OriginalFileName": "Buffalo-Greater Buffalo Intl AP 725280 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Buffalo Niagara Intl Ap",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725280",
+      "Latitude": 42.93,
+      "Longitude": -78.73,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 215.0
+    }
+  },
+  {
+    "OriginalFileName": "Binghamton 725150 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "BINGHAMTON",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY2-04725",
+      "WMOID": "725150",
+      "Latitude": 42.22,
+      "Longitude": -75.98,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 499.0
+    }
+  },
+  {
+    "OriginalFileName": "Buffalo-Greater Buffalo Intl AP 725280 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Buffalo",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY--14733",
+      "WMOID": "725280",
+      "Latitude": 42.93,
+      "Longitude": -78.73,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 215.0
+    }
+  },
+  {
+    "OriginalFileName": "Binghamton-Edwin A Link Field 725150 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Binghamton Edwin A Link Field",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725150",
+      "Latitude": 42.20,
+      "Longitude": -75.98,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 488.0
+    }
+  },
+  {
+    "OriginalFileName": "Binghamton-Edwin A Link Field 725150 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Binghamton",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY-- 4725",
+      "WMOID": "725150",
+      "Latitude": 42.22,
+      "Longitude": -75.98,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 497.0
+    }
+  },
+  {
+    "OriginalFileName": "Albany County AP 725180 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Albany",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY--14735",
+      "WMOID": "725180",
+      "Latitude": 42.75,
+      "Longitude": -73.80,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 89.0
+    }
+  },
+  {
+    "OriginalFileName": "Albany County AP 725180 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Albany County Ap",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725180",
+      "Latitude": 42.75,
+      "Longitude": -73.80,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 84.0
+    }
+  },
+  {
+    "OriginalFileName": "Albany 725180 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ALBANY",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14735",
+      "WMOID": "725180",
+      "Latitude": 42.75,
+      "Longitude": -73.80,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 89.0
+    }
+  },
+  {
+    "OriginalFileName": "Yucca Flats 723850 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Yucca Flats",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY-- 3133",
+      "WMOID": "723850",
+      "Latitude": 36.95,
+      "Longitude": -116.05,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1196.0
+    }
+  },
+  {
+    "OriginalFileName": "Winnemucca Muni AP 725830 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Winnemucca",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY--24128",
+      "WMOID": "725830",
+      "Latitude": 40.90,
+      "Longitude": -117.80,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1315.0
+    }
+  },
+  {
+    "OriginalFileName": "Winnemucca Muni AP 725830 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Winnemucca Municipal Arpt",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725830",
+      "Latitude": 40.90,
+      "Longitude": -117.80,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1310.0
+    }
+  },
+  {
+    "OriginalFileName": "Tonopah AP 724855 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Tonopah Airport",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724855",
+      "Latitude": 38.07,
+      "Longitude": -117.08,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1655.0
+    }
+  },
+  {
+    "OriginalFileName": "Winnemucca 725830 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "WINNEMUCCA",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24128",
+      "WMOID": "725830",
+      "Latitude": 40.90,
+      "Longitude": -117.80,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1323.0
+    }
+  },
+  {
+    "OriginalFileName": "Tonopah AP 724855 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Tonopah",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY--23153",
+      "WMOID": "724855",
+      "Latitude": 38.05,
+      "Longitude": -117.08,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1654.0
+    }
+  },
+  {
+    "OriginalFileName": "Tonopah 724855 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "TONOPAH",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23153",
+      "WMOID": "724855",
+      "Latitude": 38.07,
+      "Longitude": -117.13,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1653.0
+    }
+  },
+  {
+    "OriginalFileName": "Reno 724880 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "RENO",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23185",
+      "WMOID": "724880",
+      "Latitude": 39.50,
+      "Longitude": -119.78,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1341.0
+    }
+  },
+  {
+    "OriginalFileName": "Reno-Tahoe Intl AP 724880 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Reno Tahoe International Ap",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724880",
+      "Latitude": 39.48,
+      "Longitude": -119.77,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1342.0
+    }
+  },
+  {
+    "OriginalFileName": "Reno-Tahoe Intl AP 724880 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Reno",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY--23185",
+      "WMOID": "724880",
+      "Latitude": 39.50,
+      "Longitude": -119.78,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1341.0
+    }
+  },
+  {
+    "OriginalFileName": "Mercury-Desert Rock AP 723870 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mercury Desert Rock Ap  Surfra",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723870",
+      "Latitude": 36.63,
+      "Longitude": -116.02,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 935.0
+    }
+  },
+  {
+    "OriginalFileName": "Nellis AFB 723865 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Nellis Afb",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723865",
+      "Latitude": 36.25,
+      "Longitude": -115.03,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 573.0
+    }
+  },
+  {
+    "OriginalFileName": "Lovelock-Derby Field 725805 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lovelock Derby Field",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725805",
+      "Latitude": 40.07,
+      "Longitude": -118.55,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1189.0
+    }
+  },
+  {
+    "OriginalFileName": "Lovelock-Derby Field 725805 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Lovelock",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY--24172",
+      "WMOID": "725805",
+      "Latitude": 40.06,
+      "Longitude": -118.55,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1188.0
+    }
+  },
+  {
+    "OriginalFileName": "Las Vegas 723860 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "LAS_VEGAS",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23169",
+      "WMOID": "723860",
+      "Latitude": 36.08,
+      "Longitude": -115.17,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 664.0
+    }
+  },
+  {
+    "OriginalFileName": "Las Vegas-McCarran Intl AP 723860 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Las Vegas Mccarran Intl Ap",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723860",
+      "Latitude": 36.08,
+      "Longitude": -115.15,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 648.0
+    }
+  },
+  {
+    "OriginalFileName": "Las Vegas-McCarran Intl AP 723860 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Las Vegas/Int'l Airpor",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY--23169",
+      "WMOID": "723860",
+      "Latitude": 36.08,
+      "Longitude": -115.17,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 664.0
+    }
+  },
+  {
+    "OriginalFileName": "Fallon NAS 724885 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fallon Naas",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724885",
+      "Latitude": 39.42,
+      "Longitude": -118.72,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1199.0
+    }
+  },
+  {
+    "OriginalFileName": "Ely 724860 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ELY",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23154",
+      "WMOID": "724860",
+      "Latitude": 39.28,
+      "Longitude": -114.85,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1906.0
+    }
+  },
+  {
+    "OriginalFileName": "Ely-Yelland Field 724860 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Ely Yelland Field",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724860",
+      "Latitude": 39.30,
+      "Longitude": -114.85,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1909.0
+    }
+  },
+  {
+    "OriginalFileName": "Ely-Yelland Field 724860 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Ely",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY--23154",
+      "WMOID": "724860",
+      "Latitude": 39.28,
+      "Longitude": -114.85,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1909.0
+    }
+  },
+  {
+    "OriginalFileName": "Elko Muni AP 725825 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Elko Municipal Arpt",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725825",
+      "Latitude": 40.83,
+      "Longitude": -115.80,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1548.0
+    }
+  },
+  {
+    "OriginalFileName": "Elko 725825 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ELKO",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24121",
+      "WMOID": "725825",
+      "Latitude": 40.83,
+      "Longitude": -115.78,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1547.0
+    }
+  },
+  {
+    "OriginalFileName": "Elko Muni AP 725825 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Elko",
+      "StateName": "NV",
+      "Country": "USA",
+      "WeatherSource": "TMY--24121",
+      "WMOID": "725825",
+      "Latitude": 40.83,
+      "Longitude": -115.78,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1565.0
+    }
+  },
+  {
+    "OriginalFileName": "Tucumcari AP 723676 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Tucumcari",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY--23048",
+      "WMOID": "723676",
+      "Latitude": 35.18,
+      "Longitude": -103.60,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1239.0
+    }
+  },
+  {
+    "OriginalFileName": "Tucumcari AP 723676 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Tucumcari Faa Ap",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723676",
+      "Latitude": 35.18,
+      "Longitude": -103.60,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1235.0
+    }
+  },
+  {
+    "OriginalFileName": "Truth or Consequences Muni AP 722710 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Truth Or Consequences Muni Ap",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722710",
+      "Latitude": 33.23,
+      "Longitude": -107.27,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1478.0
+    }
+  },
+  {
+    "OriginalFileName": "Tucumcari 723676 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "TUCUMCARI",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23048",
+      "WMOID": "723676",
+      "Latitude": 35.18,
+      "Longitude": -103.60,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1231.0
+    }
+  },
+  {
+    "OriginalFileName": "Truth or Consequences Muni AP 722710 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Truth or Consequences",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY--93045",
+      "WMOID": "722710",
+      "Latitude": 33.23,
+      "Longitude": -107.25,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1478.0
+    }
+  },
+  {
+    "OriginalFileName": "Taos Muni AP 723663 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Taos Muni Apt Awos",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723663",
+      "Latitude": 36.45,
+      "Longitude": -105.67,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2161.0
+    }
+  },
+  {
+    "OriginalFileName": "Ruidoso-Sierra Blanca Rgnl AP 722683 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sierra Blanca Rgnl",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722683",
+      "Latitude": 33.47,
+      "Longitude": -105.53,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2078.0
+    }
+  },
+  {
+    "OriginalFileName": "Santa Fe County Muni AP 723656 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sata Fe County Municipal Ap",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723656",
+      "Latitude": 35.62,
+      "Longitude": -106.08,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1934.0
+    }
+  },
+  {
+    "OriginalFileName": "Roswell Industrial Air Park 722680 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Roswell Industrial Air Park",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722680",
+      "Latitude": 33.30,
+      "Longitude": -104.53,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1112.0
+    }
+  },
+  {
+    "OriginalFileName": "Los Alamos 723654 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "Los.Alamos",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23654",
+      "WMOID": "723654",
+      "Latitude": 35.88,
+      "Longitude": -106.28,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2179.0
+    }
+  },
+  {
+    "OriginalFileName": "Roswell Industrial Air Park 722680 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Roswell",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY--23043",
+      "WMOID": "722680",
+      "Latitude": 33.30,
+      "Longitude": -104.53,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1112.0
+    }
+  },
+  {
+    "OriginalFileName": "Las Vegas-Muni AP 723677 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Las Vegas Municipal Arpt",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723677",
+      "Latitude": 35.65,
+      "Longitude": -105.15,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2093.0
+    }
+  },
+  {
+    "OriginalFileName": "Holloman AFB 747320 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Holloman Afb",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747320",
+      "Latitude": 32.85,
+      "Longitude": -106.10,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1248.0
+    }
+  },
+  {
+    "OriginalFileName": "Las Cruces Intl AP 722695 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Las Cruces Intl",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722695",
+      "Latitude": 32.28,
+      "Longitude": -106.92,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1393.0
+    }
+  },
+  {
+    "OriginalFileName": "Gallup-Sen Clarke Field 723627 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Gallup Sen Clarke Fld",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723627",
+      "Latitude": 35.52,
+      "Longitude": -108.78,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1971.0
+    }
+  },
+  {
+    "OriginalFileName": "Deming Muni AP 722725 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Deming Muni",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722725",
+      "Latitude": 32.25,
+      "Longitude": -107.72,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1348.0
+    }
+  },
+  {
+    "OriginalFileName": "Farmington-Four Corners Rgnl AP 723658 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Farmington Four Corners Regl",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723658",
+      "Latitude": 36.75,
+      "Longitude": -108.23,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1675.0
+    }
+  },
+  {
+    "OriginalFileName": "Clovis Muni AWOS 722689 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Clovis Muni   Awos",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722689",
+      "Latitude": 34.43,
+      "Longitude": -103.08,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1284.0
+    }
+  },
+  {
+    "OriginalFileName": "Clovis-Cannon AFB 722686 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Clovis Cannon Afb",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722686",
+      "Latitude": 34.38,
+      "Longitude": -103.32,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1309.0
+    }
+  },
+  {
+    "OriginalFileName": "Clayton Muni AP 723600 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Clayton",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY--23051",
+      "WMOID": "723600",
+      "Latitude": 36.45,
+      "Longitude": -103.15,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1511.0
+    }
+  },
+  {
+    "OriginalFileName": "Clayton Muni AP 723600 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Clayton Municipal Airpark",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723600",
+      "Latitude": 36.45,
+      "Longitude": -103.15,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1512.0
+    }
+  },
+  {
+    "OriginalFileName": "Carlsbad Cavern City Air Terminal 722687 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Carlsbad Cavern City Air Term",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722687",
+      "Latitude": 32.33,
+      "Longitude": -104.27,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 985.0
+    }
+  },
+  {
+    "OriginalFileName": "Albuquerque Intl AP 723650 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Albuquerque Intl Arpt  Isis",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723650",
+      "Latitude": 35.04,
+      "Longitude": -106.62,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1619.0
+    }
+  },
+  {
+    "OriginalFileName": "Albuquerque 723650 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ALBUQUERQUE",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23050",
+      "WMOID": "723650",
+      "Latitude": 35.05,
+      "Longitude": -106.62,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1619.0
+    }
+  },
+  {
+    "OriginalFileName": "Albuquerque Intl AP 723650 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Albuquerque",
+      "StateName": "NM",
+      "Country": "USA",
+      "WeatherSource": "TMY--23050",
+      "WMOID": "723650",
+      "Latitude": 35.05,
+      "Longitude": -106.62,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1620.0
+    }
+  },
+  {
+    "OriginalFileName": "Trenton-Mercer County AP 724095 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Trenton Mercer County Ap",
+      "StateName": "NJ",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724095",
+      "Latitude": 40.28,
+      "Longitude": -74.82,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 65.0
+    }
+  },
+  {
+    "OriginalFileName": "Newark Intl AP 725020 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Newark International Arpt",
+      "StateName": "NJ",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725020",
+      "Latitude": 40.72,
+      "Longitude": -74.18,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Teterboro AP 725025 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Teterboro Airport",
+      "StateName": "NJ",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725025",
+      "Latitude": 40.85,
+      "Longitude": -74.07,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Newark 725020 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "NEWARK",
+      "StateName": "NJ",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14734",
+      "WMOID": "725020",
+      "Latitude": 40.70,
+      "Longitude": -74.17,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "Newark Intl AP 725020 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Newark",
+      "StateName": "NJ",
+      "Country": "USA",
+      "WeatherSource": "TMY--14734",
+      "WMOID": "725020",
+      "Latitude": 40.70,
+      "Longitude": -74.17,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "Millville Muni AP 724075 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Millville Municipal Ap",
+      "StateName": "NJ",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724075",
+      "Latitude": 39.37,
+      "Longitude": -75.08,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 21.0
+    }
+  },
+  {
+    "OriginalFileName": "McGuire AFB 724096 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mcguire Afb",
+      "StateName": "NJ",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724096",
+      "Latitude": 40.02,
+      "Longitude": -74.60,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 45.0
+    }
+  },
+  {
+    "OriginalFileName": "Cape May County AP 745966 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cape May Co",
+      "StateName": "NJ",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "745966",
+      "Latitude": 39.00,
+      "Longitude": -74.92,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "McGuire AFB 724096 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Lakehurst NAS",
+      "StateName": "NJ",
+      "Country": "USA",
+      "WeatherSource": "TMY--14780",
+      "WMOID": "724096",
+      "Latitude": 40.03,
+      "Longitude": -74.70,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 34.0
+    }
+  },
+  {
+    "OriginalFileName": "Belmar-Monmouth County AP 724084 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Belmar Asc",
+      "StateName": "NJ",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724084",
+      "Latitude": 40.18,
+      "Longitude": -74.07,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 26.0
+    }
+  },
+  {
+    "OriginalFileName": "Caldwell-Essex County AP 724094 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Caldwell Essex Co",
+      "StateName": "NJ",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724094",
+      "Latitude": 40.88,
+      "Longitude": -74.28,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 53.0
+    }
+  },
+  {
+    "OriginalFileName": "Atlantic City Intl AP 724070 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Atlantic City Intl Ap",
+      "StateName": "NJ",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724070",
+      "Latitude": 39.45,
+      "Longitude": -74.57,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 18.0
+    }
+  },
+  {
+    "OriginalFileName": "Atlantic City 724070 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ATLANTIC_CITY",
+      "StateName": "NJ",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93730",
+      "WMOID": "724070",
+      "Latitude": 39.45,
+      "Longitude": -74.57,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 20.0
+    }
+  },
+  {
+    "OriginalFileName": "Pease Intl Tradeport 726055 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Pease Intl Tradepor",
+      "StateName": "NH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726055",
+      "Latitude": 43.08,
+      "Longitude": -70.82,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 31.0
+    }
+  },
+  {
+    "OriginalFileName": "Mount Washington 726130 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mount Washington",
+      "StateName": "NH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726130",
+      "Latitude": 44.27,
+      "Longitude": -71.30,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 1910.0
+    }
+  },
+  {
+    "OriginalFileName": "Lebanon Muni AP 726116 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lebanon Municipal",
+      "StateName": "NH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726116",
+      "Latitude": 43.63,
+      "Longitude": -72.30,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 182.0
+    }
+  },
+  {
+    "OriginalFileName": "Manchester Muni AP 743945 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Manchester Airport",
+      "StateName": "NH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "743945",
+      "Latitude": 42.93,
+      "Longitude": -71.43,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 69.0
+    }
+  },
+  {
+    "OriginalFileName": "Laconia Muni AWOS 726155 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Laconia Muni  Awos",
+      "StateName": "NH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726155",
+      "Latitude": 43.57,
+      "Longitude": -71.42,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 166.0
+    }
+  },
+  {
+    "OriginalFileName": "Keene-Dillant Hopkins AP 726165 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Dillant Hopkins",
+      "StateName": "NH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726165",
+      "Latitude": 42.90,
+      "Longitude": -72.27,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 153.0
+    }
+  },
+  {
+    "OriginalFileName": "Concord Muni AP 726050 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Concord Municipal Arpt",
+      "StateName": "NH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726050",
+      "Latitude": 43.20,
+      "Longitude": -71.50,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 106.0
+    }
+  },
+  {
+    "OriginalFileName": "Concord 726050 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "CONCORD",
+      "StateName": "NH",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14745",
+      "WMOID": "726050",
+      "Latitude": 43.20,
+      "Longitude": -71.50,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 105.0
+    }
+  },
+  {
+    "OriginalFileName": "Concord Muni AP 726050 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Concord",
+      "StateName": "NH",
+      "Country": "USA",
+      "WeatherSource": "TMY--14745",
+      "WMOID": "726050",
+      "Latitude": 43.20,
+      "Longitude": -71.50,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 105.0
+    }
+  },
+  {
+    "OriginalFileName": "Berlin Muni AP 726160 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Berlin Municipal",
+      "StateName": "NH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726160",
+      "Latitude": 44.58,
+      "Longitude": -71.18,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 353.0
+    }
+  }
+]

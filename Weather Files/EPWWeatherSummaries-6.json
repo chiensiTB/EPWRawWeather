@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "Charlottesville-Albemarle County AP 724016 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Charlottesville Faa",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724016",
+      "Latitude": 38.13,
+      "Longitude": -78.45,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 190.0
+    }
+  },
+  {
+    "OriginalFileName": "Abingdon-Virgina Highlands AP 724058 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Abington",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724058",
+      "Latitude": 36.68,
+      "Longitude": -82.03,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 631.0
+    }
+  },
+  {
+    "OriginalFileName": "Arlington-Ronald Reagan Washington Natl AP 724050 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Washington Dc Reagan Ap",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724050",
+      "Latitude": 38.87,
+      "Longitude": -77.03,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Wendover USAF Auxiliary Field 725810 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Wendover Usaf Auxiliary Field",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725810",
+      "Latitude": 40.72,
+      "Longitude": -114.03,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1291.0
+    }
+  },
+  {
+    "OriginalFileName": "Vernal AP 725705 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Vernal",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725705",
+      "Latitude": 40.43,
+      "Longitude": -109.52,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1608.0
+    }
+  },
+  {
+    "OriginalFileName": "Salt Lake City Intl AP 725720 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Salt Lake City IntL Arpt  Isis",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725720",
+      "Latitude": 40.77,
+      "Longitude": -111.97,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1288.0
+    }
+  },
+  {
+    "OriginalFileName": "Salt Lake City 725720 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SALT_LAKE_CITY",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24127",
+      "WMOID": "725720",
+      "Latitude": 40.77,
+      "Longitude": -111.97,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1288.0
+    }
+  },
+  {
+    "OriginalFileName": "Salt Lake City Intl AP 725720 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Salt Lake City",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY--24127",
+      "WMOID": "725720",
+      "Latitude": 40.78,
+      "Longitude": -111.97,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1288.0
+    }
+  },
+  {
+    "OriginalFileName": "Saint George AWOS 724754 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Saint George  Awos",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724754",
+      "Latitude": 37.08,
+      "Longitude": -113.60,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 896.0
+    }
+  },
+  {
+    "OriginalFileName": "Provo Muni AWOS 725724 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Provo Muni  Awos",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725724",
+      "Latitude": 40.22,
+      "Longitude": -111.72,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1369.0
+    }
+  },
+  {
+    "OriginalFileName": "Ogden-Hinkley AP 725750 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Ogden Hinkley Airport",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725750",
+      "Latitude": 41.20,
+      "Longitude": -112.02,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1362.0
+    }
+  },
+  {
+    "OriginalFileName": "Moab-Canyonlands Field 724776 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Moab Canyonlands  Uo",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724776",
+      "Latitude": 38.58,
+      "Longitude": -109.54,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1000.0
+    }
+  },
+  {
+    "OriginalFileName": "Ogden-Hill AFB 725755 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Ogden Hill Afb",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725755",
+      "Latitude": 41.12,
+      "Longitude": -111.97,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1459.0
+    }
+  },
+  {
+    "OriginalFileName": "Hanksville AP 724735 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hanksville",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724735",
+      "Latitude": 38.37,
+      "Longitude": -110.72,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1313.0
+    }
+  },
+  {
+    "OriginalFileName": "Delta Muni AP 724795 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Delta",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724795",
+      "Latitude": 39.33,
+      "Longitude": -112.58,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1414.0
+    }
+  },
+  {
+    "OriginalFileName": "Cedar City Muni AP 724755 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Cedar City",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY--93129",
+      "WMOID": "724755",
+      "Latitude": 37.70,
+      "Longitude": -113.10,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1714.0
+    }
+  },
+  {
+    "OriginalFileName": "Cedar City Muni AP 724755 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cedar City Municipal Ap",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724755",
+      "Latitude": 37.70,
+      "Longitude": -113.10,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1703.0
+    }
+  },
+  {
+    "OriginalFileName": "Bryce Canyon AP 724756 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Bryce Cnyn Faa Ap",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724756",
+      "Latitude": 37.70,
+      "Longitude": -112.15,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2312.0
+    }
+  },
+  {
+    "OriginalFileName": "Cedar City 724755 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "CEDAR_CITY",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93129",
+      "WMOID": "724755",
+      "Latitude": 37.70,
+      "Longitude": -113.10,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1712.0
+    }
+  },
+  {
+    "OriginalFileName": "Bryce Canyon AP 724756 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Bryce Canyon",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY--23159",
+      "WMOID": "724756",
+      "Latitude": 37.70,
+      "Longitude": -112.15,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2312.0
+    }
+  },
+  {
+    "OriginalFileName": "Blanding Muni AP 724723 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Blanding",
+      "StateName": "UT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724723",
+      "Latitude": 37.62,
+      "Longitude": -109.48,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1841.0
+    }
+  },
+  {
+    "OriginalFileName": "Wink-Winkler County AP 722656 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Wink Winkler County Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722656",
+      "Latitude": 31.78,
+      "Longitude": -103.20,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 856.0
+    }
+  },
+  {
+    "OriginalFileName": "Wichita Falls Muni AP 723510 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Wichita Falls Municipal Arpt",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723510",
+      "Latitude": 33.98,
+      "Longitude": -98.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 314.0
+    }
+  },
+  {
+    "OriginalFileName": "Wichita Falls 723510 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "WICHITA_FALLS",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13966",
+      "WMOID": "723510",
+      "Latitude": 33.97,
+      "Longitude": -98.48,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 314.0
+    }
+  },
+  {
+    "OriginalFileName": "Wichita Falls Muni AP 723510 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Wichita Falls/Sheppard",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--13966",
+      "WMOID": "723510",
+      "Latitude": 33.98,
+      "Longitude": -98.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 314.0
+    }
+  },
+  {
+    "OriginalFileName": "Waco Rgnl AP 722560 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Waco Regional Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722560",
+      "Latitude": 31.62,
+      "Longitude": -97.23,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 152.0
+    }
+  },
+  {
+    "OriginalFileName": "Waco Rgnl AP 722560 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Waco",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--13959",
+      "WMOID": "722560",
+      "Latitude": 31.62,
+      "Longitude": -97.22,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 155.0
+    }
+  },
+  {
+    "OriginalFileName": "Victoria Rgnl AP 722550 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Victoria Regional Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722550",
+      "Latitude": 28.87,
+      "Longitude": -96.93,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 35.0
+    }
+  },
+  {
+    "OriginalFileName": "Waco 722560 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "WACO",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13959",
+      "WMOID": "722560",
+      "Latitude": 31.62,
+      "Longitude": -97.22,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 155.0
+    }
+  },
+  {
+    "OriginalFileName": "Tyler-Pounds Field 722448 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Tyler Pounds Fld",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722448",
+      "Latitude": 32.35,
+      "Longitude": -95.40,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 166.0
+    }
+  },
+  {
+    "OriginalFileName": "Victoria 722550 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "VICTORIA",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-12912",
+      "WMOID": "722550",
+      "Latitude": 28.85,
+      "Longitude": -96.92,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 32.0
+    }
+  },
+  {
+    "OriginalFileName": "Sherman-Perrin AFB 722541 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Sherman-Denison",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--13923",
+      "WMOID": "722541",
+      "Latitude": 33.72,
+      "Longitude": -96.67,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 233.0
+    }
+  },
+  {
+    "OriginalFileName": "San Antonio Intl AP 722530 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "San Antonio/Randolph A",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--12921",
+      "WMOID": "722530",
+      "Latitude": 29.53,
+      "Longitude": -98.28,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 232.0
+    }
+  },
+  {
+    "OriginalFileName": "San Antonio Intl AP 722530 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "San Antonio Intl Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722530",
+      "Latitude": 29.53,
+      "Longitude": -98.47,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 247.0
+    }
+  },
+  {
+    "OriginalFileName": "San Antonio 722536 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SAN_ANTONIO",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-12921",
+      "WMOID": "722536",
+      "Latitude": 29.53,
+      "Longitude": -98.47,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 242.0
+    }
+  },
+  {
+    "OriginalFileName": "San Antonio-Stinson AP 722523 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "San Antonio Stinson",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722523",
+      "Latitude": 29.33,
+      "Longitude": -98.47,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 176.0
+    }
+  },
+  {
+    "OriginalFileName": "San Antonio-Kelly AFB 722535 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "San Antonio Kelly Field Afb",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722535",
+      "Latitude": 29.38,
+      "Longitude": -98.58,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 208.0
+    }
+  },
+  {
+    "OriginalFileName": "San Angelo 722630 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SAN_ANGELO",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23034",
+      "WMOID": "722630",
+      "Latitude": 31.37,
+      "Longitude": -100.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 582.0
+    }
+  },
+  {
+    "OriginalFileName": "San Angelo-Mathis AP 722630 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "San Angelo Mathis Field",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722630",
+      "Latitude": 31.35,
+      "Longitude": -100.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 584.0
+    }
+  },
+  {
+    "OriginalFileName": "San Angelo-Mathis AP 722630 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "San Angelo",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--23034",
+      "WMOID": "722630",
+      "Latitude": 31.37,
+      "Longitude": -100.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 582.0
+    }
+  },
+  {
+    "OriginalFileName": "Rockport-Aransas Co AP 722524 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Rockport Aransas Co",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722524",
+      "Latitude": 28.08,
+      "Longitude": -97.05,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "Port Arthur-Jefferson Co AP 722410 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Port Arthur Jefferson County",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722410",
+      "Latitude": 29.95,
+      "Longitude": -94.02,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Randolph AFB 722536 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Randolph Afb",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722536",
+      "Latitude": 29.53,
+      "Longitude": -98.28,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 232.0
+    }
+  },
+  {
+    "OriginalFileName": "Port Arthur-Jefferson Co AP 722410 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Beaumont/Port Arthur",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--12917",
+      "WMOID": "722410",
+      "Latitude": 29.95,
+      "Longitude": -94.02,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Palacios Muni AP 722555 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Palacios Municipal Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722555",
+      "Latitude": 28.72,
+      "Longitude": -96.25,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Mineral Wells Muni AP 722597 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mineral Wells Municipal Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722597",
+      "Latitude": 32.78,
+      "Longitude": -98.07,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 284.0
+    }
+  },
+  {
+    "OriginalFileName": "Nacogdoches AWOS 722499 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Nacogdoches  Awos",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722499",
+      "Latitude": 31.58,
+      "Longitude": -94.72,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 108.0
+    }
+  },
+  {
+    "OriginalFileName": "Midland Intl AP 722650 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Midland International Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722650",
+      "Latitude": 31.95,
+      "Longitude": -102.18,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 872.0
+    }
+  },
+  {
+    "OriginalFileName": "Midland Intl AP 722650 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Midland/Odessa",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--23023",
+      "WMOID": "722650",
+      "Latitude": 31.95,
+      "Longitude": -102.18,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 872.0
+    }
+  },
+  {
+    "OriginalFileName": "McGregor AWOS 722563 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mc Gregor  Awos",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722563",
+      "Latitude": 31.48,
+      "Longitude": -97.32,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 180.0
+    }
+  },
+  {
+    "OriginalFileName": "Midland-Odessa 722650 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "MIDLAND",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23023",
+      "WMOID": "722650",
+      "Latitude": 31.93,
+      "Longitude": -102.20,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 871.0
+    }
+  },
+  {
+    "OriginalFileName": "McAllen-Miller Intl AP 722506 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mcallen Miller Intl Ap  Edinbu",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722506",
+      "Latitude": 26.31,
+      "Longitude": -98.17,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 30.0
+    }
+  },
+  {
+    "OriginalFileName": "Marfa AP 722640 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Marfa Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722640",
+      "Latitude": 30.37,
+      "Longitude": -104.02,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 1473.0
+    }
+  },
+  {
+    "OriginalFileName": "Lufkin 722446 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "LUFKIN",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93987",
+      "WMOID": "722446",
+      "Latitude": 31.23,
+      "Longitude": -94.75,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 96.0
+    }
+  },
+  {
+    "OriginalFileName": "Lufkin-Angelina Co AP 722446 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lufkin Angelina Co",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722446",
+      "Latitude": 31.23,
+      "Longitude": -94.75,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 86.0
+    }
+  },
+  {
+    "OriginalFileName": "Lufkin-Angelina Co AP 722446 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Lufkin",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--93987",
+      "WMOID": "722446",
+      "Latitude": 31.23,
+      "Longitude": -94.75,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 88.0
+    }
+  },
+  {
+    "OriginalFileName": "Lubbock Intl AP 722670 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lubbock International Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722670",
+      "Latitude": 33.67,
+      "Longitude": -101.82,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 992.0
+    }
+  },
+  {
+    "OriginalFileName": "Lubbock Intl AP 722670 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Lubbock/Int'l Arpt",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--23042",
+      "WMOID": "722670",
+      "Latitude": 33.65,
+      "Longitude": -101.82,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 988.0
+    }
+  },
+  {
+    "OriginalFileName": "Longview-Gregg County AP 722470 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Longview Gregg County Ap  Over",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722470",
+      "Latitude": 32.29,
+      "Longitude": -94.98,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 146.0
+    }
+  },
+  {
+    "OriginalFileName": "Lubbock 722670 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "LUBBOCK",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23042",
+      "WMOID": "722670",
+      "Latitude": 33.65,
+      "Longitude": -101.82,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 988.0
+    }
+  },
+  {
+    "OriginalFileName": "Laredo Intl AP 722520 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Laredo AFB",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--12907",
+      "WMOID": "722520",
+      "Latitude": 27.53,
+      "Longitude": -99.46,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 152.0
+    }
+  },
+  {
+    "OriginalFileName": "Laredo Intl AP 722520 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Laredo Intl Ap  Ut",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722520",
+      "Latitude": 27.57,
+      "Longitude": -99.49,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 142.0
+    }
+  },
+  {
+    "OriginalFileName": "Kingsville 722516 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Kingsville",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722516",
+      "Latitude": 27.50,
+      "Longitude": -97.82,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 17.0
+    }
+  },
+  {
+    "OriginalFileName": "Killeen Muni AWOS 722575 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Killeen Muni  Awos",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722575",
+      "Latitude": 31.08,
+      "Longitude": -97.68,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 258.0
+    }
+  },
+  {
+    "OriginalFileName": "Kingsville 722516 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Kingsville/NAS",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--12928",
+      "WMOID": "722516",
+      "Latitude": 27.50,
+      "Longitude": -97.82,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 15.0
+    }
+  },
+  {
+    "OriginalFileName": "Killeen-Fort Hood Rgnl AP 722576 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Robert Gray Aaf",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722576",
+      "Latitude": 31.07,
+      "Longitude": -97.83,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 312.0
+    }
+  },
+  {
+    "OriginalFileName": "Houston-Intercontinental 722430 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "HOUSTON",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-12960",
+      "WMOID": "722430",
+      "Latitude": 29.98,
+      "Longitude": -95.37,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 33.0
+    }
+  },
+  {
+    "OriginalFileName": "Houston-William P Hobby AP 722435 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Houston William P Hobby Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722435",
+      "Latitude": 29.65,
+      "Longitude": -95.28,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 13.0
+    }
+  },
+  {
+    "OriginalFileName": "Houston-Ellington AFB 722436 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Houston Ellington Afb  Clear L",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722436",
+      "Latitude": 29.57,
+      "Longitude": -95.09,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Houston-D W Hooks AP 722429 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Houston D W  Hooks",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722429",
+      "Latitude": 30.07,
+      "Longitude": -95.55,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 46.0
+    }
+  },
+  {
+    "OriginalFileName": "Houston-Bush Intercontinental AP 722430 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Houston Bush Intercontinental",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722430",
+      "Latitude": 30.00,
+      "Longitude": -95.37,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 29.0
+    }
+  },
+  {
+    "OriginalFileName": "Hondo Muni AP 722533 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hondo Municipal Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722533",
+      "Latitude": 29.37,
+      "Longitude": -99.17,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 280.0
+    }
+  },
+  {
+    "OriginalFileName": "Houston-Bush Intercontinental AP 722430 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Houston/Intercontinent",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--12960",
+      "WMOID": "722430",
+      "Latitude": 29.97,
+      "Longitude": -95.35,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 33.0
+    }
+  },
+  {
+    "OriginalFileName": "Harlingen-Valley Intl AP 722505 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Harlingen Rio Grande Valley I",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722505",
+      "Latitude": 26.23,
+      "Longitude": -97.65,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Georgetown AWOS 722547 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Georgetown  Awos",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722547",
+      "Latitude": 30.68,
+      "Longitude": -97.68,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 240.0
+    }
+  },
+  {
+    "OriginalFileName": "Greenville Muni AP 722588 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Greenville Majors",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722588",
+      "Latitude": 33.07,
+      "Longitude": -96.07,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 163.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Worth NAS 722595 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Worth Nas",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722595",
+      "Latitude": 32.77,
+      "Longitude": -97.45,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 185.0
+    }
+  },
+  {
+    "OriginalFileName": "Galveston 722420 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Galveston Scholes",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722420",
+      "Latitude": 29.30,
+      "Longitude": -94.80,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 16.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Worth 722596 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "FORT_WORTH",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-03927",
+      "WMOID": "722596",
+      "Latitude": 32.83,
+      "Longitude": -97.05,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 164.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Worth-Meacham AP 722596 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Worth Meacham",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722596",
+      "Latitude": 32.82,
+      "Longitude": -97.37,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 209.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Worth-Stephenville-Clark Field 722600 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Worth/Meacham Fie",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY-- 3927",
+      "WMOID": "722600",
+      "Latitude": 32.82,
+      "Longitude": -97.37,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 216.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Worth-Alliance AP 722594 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Worth Alliance",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722594",
+      "Latitude": 32.98,
+      "Longitude": -97.32,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 226.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Hood 722570 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Hood",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722570",
+      "Latitude": 31.13,
+      "Longitude": -97.72,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 280.0
+    }
+  },
+  {
+    "OriginalFileName": "El Paso Intl AP 722700 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "El Paso",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--23044",
+      "WMOID": "722700",
+      "Latitude": 31.80,
+      "Longitude": -106.40,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1194.0
+    }
+  },
+  {
+    "OriginalFileName": "El Paso Intl AP 722700 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "El Paso International Ap  Ut",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722700",
+      "Latitude": 31.77,
+      "Longitude": -106.50,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1186.0
+    }
+  },
+  {
+    "OriginalFileName": "El Paso 722700 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "EL_PASO",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23044",
+      "WMOID": "722700",
+      "Latitude": 31.80,
+      "Longitude": -106.40,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1194.0
+    }
+  },
+  {
+    "OriginalFileName": "Del Rio 722610 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Del Rio  Ut",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722610",
+      "Latitude": 29.38,
+      "Longitude": -100.91,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 308.0
+    }
+  },
+  {
+    "OriginalFileName": "Draughon-Miller Central Texas AP 722577 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Draughon Miller Cen",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722577",
+      "Latitude": 31.15,
+      "Longitude": -97.40,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 213.0
+    }
+  },
+  {
+    "OriginalFileName": "Del Rio 722610 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Del Rio/Intl Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--22010",
+      "WMOID": "722610",
+      "Latitude": 29.36,
+      "Longitude": -100.78,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 327.0
+    }
+  },
+  {
+    "OriginalFileName": "Del Rio-Laughlin AFB 722615 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Del Rio Laughlin Afb",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722615",
+      "Latitude": 29.37,
+      "Longitude": -100.78,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 327.0
+    }
+  },
+  {
+    "OriginalFileName": "Dallas-Love Field 722583 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Dallas Love Field",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722583",
+      "Latitude": 32.85,
+      "Longitude": -96.85,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 134.0
+    }
+  },
+  {
+    "OriginalFileName": "Dallas-Redbird AP 722599 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Dallas Redbird Arpt",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722599",
+      "Latitude": 32.68,
+      "Longitude": -96.87,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 201.0
+    }
+  },
+  {
+    "OriginalFileName": "Dallas-Fort Worth Intl AP 722590 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Dallas Fort Worth Intl Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722590",
+      "Latitude": 32.90,
+      "Longitude": -97.02,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 171.0
+    }
+  },
+  {
+    "OriginalFileName": "Dallas-Addison AP 722598 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Dallas Addison Arpt",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722598",
+      "Latitude": 32.97,
+      "Longitude": -96.83,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 196.0
+    }
+  },
+  {
+    "OriginalFileName": "Dalhart Muni AP 722636 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Dalhart Municipal Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722636",
+      "Latitude": 36.02,
+      "Longitude": -102.55,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 1216.0
+    }
+  },
+  {
+    "OriginalFileName": "Cox Field 722587 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cox Fld",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722587",
+      "Latitude": 33.63,
+      "Longitude": -95.45,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 171.0
+    }
+  },
+  {
+    "OriginalFileName": "Cotulla AP 722526 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cotulla Faa Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722526",
+      "Latitude": 28.45,
+      "Longitude": -99.22,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 141.0
+    }
+  },
+  {
+    "OriginalFileName": "Corpus Christi Intl AP 722510 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Corpus Christi Intl Arpt  Ut",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722510",
+      "Latitude": 27.88,
+      "Longitude": -97.63,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Corpus Christi NAS 722515 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Corpus Christi Nas",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722515",
+      "Latitude": 27.68,
+      "Longitude": -97.28,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Corpus Christi Intl AP 722510 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Corpus Christi",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--12924",
+      "WMOID": "722510",
+      "Latitude": 27.77,
+      "Longitude": -97.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 13.0
+    }
+  }
+]

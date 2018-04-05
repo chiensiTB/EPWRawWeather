@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "Milwaukee-Mitchell Intl AP 726400 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Milwaukee",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY--14839",
+      "WMOID": "726400",
+      "Latitude": 42.95,
+      "Longitude": -87.90,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 211.0
+    }
+  },
+  {
+    "OriginalFileName": "Manitowac Muni AWOS 726455 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Manitowac Muni Awos",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726455",
+      "Latitude": 44.13,
+      "Longitude": -87.68,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 198.0
+    }
+  },
+  {
+    "OriginalFileName": "Madison 726410 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "MADISON",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14837",
+      "WMOID": "726410",
+      "Latitude": 43.13,
+      "Longitude": -89.33,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 262.0
+    }
+  },
+  {
+    "OriginalFileName": "Madison-Dane County Rgnl AP 726410 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Madison",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY--14837",
+      "WMOID": "726410",
+      "Latitude": 43.13,
+      "Longitude": -89.33,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 264.0
+    }
+  },
+  {
+    "OriginalFileName": "Madison-Dane County Rgnl AP 726410 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Madison Dane Co Regional Arpt",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726410",
+      "Latitude": 43.13,
+      "Longitude": -89.33,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 262.0
+    }
+  },
+  {
+    "OriginalFileName": "La Crosse Muni AP 726430 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "La Crosse Municipal Arpt",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726430",
+      "Latitude": 43.87,
+      "Longitude": -91.25,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 198.0
+    }
+  },
+  {
+    "OriginalFileName": "Lone Rock AP 726416 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lone Rock Faa Ap",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726416",
+      "Latitude": 43.20,
+      "Longitude": -90.18,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 219.0
+    }
+  },
+  {
+    "OriginalFileName": "La Crosse 726430 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "LA_CROSSE",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14920",
+      "WMOID": "726430",
+      "Latitude": 43.87,
+      "Longitude": -91.25,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 205.0
+    }
+  },
+  {
+    "OriginalFileName": "La Crosse Muni AP 726430 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "La Crosse",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY--14920",
+      "WMOID": "726430",
+      "Latitude": 43.87,
+      "Longitude": -91.25,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 202.0
+    }
+  },
+  {
+    "OriginalFileName": "Janesville-Rock County AP 726415 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Janesville Rock Co",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726415",
+      "Latitude": 42.62,
+      "Longitude": -89.03,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 246.0
+    }
+  },
+  {
+    "OriginalFileName": "Green Bay 726450 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "GREEN_BAY",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14898",
+      "WMOID": "726450",
+      "Latitude": 44.48,
+      "Longitude": -88.13,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 214.0
+    }
+  },
+  {
+    "OriginalFileName": "Green Bay-Austin Straubel Intl AP 726450 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Green Bay Austin Straubel Int",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726450",
+      "Latitude": 44.48,
+      "Longitude": -88.13,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 209.0
+    }
+  },
+  {
+    "OriginalFileName": "Green Bay-Austin Straubel Intl AP 726450 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Green Bay",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY--14898",
+      "WMOID": "726450",
+      "Latitude": 44.48,
+      "Longitude": -88.13,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 214.0
+    }
+  },
+  {
+    "OriginalFileName": "Ephraim AWOS 726626 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Antigo Lang Awos",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726626",
+      "Latitude": 45.15,
+      "Longitude": -87.15,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 464.0
+    }
+  },
+  {
+    "OriginalFileName": "Eau Claire County AP 726435 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Eau Claire",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY--14991",
+      "WMOID": "726435",
+      "Latitude": 44.87,
+      "Longitude": -91.48,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 276.0
+    }
+  },
+  {
+    "OriginalFileName": "Eau Claire County AP 726435 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Eau Claire County Ap",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726435",
+      "Latitude": 44.87,
+      "Longitude": -91.48,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 271.0
+    }
+  },
+  {
+    "OriginalFileName": "Eau Claire 726435 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "EAU_CLAIRE",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14991",
+      "WMOID": "726435",
+      "Latitude": 44.87,
+      "Longitude": -91.48,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 273.0
+    }
+  },
+  {
+    "OriginalFileName": "Appleton-Outagamie County AP 726457 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Appleton Outagamie",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726457",
+      "Latitude": 44.25,
+      "Longitude": -88.52,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 280.0
+    }
+  },
+  {
+    "OriginalFileName": "Yakima Air Terminal-McAllister Field 727810 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Yakima Air Terminal",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727810",
+      "Latitude": 46.57,
+      "Longitude": -120.55,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 324.0
+    }
+  },
+  {
+    "OriginalFileName": "Yakima Air Terminal-McAllister Field 727810 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Yakima",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY--24243",
+      "WMOID": "727810",
+      "Latitude": 46.57,
+      "Longitude": -120.53,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 325.0
+    }
+  },
+  {
+    "OriginalFileName": "Yakima 727810 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "YAKIMA",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24243",
+      "WMOID": "727810",
+      "Latitude": 46.57,
+      "Longitude": -120.53,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 325.0
+    }
+  },
+  {
+    "OriginalFileName": "Whidbey Island NAS 690230 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Whidbey Island Nas",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "690230",
+      "Latitude": 48.35,
+      "Longitude": -122.67,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Whidbey Island NAS 690230 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Whidbey Island NAS",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY--24255",
+      "WMOID": "690230",
+      "Latitude": 48.35,
+      "Longitude": -122.66,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Wenatchee-Pangborn Mem AP 727825 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Wenatchee Pangborn",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727825",
+      "Latitude": 47.40,
+      "Longitude": -120.20,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 379.0
+    }
+  },
+  {
+    "OriginalFileName": "Walla Walla City-County AP 727846 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Walla Walla City County Ap",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727846",
+      "Latitude": 46.10,
+      "Longitude": -118.28,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 355.0
+    }
+  },
+  {
+    "OriginalFileName": "Toledo-Winlock-Ed Carlson Mem AP 727926 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Toledo Winlock Mem",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727926",
+      "Latitude": 46.48,
+      "Longitude": -122.80,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 113.0
+    }
+  },
+  {
+    "OriginalFileName": "Tacoma Narrows AP 727938 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Tacoma Narrows",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727938",
+      "Latitude": 47.27,
+      "Longitude": -122.58,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 91.0
+    }
+  },
+  {
+    "OriginalFileName": "The Dalles Muni AP 726988 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "The Dalles Municipal Arpt",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726988",
+      "Latitude": 45.62,
+      "Longitude": -121.15,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 73.0
+    }
+  },
+  {
+    "OriginalFileName": "Tacoma-McChord AFB 742060 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Tacoma Mcchord Afb",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "742060",
+      "Latitude": 47.15,
+      "Longitude": -122.48,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 88.0
+    }
+  },
+  {
+    "OriginalFileName": "Stampede Pass 727815 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Stampede Pass",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727815",
+      "Latitude": 47.28,
+      "Longitude": -121.33,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1206.0
+    }
+  },
+  {
+    "OriginalFileName": "Spokane Intl AP 727850 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Spokane/Fairchild AFB",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY--24157",
+      "WMOID": "727850",
+      "Latitude": 47.62,
+      "Longitude": -117.65,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 750.0
+    }
+  },
+  {
+    "OriginalFileName": "Spokane Intl AP 727850 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Spokane International Ap  Chen",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727850",
+      "Latitude": 47.49,
+      "Longitude": -117.59,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 777.0
+    }
+  },
+  {
+    "OriginalFileName": "Spokane 727855 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SPOKANE",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24157",
+      "WMOID": "727855",
+      "Latitude": 47.63,
+      "Longitude": -117.53,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 721.0
+    }
+  },
+  {
+    "OriginalFileName": "Snohomish County AP 727937 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Snohomish Co",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727937",
+      "Latitude": 47.90,
+      "Longitude": -122.28,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 189.0
+    }
+  },
+  {
+    "OriginalFileName": "Spokane-Felts Field 727856 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Felts Fld",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727856",
+      "Latitude": 47.68,
+      "Longitude": -117.32,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 610.0
+    }
+  },
+  {
+    "OriginalFileName": "Seattle-Tacoma Intl AP 727930 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Seattle-Tacoma/Int'l A",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY--24233",
+      "WMOID": "727930",
+      "Latitude": 47.45,
+      "Longitude": -122.30,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 137.0
+    }
+  },
+  {
+    "OriginalFileName": "Seattle-Tacoma Intl AP 727930 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Seattle Seattle Tacoma Intl A",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727930",
+      "Latitude": 47.47,
+      "Longitude": -122.32,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 122.0
+    }
+  },
+  {
+    "OriginalFileName": "Seattle-Tacoma 727930 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SEATTLE",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24233",
+      "WMOID": "727930",
+      "Latitude": 47.45,
+      "Longitude": -122.30,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 122.0
+    }
+  },
+  {
+    "OriginalFileName": "Renton Muni AP 727934 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Renton Muni",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727934",
+      "Latitude": 47.48,
+      "Longitude": -122.22,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Seattle-Boeing Field 727935 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Seattle Boeing Field  Isis",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727935",
+      "Latitude": 47.68,
+      "Longitude": -122.25,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 20.0
+    }
+  },
+  {
+    "OriginalFileName": "Quillayute State AP 727970 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Quillayute State Airport",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727970",
+      "Latitude": 47.93,
+      "Longitude": -124.57,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 55.0
+    }
+  },
+  {
+    "OriginalFileName": "Pullman-Moscow Rgnl AP 727857 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Pullman Moscow Rgnl",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727857",
+      "Latitude": 46.75,
+      "Longitude": -117.12,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 778.0
+    }
+  },
+  {
+    "OriginalFileName": "Quillayute 727970 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "QUILLAYUTE",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94240",
+      "WMOID": "727970",
+      "Latitude": 47.95,
+      "Longitude": -124.55,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 55.0
+    }
+  },
+  {
+    "OriginalFileName": "Port Angeles-William R Fairchild Intl AP 727885 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "William R Fairchild",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727885",
+      "Latitude": 48.12,
+      "Longitude": -123.50,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 91.0
+    }
+  },
+  {
+    "OriginalFileName": "Pasco-Tri Cities AP 727845 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Pasco",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727845",
+      "Latitude": 46.27,
+      "Longitude": -119.12,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 136.0
+    }
+  },
+  {
+    "OriginalFileName": "Olympia AP 727920 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Olympia",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY--24227",
+      "WMOID": "727920",
+      "Latitude": 46.97,
+      "Longitude": -122.90,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 61.0
+    }
+  },
+  {
+    "OriginalFileName": "Olympia AP 727920 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Olympia Airport",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727920",
+      "Latitude": 46.97,
+      "Longitude": -122.90,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 63.0
+    }
+  },
+  {
+    "OriginalFileName": "Moses Lake-Grant County AP 727827 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Moses Lake Grant County Ap",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727827",
+      "Latitude": 47.20,
+      "Longitude": -119.32,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 364.0
+    }
+  },
+  {
+    "OriginalFileName": "Olympia 727920 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "OLYMPIA",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24227",
+      "WMOID": "727920",
+      "Latitude": 46.97,
+      "Longitude": -122.90,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 61.0
+    }
+  },
+  {
+    "OriginalFileName": "Kelso AP 727924 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Kelso Wb Ap",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727924",
+      "Latitude": 46.13,
+      "Longitude": -122.90,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Hoquiam AP 727923 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hoquiam Ap",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727923",
+      "Latitude": 46.98,
+      "Longitude": -123.93,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Lewis-Gray AAF 742070 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Gray Aaf",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "742070",
+      "Latitude": 47.08,
+      "Longitude": -122.58,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 90.0
+    }
+  },
+  {
+    "OriginalFileName": "Hanford 727840 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hanford",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727840",
+      "Latitude": 46.57,
+      "Longitude": -119.60,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 223.0
+    }
+  },
+  {
+    "OriginalFileName": "Ephrata Muni AP 727826 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Ephrata Ap Fcwos",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727826",
+      "Latitude": 47.30,
+      "Longitude": -119.52,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 384.0
+    }
+  },
+  {
+    "OriginalFileName": "Fairchild AFB 727855 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fairchild Afb",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727855",
+      "Latitude": 47.63,
+      "Longitude": -117.65,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 743.0
+    }
+  },
+  {
+    "OriginalFileName": "Bremerton National AP 727928 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Bremerton National",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727928",
+      "Latitude": 47.48,
+      "Longitude": -122.75,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 137.0
+    }
+  },
+  {
+    "OriginalFileName": "Bellingham Intl AP 727976 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Bellingham Intl Ap",
+      "StateName": "WA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727976",
+      "Latitude": 48.80,
+      "Longitude": -122.53,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 45.0
+    }
+  },
+  {
+    "OriginalFileName": "Springfield-Hartnes State AP 726115 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Springfield Hartnes",
+      "StateName": "VT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726115",
+      "Latitude": 43.35,
+      "Longitude": -72.52,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 176.0
+    }
+  },
+  {
+    "OriginalFileName": "Rutland State AP 725165 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Rutland State",
+      "StateName": "VT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725165",
+      "Latitude": 43.52,
+      "Longitude": -72.95,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 246.0
+    }
+  },
+  {
+    "OriginalFileName": "Montpelier AP 726145 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Montpelier Ap",
+      "StateName": "VT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726145",
+      "Latitude": 44.20,
+      "Longitude": -72.57,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 343.0
+    }
+  },
+  {
+    "OriginalFileName": "Burlington Intl AP 726170 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Burlington",
+      "StateName": "VT",
+      "Country": "USA",
+      "WeatherSource": "TMY--14742",
+      "WMOID": "726170",
+      "Latitude": 44.47,
+      "Longitude": -73.15,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 104.0
+    }
+  },
+  {
+    "OriginalFileName": "Burlington Intl AP 726170 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Burlington International Ap",
+      "StateName": "VT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726170",
+      "Latitude": 44.47,
+      "Longitude": -73.15,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 101.0
+    }
+  },
+  {
+    "OriginalFileName": "Burlington 726170 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "BURLINGTON",
+      "StateName": "VT",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14742",
+      "WMOID": "726170",
+      "Latitude": 44.47,
+      "Longitude": -73.15,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 104.0
+    }
+  },
+  {
+    "OriginalFileName": "Wise-Lonesome Pine AP 724117 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Wise Lonesome Pine",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724117",
+      "Latitude": 36.98,
+      "Longitude": -82.53,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 817.0
+    }
+  },
+  {
+    "OriginalFileName": "Sterling-Washington Dulles Intl AP 724030 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Washington Dc Dulles IntL Ar",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724030",
+      "Latitude": 38.98,
+      "Longitude": -77.47,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 82.0
+    }
+  },
+  {
+    "OriginalFileName": "Winchester Rgnl AP 724053 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Winchester Rgnl",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724053",
+      "Latitude": 39.15,
+      "Longitude": -78.15,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 222.0
+    }
+  },
+  {
+    "OriginalFileName": "Sterling-Washington Dulles Intl AP 724030 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Sterling/Washington Du",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY--93734",
+      "WMOID": "724030",
+      "Latitude": 38.95,
+      "Longitude": -77.45,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 98.0
+    }
+  },
+  {
+    "OriginalFileName": "Sterling-Washington Dulles 724030 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "STERLING",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93738",
+      "WMOID": "724030",
+      "Latitude": 38.95,
+      "Longitude": -77.45,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 82.0
+    }
+  },
+  {
+    "OriginalFileName": "Roanoke Rgnl AP-Woodrum Field 724110 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Roanoke Regional Ap",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724110",
+      "Latitude": 37.32,
+      "Longitude": -79.97,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 350.0
+    }
+  },
+  {
+    "OriginalFileName": "Staunton-Shenandoah Valley Rgnl AP 724105 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Staunton Shenandoah",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724105",
+      "Latitude": 38.27,
+      "Longitude": -78.90,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 366.0
+    }
+  },
+  {
+    "OriginalFileName": "Roanoke Rgnl AP-Woodrum Field 724110 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Roanoke",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY--13741",
+      "WMOID": "724110",
+      "Latitude": 37.32,
+      "Longitude": -79.97,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 358.0
+    }
+  },
+  {
+    "OriginalFileName": "Roanoke 724110 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ROANOKE",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13741",
+      "WMOID": "724110",
+      "Latitude": 37.32,
+      "Longitude": -79.97,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 358.0
+    }
+  },
+  {
+    "OriginalFileName": "Richmond Intl AP 724010 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Richmond",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY--13740",
+      "WMOID": "724010",
+      "Latitude": 37.50,
+      "Longitude": -77.33,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 54.0
+    }
+  },
+  {
+    "OriginalFileName": "Richmond Intl AP 724010 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Richmond International Ap",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724010",
+      "Latitude": 37.52,
+      "Longitude": -77.32,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 50.0
+    }
+  },
+  {
+    "OriginalFileName": "Quantico MCAS 724035 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Quantico Mcas",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724035",
+      "Latitude": 38.50,
+      "Longitude": -77.30,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "Richmond 724010 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "RICHMOND",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13740",
+      "WMOID": "724010",
+      "Latitude": 37.50,
+      "Longitude": -77.33,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 50.0
+    }
+  },
+  {
+    "OriginalFileName": "Pulaski-New River Valley AP 724116 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Pulaski",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724116",
+      "Latitude": 37.13,
+      "Longitude": -80.68,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 642.0
+    }
+  },
+  {
+    "OriginalFileName": "Oceana NAS 723075 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Oceana Nas",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723075",
+      "Latitude": 36.82,
+      "Longitude": -76.03,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "Petersburg Muni AP 724014 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Dinwiddie Co",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724014",
+      "Latitude": 37.18,
+      "Longitude": -77.52,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 60.0
+    }
+  },
+  {
+    "OriginalFileName": "Norfolk Intl AP 723080 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Norfolk International Ap",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723080",
+      "Latitude": 36.90,
+      "Longitude": -76.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Norfolk NAS 723085 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Norfolk Nas",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723085",
+      "Latitude": 36.95,
+      "Longitude": -76.28,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Norfolk Intl AP 723080 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Norfolk",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY--13737",
+      "WMOID": "723080",
+      "Latitude": 36.90,
+      "Longitude": -76.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "Newport News 723086 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Newport News",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723086",
+      "Latitude": 37.13,
+      "Longitude": -76.50,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 13.0
+    }
+  },
+  {
+    "OriginalFileName": "Norfolk 723080 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "NORFOLK",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13737",
+      "WMOID": "723080",
+      "Latitude": 36.90,
+      "Longitude": -76.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "Melfa-Accomack County AP 724026 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Melfa Accomack Arpt",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724026",
+      "Latitude": 37.65,
+      "Longitude": -75.77,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 15.0
+    }
+  },
+  {
+    "OriginalFileName": "Marion-Wytheville-Mountain Empire AP 724056 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Marion   Wytheville",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724056",
+      "Latitude": 36.90,
+      "Longitude": -81.35,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 780.0
+    }
+  },
+  {
+    "OriginalFileName": "Martinsville-Blue Ridge AP 745985 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Martinsville",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "745985",
+      "Latitude": 36.63,
+      "Longitude": -80.02,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 287.0
+    }
+  },
+  {
+    "OriginalFileName": "Lynchburg Rgnl AP-Preston Glen Field 724100 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lynchburg Regional Arpt",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724100",
+      "Latitude": 37.33,
+      "Longitude": -79.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 286.0
+    }
+  },
+  {
+    "OriginalFileName": "Manassas Muni AWOS 724036 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Manassas Muni Awos",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724036",
+      "Latitude": 38.72,
+      "Longitude": -77.52,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 59.0
+    }
+  },
+  {
+    "OriginalFileName": "Lynchburg 724100 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "LYNCHBURG",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13733",
+      "WMOID": "724100",
+      "Latitude": 37.33,
+      "Longitude": -79.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 279.0
+    }
+  },
+  {
+    "OriginalFileName": "Langley AFB 745980 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Langley Afb",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "745980",
+      "Latitude": 37.08,
+      "Longitude": -76.35,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Leesburg Muni AP-Godfrey Field 724055 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Leesburg Godfrey",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724055",
+      "Latitude": 39.08,
+      "Longitude": -77.57,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 119.0
+    }
+  },
+  {
+    "OriginalFileName": "Hillsville-Twin County AP 724107 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hillsville",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724107",
+      "Latitude": 36.77,
+      "Longitude": -80.82,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 834.0
+    }
+  },
+  {
+    "OriginalFileName": "Hot Springs-Ingalls Field 724115 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hot Springs Ingalls",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724115",
+      "Latitude": 37.95,
+      "Longitude": -79.83,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 1156.0
+    }
+  },
+  {
+    "OriginalFileName": "Fredericksburg-Shannon AP 724033 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Shannon Arpt",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724033",
+      "Latitude": 38.27,
+      "Longitude": -77.45,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 26.0
+    }
+  },
+  {
+    "OriginalFileName": "Franklin Muni AP 723083 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Franklin Naas",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723083",
+      "Latitude": 36.70,
+      "Longitude": -76.90,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "Davison AAF 724037 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Davison Aaf",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724037",
+      "Latitude": 38.72,
+      "Longitude": -77.18,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 27.0
+    }
+  },
+  {
+    "OriginalFileName": "Farmville Muni AP 724017 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Farmville",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724017",
+      "Latitude": 37.35,
+      "Longitude": -78.43,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 125.0
+    }
+  },
+  {
+    "OriginalFileName": "Danville Rgnl AP 724106 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Danville Faa Ap",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724106",
+      "Latitude": 36.57,
+      "Longitude": -79.33,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 176.0
+    }
+  },
+  {
+    "OriginalFileName": "Blacksburg-Virginia Tech AP 724113 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Virginia Tech Arpt",
+      "StateName": "VA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724113",
+      "Latitude": 37.22,
+      "Longitude": -80.42,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 650.0
+    }
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "Fort Wayne Intl AP 725330 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Wayne",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY--14827",
+      "WMOID": "725330",
+      "Latitude": 41.00,
+      "Longitude": -85.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 252.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Wayne Intl AP 725330 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Wayne Intl Ap",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725330",
+      "Latitude": 41.00,
+      "Longitude": -85.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 241.0
+    }
+  },
+  {
+    "OriginalFileName": "Evansville Rgnl AP 724320 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Evansville Regional Ap",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724320",
+      "Latitude": 38.05,
+      "Longitude": -87.53,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 116.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Wayne 725330 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "FORT_WAYNE",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14827",
+      "WMOID": "725330",
+      "Latitude": 41.00,
+      "Longitude": -85.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 252.0
+    }
+  },
+  {
+    "OriginalFileName": "Evansville Rgnl AP 724320 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Evansville",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY--93817",
+      "WMOID": "724320",
+      "Latitude": 38.05,
+      "Longitude": -87.53,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 118.0
+    }
+  },
+  {
+    "OriginalFileName": "Delaware County-Johnson Field 725336 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Delaware Co Johnson",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725336",
+      "Latitude": 40.23,
+      "Longitude": -85.40,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 293.0
+    }
+  },
+  {
+    "OriginalFileName": "Evansville 724320 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "EVANSVILLE",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93817",
+      "WMOID": "724320",
+      "Latitude": 38.05,
+      "Longitude": -87.53,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 118.0
+    }
+  },
+  {
+    "OriginalFileName": "Waukegan Rgnl AP 725347 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Chicago Waukegan",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725347",
+      "Latitude": 42.42,
+      "Longitude": -87.87,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 222.0
+    }
+  },
+  {
+    "OriginalFileName": "Sterling-Rock Falls-Whiteside County AP 725326 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sterling Rockfalls",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725326",
+      "Latitude": 41.75,
+      "Longitude": -89.67,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 197.0
+    }
+  },
+  {
+    "OriginalFileName": "University of Illinois-Willard AP 725315 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Univ Of Illinois Wi  Bondville",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725315",
+      "Latitude": 40.06,
+      "Longitude": -88.37,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 213.0
+    }
+  },
+  {
+    "OriginalFileName": "Springfield 724390 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SPRINGFIELD",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93822",
+      "WMOID": "724390",
+      "Latitude": 39.83,
+      "Longitude": -89.67,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 187.0
+    }
+  },
+  {
+    "OriginalFileName": "Springfield-Capital AP 724390 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Springfield Capital Ap",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724390",
+      "Latitude": 39.85,
+      "Longitude": -89.68,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 179.0
+    }
+  },
+  {
+    "OriginalFileName": "Springfield-Capital AP 724390 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Springfield",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY--93822",
+      "WMOID": "724390",
+      "Latitude": 39.85,
+      "Longitude": -89.67,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 187.0
+    }
+  },
+  {
+    "OriginalFileName": "Rockford 725430 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ROCKFORD",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94822",
+      "WMOID": "725430",
+      "Latitude": 42.20,
+      "Longitude": -89.10,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 221.0
+    }
+  },
+  {
+    "OriginalFileName": "Rockford-Greater Rockford AP 725430 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Rockford Greater Rockford Ap",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725430",
+      "Latitude": 42.20,
+      "Longitude": -89.10,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 223.0
+    }
+  },
+  {
+    "OriginalFileName": "Peoria 725320 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "PEORIA",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14842",
+      "WMOID": "725320",
+      "Latitude": 40.67,
+      "Longitude": -89.68,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 199.0
+    }
+  },
+  {
+    "OriginalFileName": "Quincy Muni AP 724396 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Quincy Muni Baldwin Fld",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724396",
+      "Latitude": 39.93,
+      "Longitude": -91.20,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 233.0
+    }
+  },
+  {
+    "OriginalFileName": "Peoria-Greater Peoria AP 725320 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Peoria Greater Peoria Ap",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725320",
+      "Latitude": 40.67,
+      "Longitude": -89.68,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 199.0
+    }
+  },
+  {
+    "OriginalFileName": "Mount Vernon AWOS 724335 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mount Vernon  Awos",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724335",
+      "Latitude": 38.32,
+      "Longitude": -88.87,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 146.0
+    }
+  },
+  {
+    "OriginalFileName": "Moline 725440 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "MOLINE",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14923",
+      "WMOID": "725440",
+      "Latitude": 41.45,
+      "Longitude": -90.52,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 181.0
+    }
+  },
+  {
+    "OriginalFileName": "Moline-Quad City Intl AP 725440 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Moline Quad City Intl Ap",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725440",
+      "Latitude": 41.47,
+      "Longitude": -90.52,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 180.0
+    }
+  },
+  {
+    "OriginalFileName": "Marion-Williamson County Rgnl AP 724339 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Marion Regional",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724339",
+      "Latitude": 37.75,
+      "Longitude": -89.02,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 144.0
+    }
+  },
+  {
+    "OriginalFileName": "Moline-Quad City Intl AP 725440 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Moline/Davenport IA",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY--14923",
+      "WMOID": "725440",
+      "Latitude": 41.45,
+      "Longitude": -90.52,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 181.0
+    }
+  },
+  {
+    "OriginalFileName": "Du Page AP 725305 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "W  Chicago Du Page",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725305",
+      "Latitude": 41.92,
+      "Longitude": -88.25,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 231.0
+    }
+  },
+  {
+    "OriginalFileName": "Chicago-OHare Intl AP 725300 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Chicago Ohare Intl Ap",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725300",
+      "Latitude": 41.98,
+      "Longitude": -87.92,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 201.0
+    }
+  },
+  {
+    "OriginalFileName": "Decatur AP 725316 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Decatur",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725316",
+      "Latitude": 39.83,
+      "Longitude": -88.87,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 213.0
+    }
+  },
+  {
+    "OriginalFileName": "Chicago-OHare 725300 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "CHICAGO",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94846",
+      "WMOID": "725300",
+      "Latitude": 41.78,
+      "Longitude": -87.75,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 190.0
+    }
+  },
+  {
+    "OriginalFileName": "Chicago-Midway AP 725340 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Chicago Midway Ap",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725340",
+      "Latitude": 41.78,
+      "Longitude": -87.75,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 186.0
+    }
+  },
+  {
+    "OriginalFileName": "Carbondale-Southern Illinois AP 724336 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Southern Illinois",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724336",
+      "Latitude": 37.77,
+      "Longitude": -89.25,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 128.0
+    }
+  },
+  {
+    "OriginalFileName": "Chicago-Midway AP 725340 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Chicago/Midway",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY--14819",
+      "WMOID": "725340",
+      "Latitude": 41.78,
+      "Longitude": -87.75,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 187.0
+    }
+  },
+  {
+    "OriginalFileName": "Cahokia AP 725314 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cahokia St  Louis",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725314",
+      "Latitude": 38.57,
+      "Longitude": -90.15,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 126.0
+    }
+  },
+  {
+    "OriginalFileName": "Belleville-Scott AFB 724338 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Belleville Scott Afb",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724338",
+      "Latitude": 38.55,
+      "Longitude": -89.85,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 135.0
+    }
+  },
+  {
+    "OriginalFileName": "Bloomington Normal-Central Illinois Rgnl AP 724397 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Central Illinois Rg",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724397",
+      "Latitude": 40.47,
+      "Longitude": -88.92,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 272.0
+    }
+  },
+  {
+    "OriginalFileName": "Aurora Muni AP 744655 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Aurora Municipal",
+      "StateName": "IL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "744655",
+      "Latitude": 41.77,
+      "Longitude": -88.47,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 215.0
+    }
+  },
+  {
+    "OriginalFileName": "Soda Springs-Tigert AP 725868 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Soda Springs Tigert",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725868",
+      "Latitude": 42.65,
+      "Longitude": -111.58,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1780.0
+    }
+  },
+  {
+    "OriginalFileName": "Twin Falls-Magic Valley Rgnl AP-Joslin Field 725866 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Joslin Fld Magic Va  Twin Fall",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725866",
+      "Latitude": 42.55,
+      "Longitude": -114.35,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1200.0
+    }
+  },
+  {
+    "OriginalFileName": "Salmon-Lemhi AWOS 726865 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Salmon Lemhi  Awos",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726865",
+      "Latitude": 45.12,
+      "Longitude": -113.88,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1233.0
+    }
+  },
+  {
+    "OriginalFileName": "Pocatello Muni AP 725780 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Pocatello Regional Ap",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725780",
+      "Latitude": 42.92,
+      "Longitude": -112.57,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1353.0
+    }
+  },
+  {
+    "OriginalFileName": "Pocatello 725780 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "POCATELLO",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24156",
+      "WMOID": "725780",
+      "Latitude": 42.92,
+      "Longitude": -112.60,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1365.0
+    }
+  },
+  {
+    "OriginalFileName": "Pocatello Muni AP 725780 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Pocatello",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY--24156",
+      "WMOID": "725780",
+      "Latitude": 42.92,
+      "Longitude": -112.60,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1365.0
+    }
+  },
+  {
+    "OriginalFileName": "Malad City AP 725786 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Malad City",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725786",
+      "Latitude": 42.15,
+      "Longitude": -112.28,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1362.0
+    }
+  },
+  {
+    "OriginalFileName": "Mountain Home AFB 726815 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mountain Home Afb",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726815",
+      "Latitude": 43.05,
+      "Longitude": -115.87,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 912.0
+    }
+  },
+  {
+    "OriginalFileName": "Lewiston-Nez Perce County AP 727830 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lewiston Nez Perce Cnty Ap",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727830",
+      "Latitude": 46.37,
+      "Longitude": -117.02,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 438.0
+    }
+  },
+  {
+    "OriginalFileName": "Lewiston-Nez Perce County AP 727830 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Lewiston",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY--24149",
+      "WMOID": "727830",
+      "Latitude": 46.36,
+      "Longitude": -117.01,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 437.0
+    }
+  },
+  {
+    "OriginalFileName": "Idaho Falls-Fanning Field 725785 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Idaho Falls Fanning Field",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725785",
+      "Latitude": 43.52,
+      "Longitude": -112.07,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1441.0
+    }
+  },
+  {
+    "OriginalFileName": "Hailey-Sun Valley AP 725865 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hailey Friedman Mem",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725865",
+      "Latitude": 43.50,
+      "Longitude": -114.30,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1620.0
+    }
+  },
+  {
+    "OriginalFileName": "Caldwell AWOS 726813 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Caldwell  Awos",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726813",
+      "Latitude": 43.63,
+      "Longitude": -116.63,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 740.0
+    }
+  },
+  {
+    "OriginalFileName": "Coeur dAlene AWOS 727834 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Coeur D Alene Awos",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727834",
+      "Latitude": 47.77,
+      "Longitude": -116.82,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 707.0
+    }
+  },
+  {
+    "OriginalFileName": "Burley Muni AP 725867 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Burley Municipal Arpt",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725867",
+      "Latitude": 42.53,
+      "Longitude": -113.77,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1267.0
+    }
+  },
+  {
+    "OriginalFileName": "Boise Air Terminal 726810 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Boise Air Terminal  Uo",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726810",
+      "Latitude": 43.62,
+      "Longitude": -116.21,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 701.0
+    }
+  },
+  {
+    "OriginalFileName": "Boise Air Terminal 726810 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Boise",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY--24131",
+      "WMOID": "726810",
+      "Latitude": 43.57,
+      "Longitude": -116.22,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 874.0
+    }
+  },
+  {
+    "OriginalFileName": "Boise 726810 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "BOISE",
+      "StateName": "ID",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24131",
+      "WMOID": "726810",
+      "Latitude": 43.57,
+      "Longitude": -116.22,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 874.0
+    }
+  },
+  {
+    "OriginalFileName": "Webster City Muni AP 725478 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Webster City",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725478",
+      "Latitude": 42.43,
+      "Longitude": -93.87,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 342.0
+    }
+  },
+  {
+    "OriginalFileName": "Waterloo Muni AP 725480 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Waterloo Municipal Ap",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725480",
+      "Latitude": 42.55,
+      "Longitude": -92.40,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 264.0
+    }
+  },
+  {
+    "OriginalFileName": "Washington Muni AP 725454 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Washington",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725454",
+      "Latitude": 41.28,
+      "Longitude": -91.67,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 230.0
+    }
+  },
+  {
+    "OriginalFileName": "Waterloo 725480 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "WATERLOO",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94910",
+      "WMOID": "725480",
+      "Latitude": 42.55,
+      "Longitude": -92.40,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 265.0
+    }
+  },
+  {
+    "OriginalFileName": "Storm Lake Muni AP 725496 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Storm Lake",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725496",
+      "Latitude": 42.60,
+      "Longitude": -95.23,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 454.0
+    }
+  },
+  {
+    "OriginalFileName": "Sioux City 725570 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SIOUX_CITY",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14943",
+      "WMOID": "725570",
+      "Latitude": 42.40,
+      "Longitude": -96.38,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 336.0
+    }
+  },
+  {
+    "OriginalFileName": "Spencer Muni AP 726500 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Spencer",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726500",
+      "Latitude": 43.17,
+      "Longitude": -95.15,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 408.0
+    }
+  },
+  {
+    "OriginalFileName": "Sioux City-Sioux Gateway AP 725570 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sioux City Sioux Gateway Ap",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725570",
+      "Latitude": 42.38,
+      "Longitude": -96.38,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 333.0
+    }
+  },
+  {
+    "OriginalFileName": "Shenandoah Muni AP 725467 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Shenandoah Muni",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725467",
+      "Latitude": 40.75,
+      "Longitude": -95.42,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 296.0
+    }
+  },
+  {
+    "OriginalFileName": "Sioux City-Sioux Gateway AP 725570 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Sioux City",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY--14943",
+      "WMOID": "725570",
+      "Latitude": 42.40,
+      "Longitude": -96.38,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 336.0
+    }
+  },
+  {
+    "OriginalFileName": "Sheldon Muni AP 725495 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sheldon",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725495",
+      "Latitude": 43.22,
+      "Longitude": -95.83,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 432.0
+    }
+  },
+  {
+    "OriginalFileName": "Ottumwa Industrial AP 725465 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Ottumwa Industrial Ap",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725465",
+      "Latitude": 41.10,
+      "Longitude": -92.45,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 257.0
+    }
+  },
+  {
+    "OriginalFileName": "Red Oak Muni AP 725494 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Red Oak",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725494",
+      "Latitude": 41.02,
+      "Longitude": -95.27,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 318.0
+    }
+  },
+  {
+    "OriginalFileName": "Orange City Muni AP 725489 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Orange City",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725489",
+      "Latitude": 42.98,
+      "Longitude": -96.07,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 431.0
+    }
+  },
+  {
+    "OriginalFileName": "Oelwein Muni AP 725488 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Oelwen",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725488",
+      "Latitude": 42.68,
+      "Longitude": -91.97,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 328.0
+    }
+  },
+  {
+    "OriginalFileName": "Muscatine Muni AP 725487 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Muscatine",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725487",
+      "Latitude": 41.37,
+      "Longitude": -91.15,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 167.0
+    }
+  },
+  {
+    "OriginalFileName": "Newton Muni AP 725464 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Newton Muni",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725464",
+      "Latitude": 41.68,
+      "Longitude": -93.02,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 290.0
+    }
+  },
+  {
+    "OriginalFileName": "Mason City Muni AP 725485 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mason City Municipal Arpt",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725485",
+      "Latitude": 43.15,
+      "Longitude": -93.33,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 364.0
+    }
+  },
+  {
+    "OriginalFileName": "Monticello Muni AP 725475 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Monticello Muni",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725475",
+      "Latitude": 42.23,
+      "Longitude": -91.17,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 259.0
+    }
+  },
+  {
+    "OriginalFileName": "Mason City Muni AP 725485 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Mason City",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY--14940",
+      "WMOID": "725485",
+      "Latitude": 43.15,
+      "Longitude": -93.33,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 370.0
+    }
+  },
+  {
+    "OriginalFileName": "Le Mars Muni AP 725484 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Le Mars",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725484",
+      "Latitude": 42.78,
+      "Longitude": -96.20,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 365.0
+    }
+  },
+  {
+    "OriginalFileName": "Mason City 725485 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "MASON_CITY",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14940",
+      "WMOID": "725485",
+      "Latitude": 43.15,
+      "Longitude": -93.33,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 373.0
+    }
+  },
+  {
+    "OriginalFileName": "Knoxville Muni AP 725493 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Knoxville",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725493",
+      "Latitude": 41.30,
+      "Longitude": -93.12,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 283.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Madison Muni AP 725483 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Madison",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725483",
+      "Latitude": 40.67,
+      "Longitude": -91.33,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 221.0
+    }
+  },
+  {
+    "OriginalFileName": "Keokuk Muni AP 725456 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Keokuk Muni",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725456",
+      "Latitude": 40.47,
+      "Longitude": -91.43,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 205.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Dodge AWOS 725490 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Dodge  Awos",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725490",
+      "Latitude": 42.55,
+      "Longitude": -94.18,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 355.0
+    }
+  },
+  {
+    "OriginalFileName": "Estherville Muni AP 726499 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Estherville Muni",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726499",
+      "Latitude": 43.40,
+      "Longitude": -94.75,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 401.0
+    }
+  },
+  {
+    "OriginalFileName": "Fairfield Muni AP 726498 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fair Field",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726498",
+      "Latitude": 41.05,
+      "Longitude": -91.98,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 244.0
+    }
+  },
+  {
+    "OriginalFileName": "Dubuque Rgnl AP 725470 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Dubuque Regional Ap",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725470",
+      "Latitude": 42.40,
+      "Longitude": -90.70,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 322.0
+    }
+  },
+  {
+    "OriginalFileName": "Des Moines Intl AP 725460 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Des Moines",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY--14933",
+      "WMOID": "725460",
+      "Latitude": 41.53,
+      "Longitude": -93.65,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 294.0
+    }
+  },
+  {
+    "OriginalFileName": "Des Moines Intl AP 725460 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Des Moines Intl Ap",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725460",
+      "Latitude": 41.53,
+      "Longitude": -93.67,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 292.0
+    }
+  },
+  {
+    "OriginalFileName": "Des Moines 725460 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "DES_MOINES",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14933",
+      "WMOID": "725460",
+      "Latitude": 41.53,
+      "Longitude": -93.65,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 294.0
+    }
+  },
+  {
+    "OriginalFileName": "Denison Muni AP 725477 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Denison",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725477",
+      "Latitude": 41.98,
+      "Longitude": -95.38,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 388.0
+    }
+  },
+  {
+    "OriginalFileName": "Creston Muni AP 725474 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Creston",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725474",
+      "Latitude": 41.02,
+      "Longitude": -94.37,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 394.0
+    }
+  },
+  {
+    "OriginalFileName": "Decorah Muni AP 725476 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Decorah",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725476",
+      "Latitude": 43.28,
+      "Longitude": -91.73,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 353.0
+    }
+  },
+  {
+    "OriginalFileName": "Council Bluffs Muni AP 725497 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Council Bluffs",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725497",
+      "Latitude": 41.27,
+      "Longitude": -95.77,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 382.0
+    }
+  },
+  {
+    "OriginalFileName": "Clinton Muni AWOS 725473 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Clinton Muni  Awos",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725473",
+      "Latitude": 41.83,
+      "Longitude": -90.33,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 216.0
+    }
+  },
+  {
+    "OriginalFileName": "Charles City Muni AP 725463 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Charles City",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725463",
+      "Latitude": 43.07,
+      "Longitude": -92.62,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 343.0
+    }
+  },
+  {
+    "OriginalFileName": "Clarinda Muni AP 725479 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Clarinda",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725479",
+      "Latitude": 40.72,
+      "Longitude": -95.03,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 303.0
+    }
+  },
+  {
+    "OriginalFileName": "Chariton Muni AP 725469 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Chariton",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725469",
+      "Latitude": 41.03,
+      "Longitude": -93.37,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 320.0
+    }
+  },
+  {
+    "OriginalFileName": "Carroll Muni AP 725468 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Carroll",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725468",
+      "Latitude": 42.05,
+      "Longitude": -94.78,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 375.0
+    }
+  },
+  {
+    "OriginalFileName": "Cedar Rapids Muni AP 725450 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cedar Rapids Municipal Ap",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725450",
+      "Latitude": 41.88,
+      "Longitude": -91.72,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 256.0
+    }
+  },
+  {
+    "OriginalFileName": "Burlington Muni AP 725455 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Burlington Municipal Ap",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725455",
+      "Latitude": 40.78,
+      "Longitude": -91.12,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 211.0
+    }
+  },
+  {
+    "OriginalFileName": "Burlington Muni AP 725455 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Burlington",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY--14931",
+      "WMOID": "725455",
+      "Latitude": 40.78,
+      "Longitude": -91.13,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 213.0
+    }
+  },
+  {
+    "OriginalFileName": "Boone Muni AP 725486 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Boone Muni",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725486",
+      "Latitude": 42.05,
+      "Longitude": -93.85,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 354.0
+    }
+  },
+  {
+    "OriginalFileName": "Algona Muni AP 725457 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Algona",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725457",
+      "Latitude": 43.08,
+      "Longitude": -94.27,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 372.0
+    }
+  },
+  {
+    "OriginalFileName": "Atlantic Muni AP 725453 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Atlantic",
+      "StateName": "IA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725453",
+      "Latitude": 41.40,
+      "Longitude": -95.05,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 360.0
+    }
+  },
+  {
+    "OriginalFileName": "Molokai AWOS 911860 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Molokai  Amos",
+      "StateName": "HI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "911860",
+      "Latitude": 21.15,
+      "Longitude": -157.10,
+      "TimeZoneOffset": -10.0,
+      "Elevation": 137.0
+    }
+  }
+]

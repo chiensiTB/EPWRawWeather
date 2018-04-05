@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "Lyon 074810 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "LYON",
+      "StateName": "-",
+      "Country": "FRA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "074810",
+      "Latitude": 45.73,
+      "Longitude": 5.08,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 240.0
+    }
+  },
+  {
+    "OriginalFileName": "Clermont-Ferrand 074600 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "CLERMONT-FERRAND",
+      "StateName": "-",
+      "Country": "FRA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "074600",
+      "Latitude": 45.78,
+      "Longitude": 3.17,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 330.0
+    }
+  },
+  {
+    "OriginalFileName": "Bordeaux 075100 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BORDEAUX",
+      "StateName": "-",
+      "Country": "FRA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "075100",
+      "Latitude": 44.83,
+      "Longitude": -0.70,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 61.0
+    }
+  },
+  {
+    "OriginalFileName": "Brest 071100 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BREST",
+      "StateName": "-",
+      "Country": "FRA",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "071100",
+      "Latitude": 48.45,
+      "Longitude": -4.42,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 103.0
+    }
+  },
+  {
+    "OriginalFileName": "Tampere 029440 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "TAMPERE",
+      "StateName": "-",
+      "Country": "FIN",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "029440",
+      "Latitude": 61.42,
+      "Longitude": 23.58,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 112.0
+    }
+  },
+  {
+    "OriginalFileName": "Helsinki 029740 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "HELSINKI",
+      "StateName": "-",
+      "Country": "FIN",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "029740",
+      "Latitude": 60.32,
+      "Longitude": 24.97,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 56.0
+    }
+  },
+  {
+    "OriginalFileName": "Zaragoza 081600 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Zaragoza",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "081600",
+      "Latitude": 41.67,
+      "Longitude": -1.02,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 158.0
+    }
+  },
+  {
+    "OriginalFileName": "Vitoria 080800 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Vitoria",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "080800",
+      "Latitude": 42.85,
+      "Longitude": -2.64,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 82.0
+    }
+  },
+  {
+    "OriginalFileName": "Zamora 081300 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Zamora",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "081300",
+      "Latitude": 41.50,
+      "Longitude": -5.91,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 82.0
+    }
+  },
+  {
+    "OriginalFileName": "Valladolid 081410 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Valladolid",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "081410",
+      "Latitude": 41.65,
+      "Longitude": -4.77,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 735.0
+    }
+  },
+  {
+    "OriginalFileName": "Valencia 082840 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "VALENCIA",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "082840",
+      "Latitude": 39.50,
+      "Longitude": -0.47,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 62.0
+    }
+  },
+  {
+    "OriginalFileName": "Valencia 082840 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Valencia",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "082840",
+      "Latitude": 39.50,
+      "Longitude": -0.47,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 62.0
+    }
+  },
+  {
+    "OriginalFileName": "Teruel 082350 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Teruel",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "082350",
+      "Latitude": 40.34,
+      "Longitude": -1.10,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 82.0
+    }
+  },
+  {
+    "OriginalFileName": "Toledo 082720 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Toledo",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "082720",
+      "Latitude": 39.88,
+      "Longitude": -4.05,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 529.0
+    }
+  },
+  {
+    "OriginalFileName": "Tarragona 081760 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Tarragona",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "081760",
+      "Latitude": 40.82,
+      "Longitude": 0.49,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 82.0
+    }
+  },
+  {
+    "OriginalFileName": "Tenerife 600200 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Tenerife",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "600200",
+      "Latitude": 28.47,
+      "Longitude": -16.25,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 46.0
+    }
+  },
+  {
+    "OriginalFileName": "Sevilla 083910 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Sevilla",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "083910",
+      "Latitude": 37.42,
+      "Longitude": -5.90,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 31.0
+    }
+  },
+  {
+    "OriginalFileName": "Soria 081480 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Soria",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "081480",
+      "Latitude": 41.77,
+      "Longitude": -2.48,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 82.0
+    }
+  },
+  {
+    "OriginalFileName": "Sevilla 083910 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "SEVILLA",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "083910",
+      "Latitude": 37.42,
+      "Longitude": -5.90,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 31.0
+    }
+  },
+  {
+    "OriginalFileName": "Santander 080230 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Santander",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "080230",
+      "Latitude": 43.47,
+      "Longitude": -3.82,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 65.0
+    }
+  },
+  {
+    "OriginalFileName": "Segovia 082130 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Segovia",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "082130",
+      "Latitude": 40.95,
+      "Longitude": -4.13,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 795.0
+    }
+  },
+  {
+    "OriginalFileName": "San Sebastian 080270 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "San Sebastian",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "080270",
+      "Latitude": 43.30,
+      "Longitude": -2.05,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 259.0
+    }
+  },
+  {
+    "OriginalFileName": "Santander 080230 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "SANTANDER",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "080230",
+      "Latitude": 43.47,
+      "Longitude": -3.82,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 40.0
+    }
+  },
+  {
+    "OriginalFileName": "Pontevedra 080440 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Pontevedra",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "080440",
+      "Latitude": 42.43,
+      "Longitude": -8.65,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 256.0
+    }
+  },
+  {
+    "OriginalFileName": "Salamanca 082020 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Salamanca",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "082020",
+      "Latitude": 40.95,
+      "Longitude": -5.50,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 795.0
+    }
+  },
+  {
+    "OriginalFileName": "Pamplona 080850 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Pamplona",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "-",
+      "Latitude": 42.76,
+      "Longitude": -1.64,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 363.0
+    }
+  },
+  {
+    "OriginalFileName": "Palma 083060 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "PALMA",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "083060",
+      "Latitude": 39.55,
+      "Longitude": 2.73,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "Palma 083060 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Palma",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "083060",
+      "Latitude": 39.55,
+      "Longitude": 2.73,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "Oviedo 080150 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Oviedo",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "080150",
+      "Latitude": 43.34,
+      "Longitude": -5.87,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 339.0
+    }
+  },
+  {
+    "OriginalFileName": "Palencia 080720 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Palencia",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "080720",
+      "Latitude": 42.01,
+      "Longitude": -4.54,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 263.0
+    }
+  },
+  {
+    "OriginalFileName": "Murcia 084300 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Murcia",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "084300",
+      "Latitude": 37.79,
+      "Longitude": -0.80,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 62.0
+    }
+  },
+  {
+    "OriginalFileName": "Orense 080480 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Orense",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "080480",
+      "Latitude": 42.33,
+      "Longitude": -7.86,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 256.0
+    }
+  },
+  {
+    "OriginalFileName": "Malaga 084820 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Malaga",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "084820",
+      "Latitude": 36.67,
+      "Longitude": -4.49,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Melilla 603380 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Melilla",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "603380",
+      "Latitude": 35.28,
+      "Longitude": -2.95,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Madrid 082210 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Madrid",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "082210",
+      "Latitude": 40.41,
+      "Longitude": -3.68,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 582.0
+    }
+  },
+  {
+    "OriginalFileName": "Lugo 080080 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Lugo",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "080080",
+      "Latitude": 43.25,
+      "Longitude": -7.48,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 259.0
+    }
+  },
+  {
+    "OriginalFileName": "Madrid 082210 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "MADRID",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "082210",
+      "Latitude": 40.45,
+      "Longitude": -3.55,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 582.0
+    }
+  },
+  {
+    "OriginalFileName": "Lerida 081710 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Lerida",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "081710",
+      "Latitude": 41.63,
+      "Longitude": 0.60,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 263.0
+    }
+  },
+  {
+    "OriginalFileName": "Logrono 080840 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Logrono",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "080840",
+      "Latitude": 42.45,
+      "Longitude": -2.33,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 363.0
+    }
+  },
+  {
+    "OriginalFileName": "Las Palmas 600300 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Las Palmas",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "600300",
+      "Latitude": 27.93,
+      "Longitude": -15.38,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 25.0
+    }
+  },
+  {
+    "OriginalFileName": "Leon 080550 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Leon",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "080550",
+      "Latitude": 42.59,
+      "Longitude": -5.65,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 363.0
+    }
+  },
+  {
+    "OriginalFileName": "Jaen 084170 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Jaen",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "084170",
+      "Latitude": 37.78,
+      "Longitude": -3.79,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 48.0
+    }
+  },
+  {
+    "OriginalFileName": "La Coruna 080010 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "La Coruna",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "080010",
+      "Latitude": 43.37,
+      "Longitude": -8.42,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 67.0
+    }
+  },
+  {
+    "OriginalFileName": "Huelva 083830 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Huelva",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "083830",
+      "Latitude": 37.26,
+      "Longitude": -6.95,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 35.0
+    }
+  },
+  {
+    "OriginalFileName": "Huesca 080940 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Huesca",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "080940",
+      "Latitude": 42.08,
+      "Longitude": -0.33,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 180.0
+    }
+  },
+  {
+    "OriginalFileName": "Granada 084190 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Granada",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "084190",
+      "Latitude": 37.18,
+      "Longitude": -3.78,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 559.0
+    }
+  },
+  {
+    "OriginalFileName": "Guadalajara 082260 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Guadalajara",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "082260",
+      "Latitude": 40.63,
+      "Longitude": -3.16,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 608.0
+    }
+  },
+  {
+    "OriginalFileName": "Cuenca 082310 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Cuenca",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "082310",
+      "Latitude": 40.07,
+      "Longitude": -2.14,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 200.0
+    }
+  },
+  {
+    "OriginalFileName": "Gerona 081840 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Gerona",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "081840",
+      "Latitude": 41.90,
+      "Longitude": 2.77,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 129.0
+    }
+  },
+  {
+    "OriginalFileName": "Ceuta 603200 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Ceuta",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "603200",
+      "Latitude": 35.89,
+      "Longitude": -5.29,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 38.0
+    }
+  },
+  {
+    "OriginalFileName": "Cordoba 084100 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Cordoba",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "084100",
+      "Latitude": 37.84,
+      "Longitude": -4.85,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 51.0
+    }
+  },
+  {
+    "OriginalFileName": "Castellon 082860 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Castellon",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "082860",
+      "Latitude": 39.95,
+      "Longitude": -0.07,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 82.0
+    }
+  },
+  {
+    "OriginalFileName": "Caceres 082610 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Caceres",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "082610",
+      "Latitude": 39.47,
+      "Longitude": -6.33,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 405.0
+    }
+  },
+  {
+    "OriginalFileName": "Bilbao 08250 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Bilbao",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "08250",
+      "Latitude": 43.30,
+      "Longitude": -2.93,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 298.0
+    }
+  },
+  {
+    "OriginalFileName": "Burgos 080750 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Burgos",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "080750",
+      "Latitude": 42.36,
+      "Longitude": -3.62,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 312.0
+    }
+  },
+  {
+    "OriginalFileName": "Barcelona 081810 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Barcelona",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "081810",
+      "Latitude": 41.28,
+      "Longitude": 2.07,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Badajoz 083300 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Badajoz",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "083300",
+      "Latitude": 38.88,
+      "Longitude": -6.81,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 350.0
+    }
+  },
+  {
+    "OriginalFileName": "Barcelona 081810 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BARCELONA",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "081810",
+      "Latitude": 41.28,
+      "Longitude": 2.07,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Almeria 084870 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Almeria",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "084870",
+      "Latitude": 36.85,
+      "Longitude": -2.38,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 21.0
+    }
+  },
+  {
+    "OriginalFileName": "Avila 082100 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Avila",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "082100",
+      "Latitude": 40.66,
+      "Longitude": -4.70,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 664.0
+    }
+  },
+  {
+    "OriginalFileName": "Albacete 082800 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Albacete",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "082800",
+      "Latitude": 38.95,
+      "Longitude": -1.85,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 704.0
+    }
+  },
+  {
+    "OriginalFileName": "Alicante 083600 (SWEC)",
+    "EPWLocationInfo": {
+      "CityName": "Alicante",
+      "StateName": "-",
+      "Country": "ESP",
+      "WeatherSource": "SWEC",
+      "WMOID": "083600",
+      "Latitude": 38.37,
+      "Longitude": -0.50,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 31.0
+    }
+  },
+  {
+    "OriginalFileName": "Copenhagen 061800 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "COPENHAGEN",
+      "StateName": "-",
+      "Country": "DNK",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "061800",
+      "Latitude": 55.63,
+      "Longitude": 12.67,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Stuttgart 107380 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "STUTTGART",
+      "StateName": "-",
+      "Country": "DEU",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "107380",
+      "Latitude": 48.68,
+      "Longitude": 9.22,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 419.0
+    }
+  },
+  {
+    "OriginalFileName": "Munich 108660 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "MUNICH",
+      "StateName": "-",
+      "Country": "DEU",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "108660",
+      "Latitude": 48.13,
+      "Longitude": 11.70,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 529.0
+    }
+  },
+  {
+    "OriginalFileName": "Koln 105130 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "KOLN",
+      "StateName": "-",
+      "Country": "DEU",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "105130",
+      "Latitude": 50.87,
+      "Longitude": 7.17,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 99.0
+    }
+  },
+  {
+    "OriginalFileName": "Mannheim 107290 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "MANNHEIM",
+      "StateName": "-",
+      "Country": "DEU",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "107290",
+      "Latitude": 49.52,
+      "Longitude": 8.55,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 100.0
+    }
+  },
+  {
+    "OriginalFileName": "Frankfurt am Main 106370 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "FRANKFURT AM MAIN",
+      "StateName": "-",
+      "Country": "DEU",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "106370",
+      "Latitude": 50.05,
+      "Longitude": 8.60,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 113.0
+    }
+  },
+  {
+    "OriginalFileName": "Hamburg 101470 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "HAMBURG",
+      "StateName": "-",
+      "Country": "DEU",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "101470",
+      "Latitude": 53.63,
+      "Longitude": 10.00,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 16.0
+    }
+  },
+  {
+    "OriginalFileName": "Dusseldorf 104000 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "DUSSELDORF",
+      "StateName": "-",
+      "Country": "DEU",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "104000",
+      "Latitude": 51.28,
+      "Longitude": 6.78,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 44.0
+    }
+  },
+  {
+    "OriginalFileName": "Berlin 103840 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BERLIN",
+      "StateName": "-",
+      "Country": "DEU",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "103840",
+      "Latitude": 52.47,
+      "Longitude": 13.40,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 49.0
+    }
+  },
+  {
+    "OriginalFileName": "Bremen 102240 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BREMEN",
+      "StateName": "-",
+      "Country": "DEU",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "102240",
+      "Latitude": 53.05,
+      "Longitude": 8.80,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Prague 115180 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "PRAGUE",
+      "StateName": "-",
+      "Country": "CZE",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "115180",
+      "Latitude": 50.10,
+      "Longitude": 14.28,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 366.0
+    }
+  },
+  {
+    "OriginalFileName": "Ostrava 117820 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "OSTRAVA",
+      "StateName": "-",
+      "Country": "CZE",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "117820",
+      "Latitude": 49.72,
+      "Longitude": 18.18,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 256.0
+    }
+  },
+  {
+    "OriginalFileName": "Larnaca 176090 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "LARNACA",
+      "StateName": "-",
+      "Country": "CYP",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "176090",
+      "Latitude": 34.88,
+      "Longitude": 33.63,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Geneva 067000 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "GENEVA",
+      "StateName": "-",
+      "Country": "CHE",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "067000",
+      "Latitude": 46.25,
+      "Longitude": 6.13,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 416.0
+    }
+  },
+  {
+    "OriginalFileName": "Minsk 268500 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "MINSK",
+      "StateName": "-",
+      "Country": "BLR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "268500",
+      "Latitude": 53.87,
+      "Longitude": 27.53,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 234.0
+    }
+  },
+  {
+    "OriginalFileName": "Banja Luka 132420 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BANJA LUKA",
+      "StateName": "-",
+      "Country": "BIH",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "132420",
+      "Latitude": 44.78,
+      "Longitude": 17.22,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 156.0
+    }
+  },
+  {
+    "OriginalFileName": "Sofia 156140 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "SOFIA",
+      "StateName": "-",
+      "Country": "BGR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "156140",
+      "Latitude": 42.73,
+      "Longitude": 23.38,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 595.0
+    }
+  },
+  {
+    "OriginalFileName": "Varna 155520 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "VARNA",
+      "StateName": "-",
+      "Country": "BGR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "155520",
+      "Latitude": 43.20,
+      "Longitude": 27.92,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 43.0
+    }
+  },
+  {
+    "OriginalFileName": "Plovdiv 156250 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "PLOVDIV",
+      "StateName": "-",
+      "Country": "BGR",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "156250",
+      "Latitude": 42.13,
+      "Longitude": 24.75,
+      "TimeZoneOffset": 2.0,
+      "Elevation": 185.0
+    }
+  },
+  {
+    "OriginalFileName": "Oostende 064070 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "OOSTENDE",
+      "StateName": "-",
+      "Country": "BEL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "064070",
+      "Latitude": 51.20,
+      "Longitude": 2.87,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Saint Hubert 064760 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "SAINT HUBERT",
+      "StateName": "-",
+      "Country": "BEL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "064760",
+      "Latitude": 50.03,
+      "Longitude": 5.40,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 557.0
+    }
+  },
+  {
+    "OriginalFileName": "Brussels 064510 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BRUSSELS",
+      "StateName": "-",
+      "Country": "BEL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "064510",
+      "Latitude": 50.90,
+      "Longitude": 4.53,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 58.0
+    }
+  },
+  {
+    "OriginalFileName": "Salzburg 111500 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "SALZBURG",
+      "StateName": "-",
+      "Country": "AUT",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "111500",
+      "Latitude": 47.80,
+      "Longitude": 13.00,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 450.0
+    }
+  },
+  {
+    "OriginalFileName": "Vienna Schwechat 110360 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "VIENNA_ SCHWECHAT",
+      "StateName": "-",
+      "Country": "AUT",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "110360",
+      "Latitude": 48.12,
+      "Longitude": 16.57,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 190.0
+    }
+  },
+  {
+    "OriginalFileName": "Linz 110100 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "LINZ",
+      "StateName": "-",
+      "Country": "AUT",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "110100",
+      "Latitude": 48.23,
+      "Longitude": 14.20,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 313.0
+    }
+  },
+  {
+    "OriginalFileName": "Innsbruck 111200 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "INNSBRUCK",
+      "StateName": "-",
+      "Country": "AUT",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "111200",
+      "Latitude": 47.27,
+      "Longitude": 11.35,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 593.0
+    }
+  },
+  {
+    "OriginalFileName": "Graz 112400 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "GRAZ",
+      "StateName": "-",
+      "Country": "AUT",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "112400",
+      "Latitude": 47.00,
+      "Longitude": 15.43,
+      "TimeZoneOffset": 1.0,
+      "Elevation": 347.0
+    }
+  },
+  {
+    "OriginalFileName": "Wake Island 912450 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Wake Island",
+      "StateName": "",
+      "Country": "UMI",
+      "WeatherSource": "TMY--41606",
+      "WMOID": "912450",
+      "Latitude": 19.28,
+      "Longitude": 166.65,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "Singapore 486980 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "SINGAPORE",
+      "StateName": "-",
+      "Country": "SGP",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "486980",
+      "Latitude": 1.37,
+      "Longitude": 103.98,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 16.0
+    }
+  },
+  {
+    "OriginalFileName": "Koror Island 914080 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Koror Island",
+      "StateName": "",
+      "Country": "PLW",
+      "WeatherSource": "TMY--40309",
+      "WMOID": "914080",
+      "Latitude": 7.33,
+      "Longitude": 134.48,
+      "TimeZoneOffset": 9.0,
+      "Elevation": 28.0
+    }
+  },
+  {
+    "OriginalFileName": "Manila 984290 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "MANILA",
+      "StateName": "-",
+      "Country": "PHL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "984290",
+      "Latitude": 14.52,
+      "Longitude": 121.00,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 21.0
+    }
+  },
+  {
+    "OriginalFileName": "West Coast-Hokitika WC 936150 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Hokitika",
+      "StateName": "West Coast",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 3910 F20794",
+      "WMOID": "936150",
+      "Latitude": -42.72,
+      "Longitude": 170.98,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 38.0
+    }
+  },
+  {
+    "OriginalFileName": "Wellington Wellington 934360 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "WELLINGTON",
+      "StateName": "-",
+      "Country": "NZL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "934360",
+      "Latitude": -41.30,
+      "Longitude": 174.78,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 67.0
+    }
+  },
+  {
+    "OriginalFileName": "Wellington-Wellington WN 934360 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Wellington",
+      "StateName": "Wellington",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 18234 D14482",
+      "WMOID": "934360",
+      "Latitude": -41.41,
+      "Longitude": 174.87,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 79.0
+    }
+  },
+  {
+    "OriginalFileName": "Waikato-Hamilton HN 931730 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Hamilton",
+      "StateName": "Waikato",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 12616 C75733",
+      "WMOID": "931730",
+      "Latitude": -37.78,
+      "Longitude": 175.31,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 40.0
+    }
+  },
+  {
+    "OriginalFileName": "Wairarapa-Masterton WI 934710 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Masterton",
+      "StateName": "Wairarapa",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 2612 D15064",
+      "WMOID": "934710",
+      "Latitude": -41.02,
+      "Longitude": 175.62,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 91.0
+    }
+  },
+  {
+    "OriginalFileName": "Taranaki-New Plymouth NP 933090 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "New Plymouth",
+      "StateName": "Taranaki",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 2283 C94012",
+      "WMOID": "933090",
+      "Latitude": -39.01,
+      "Longitude": 174.18,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 30.0
+    }
+  },
+  {
+    "OriginalFileName": "Taupo King Country-Turangi TP 932450 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Turangi",
+      "StateName": "Taupo",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 12432 C95087",
+      "WMOID": "932450",
+      "Latitude": -38.99,
+      "Longitude": 175.81,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 375.0
+    }
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "Rotorua-Rotorua RR 932470 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Rotorua",
+      "StateName": "Bay of Plenty",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 1770 B86133",
+      "WMOID": "932470",
+      "Latitude": -38.11,
+      "Longitude": 176.32,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 283.0
+    }
+  },
+  {
+    "OriginalFileName": "Southland-Invercargill IN 938450 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Invercargill",
+      "StateName": "Southland",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 5814 I68433",
+      "WMOID": "938450",
+      "Latitude": -46.42,
+      "Longitude": 168.33,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 0.0
+    }
+  },
+  {
+    "OriginalFileName": "Queenstown Lakes-Queenstown QL 938310 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Queenstown",
+      "StateName": "Lakes",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 5451 I58075",
+      "WMOID": "938310",
+      "Latitude": -45.02,
+      "Longitude": 168.74,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 354.0
+    }
+  },
+  {
+    "OriginalFileName": "Northland-Kaitaia NL 930120 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Kaitaia",
+      "StateName": "Northland",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 1041 A53125",
+      "WMOID": "930120",
+      "Latitude": -35.13,
+      "Longitude": 173.26,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 85.0
+    }
+  },
+  {
+    "OriginalFileName": "Otago-Dunedin DN 938910 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Dunedin",
+      "StateName": "Otago",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 15752 I50954",
+      "WMOID": "938910",
+      "Latitude": -45.90,
+      "Longitude": 170.51,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Nelson Marlborough-Nelson NM 935460 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Nelson",
+      "StateName": "Marlborough",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 4271 G13322",
+      "WMOID": "935460",
+      "Latitude": -41.30,
+      "Longitude": 173.22,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "East Coast-Napier EC 933730 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Napier",
+      "StateName": "Hawkes Bay",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 2980 D96484",
+      "WMOID": "933730",
+      "Latitude": -39.46,
+      "Longitude": 176.86,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Manawatu-Paraparaumu MW 934200 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Paraparaumu",
+      "StateName": "Manawatu",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 3145 E04991",
+      "WMOID": "934200",
+      "Latitude": -40.91,
+      "Longitude": 174.98,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Canterbury Christchurch 937800 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "CHRISTCHURCH",
+      "StateName": "-",
+      "Country": "NZL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "937800",
+      "Latitude": -43.48,
+      "Longitude": 172.55,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 34.0
+    }
+  },
+  {
+    "OriginalFileName": "Central Otago-Lauder OC 938510 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Lauder",
+      "StateName": "Central Otago",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 5535 I59065",
+      "WMOID": "938510",
+      "Latitude": -45.04,
+      "Longitude": 169.69,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 370.0
+    }
+  },
+  {
+    "OriginalFileName": "Canterbury-Christchurch CC 937800 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Christchurch",
+      "StateName": "Canterbury",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 4843 H32451",
+      "WMOID": "937800",
+      "Latitude": -43.49,
+      "Longitude": 172.54,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 37.0
+    }
+  },
+  {
+    "OriginalFileName": "Auckland Auckland 931190 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "AUCKLAND",
+      "StateName": "-",
+      "Country": "NZL",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "931190",
+      "Latitude": -37.02,
+      "Longitude": 174.80,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Bay of Plenty-Tauranga BP 931850 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Tauranga",
+      "StateName": "Bay of Plenty",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 1615 B76624",
+      "WMOID": "931850",
+      "Latitude": -37.67,
+      "Longitude": 176.20,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "Auckland-Auckland AK 931190 (NIWA)",
+    "EPWLocationInfo": {
+      "CityName": "Auckland",
+      "StateName": "Auckland",
+      "Country": "New Zealand",
+      "WeatherSource": "TMY2 NIWA 1962 C74082",
+      "WMOID": "931190",
+      "Latitude": -37.01,
+      "Longitude": 174.79,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 33.0
+    }
+  },
+  {
+    "OriginalFileName": "Kuching 964130 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "KUCHING",
+      "StateName": "-",
+      "Country": "MYS",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "964130",
+      "Latitude": 1.48,
+      "Longitude": 110.33,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 27.0
+    }
+  },
+  {
+    "OriginalFileName": "Kuala Lumpur 486470 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "KUALA LUMPUR",
+      "StateName": "-",
+      "Country": "MYS",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "486470",
+      "Latitude": 3.12,
+      "Longitude": 101.55,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 22.0
+    }
+  },
+  {
+    "OriginalFileName": "Kota Baharu 486150 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "KOTA BAHARU",
+      "StateName": "-",
+      "Country": "MYS",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "486150",
+      "Latitude": 6.17,
+      "Longitude": 102.28,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "George Town 486010 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "GEORGE TOWN",
+      "StateName": "-",
+      "Country": "MYS",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "486010",
+      "Latitude": 5.30,
+      "Longitude": 100.27,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "Kwajalein Atoll 913660 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Kwajalein Atoll",
+      "StateName": "",
+      "Country": "MHL",
+      "WeatherSource": "TMY--40604",
+      "WMOID": "913660",
+      "Latitude": 8.73,
+      "Longitude": 167.73,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Tamuning-Won Pat Intl AP 912120 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Guam Wfo",
+      "StateName": "GU",
+      "Country": "GUM",
+      "WeatherSource": "TMY3",
+      "WMOID": "912120",
+      "Latitude": 13.48,
+      "Longitude": 144.80,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 77.0
+    }
+  },
+  {
+    "OriginalFileName": "Andersen AFB 912180 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Andersen Afb",
+      "StateName": "GU",
+      "Country": "GUM",
+      "WeatherSource": "TMY3",
+      "WMOID": "912180",
+      "Latitude": 13.57,
+      "Longitude": 144.92,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 162.0
+    }
+  },
+  {
+    "OriginalFileName": "Anderson AFB 912180 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "GUAM",
+      "StateName": "PI",
+      "Country": "",
+      "WeatherSource": "TMY2-41415",
+      "WMOID": "912180",
+      "Latitude": 13.55,
+      "Longitude": 144.83,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 110.0
+    }
+  },
+  {
+    "OriginalFileName": "Nadi 916800 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "NADI",
+      "StateName": "-",
+      "Country": "FJI",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "916800",
+      "Latitude": -17.75,
+      "Longitude": 177.45,
+      "TimeZoneOffset": 12.0,
+      "Elevation": 18.0
+    }
+  },
+  {
+    "OriginalFileName": "Bandar Seri Begawan 963150 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BANDAR SERI BEGAWAN",
+      "StateName": "-",
+      "Country": "BRN",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "963150",
+      "Latitude": 4.93,
+      "Longitude": 114.93,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 15.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Wyndham 942140 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Wyndham",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "942140",
+      "Latitude": -15.48,
+      "Longitude": 128.12,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 16.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Port Hedland Airport 943120 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Port Hedland Airport",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "943120",
+      "Latitude": -20.37,
+      "Longitude": 118.63,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Swanbourne 946140 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Swanbourne",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "946140",
+      "Latitude": -31.95,
+      "Longitude": 115.77,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 20.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Perth Airport 946100 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Perth Airport",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "946100",
+      "Latitude": -31.93,
+      "Longitude": 115.97,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 20.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Port Hedland 943120 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "PORT HEDLAND",
+      "StateName": "-",
+      "Country": "AUS",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "943120",
+      "Latitude": -20.23,
+      "Longitude": 119.10,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Newman Airport 943170 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Newman Airport",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "943170",
+      "Latitude": -23.42,
+      "Longitude": 119.80,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 524.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Perth 946100 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "PERTH",
+      "StateName": "-",
+      "Country": "AUS",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "946100",
+      "Latitude": -31.93,
+      "Longitude": 115.95,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 29.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Manjimup 946170 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Manjimup",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "946170",
+      "Latitude": -34.25,
+      "Longitude": 116.15,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 287.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Learmonth Airport 943020 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Learmonth Airport",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "943020",
+      "Latitude": -22.23,
+      "Longitude": 114.08,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Mandurah 946050 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Mandurah",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "946050",
+      "Latitude": -32.52,
+      "Longitude": 115.72,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Learmonth 943020 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "LEARMONTH",
+      "StateName": "-",
+      "Country": "AUS",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "943020",
+      "Latitude": -22.23,
+      "Longitude": 114.08,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Kalgoorlie-Boulder Airport 946370 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Kalgoorlie-Boulder Air",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "946370",
+      "Latitude": -30.78,
+      "Longitude": 121.45,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 370.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Katanning 946410 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Katanning",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "946410",
+      "Latitude": -33.68,
+      "Longitude": 117.60,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 321.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Kalamunda-Bickley 956100 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Kalamunda Bickley",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "956100",
+      "Latitude": -32.02,
+      "Longitude": 116.13,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 385.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Giles 94461 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Giles",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "94461",
+      "Latitude": -25.03,
+      "Longitude": 128.30,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 599.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Halls Creek Airport 942120 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Halls Creek Airport",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "942120",
+      "Latitude": -18.23,
+      "Longitude": 127.67,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 424.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Forrest 956460 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Forrest",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "956460",
+      "Latitude": -30.83,
+      "Longitude": 128.12,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 160.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Geraldton Airport 944030 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Geraldton Airport",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "944030",
+      "Latitude": -28.80,
+      "Longitude": 114.70,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 35.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Esperance 946380 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Esperance",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "946380",
+      "Latitude": -33.83,
+      "Longitude": 121.88,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 27.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Broome Airport 942030 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Broome Airport",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "942030",
+      "Latitude": -17.95,
+      "Longitude": 122.23,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Carnarvon Airport 943000 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Carnarvon Airport",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "943000",
+      "Latitude": -24.88,
+      "Longitude": 113.67,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "WA Albany Airport 948020 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Albany Airport",
+      "StateName": "WA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "948020",
+      "Latitude": -34.93,
+      "Longitude": 117.80,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 69.0
+    }
+  },
+  {
+    "OriginalFileName": "VIC Tullamarine-Melbourne Airport 948660 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Tullamarine-Melbourne",
+      "StateName": "VIC",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "948660",
+      "Latitude": -37.67,
+      "Longitude": 144.85,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 119.0
+    }
+  },
+  {
+    "OriginalFileName": "VIC Warrnambool Airport 948370 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Warrnambool Airport",
+      "StateName": "VIC",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "948370",
+      "Latitude": -38.28,
+      "Longitude": 142.45,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 71.0
+    }
+  },
+  {
+    "OriginalFileName": "VIC Moorabbin Airport 948700 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Moorabbin Airport",
+      "StateName": "VIC",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "948700",
+      "Latitude": -37.98,
+      "Longitude": 145.10,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 13.0
+    }
+  },
+  {
+    "OriginalFileName": "VIC Melbourne 948680 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Melbourne",
+      "StateName": "VIC",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "948680",
+      "Latitude": -37.82,
+      "Longitude": 144.97,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 32.0
+    }
+  },
+  {
+    "OriginalFileName": "VIC Mildura Airport 946930 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Mildura Airport",
+      "StateName": "VIC",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "946930",
+      "Latitude": -34.23,
+      "Longitude": 142.08,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 53.0
+    }
+  },
+  {
+    "OriginalFileName": "VIC Melbourne 948660 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "MELBOURNE",
+      "StateName": "-",
+      "Country": "AUS",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "948660",
+      "Latitude": -37.67,
+      "Longitude": 144.83,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 141.0
+    }
+  },
+  {
+    "OriginalFileName": "VIC Cape Otway Lighthouse 948420 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Cape Otway Lighthouse",
+      "StateName": "VIC",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "948420",
+      "Latitude": -38.85,
+      "Longitude": 143.52,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 83.0
+    }
+  },
+  {
+    "OriginalFileName": "VIC East Sale Airport 949070 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "East Sale Airport",
+      "StateName": "VIC",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "949070",
+      "Latitude": -38.10,
+      "Longitude": 147.13,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "TAS Low Head 959640 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Low Head",
+      "StateName": "TAS",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "959640",
+      "Latitude": -41.05,
+      "Longitude": 146.78,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "VIC Ballarat Aerodrome 948520 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Ballarat Aerodrome",
+      "StateName": "VIC",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "948520",
+      "Latitude": -37.52,
+      "Longitude": 143.78,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 436.0
+    }
+  },
+  {
+    "OriginalFileName": "TAS Launceston Airport 949680 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Launceston Airport",
+      "StateName": "TAS",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "949680",
+      "Latitude": -41.53,
+      "Longitude": 147.20,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 178.0
+    }
+  },
+  {
+    "OriginalFileName": "TAS Hobart-Ellerslie Road 949700 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Hobart-Ellerslie Road",
+      "StateName": "TAS",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "949700",
+      "Latitude": -42.88,
+      "Longitude": 147.33,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 51.0
+    }
+  },
+  {
+    "OriginalFileName": "TAS Launceston-Ti Tree Bend 949690 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Launceston-Ti Tree Ben",
+      "StateName": "TAS",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "949690",
+      "Latitude": -41.42,
+      "Longitude": 147.12,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "SA Woomera Aerodrome 946590 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Woomera Aerodrome",
+      "StateName": "SA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "946590",
+      "Latitude": -31.15,
+      "Longitude": 136.82,
+      "TimeZoneOffset": 9.5,
+      "Elevation": 168.0
+    }
+  },
+  {
+    "OriginalFileName": "SA Mt Lofty 946780 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Mt Lofty",
+      "StateName": "SA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "946780",
+      "Latitude": -34.97,
+      "Longitude": 138.70,
+      "TimeZoneOffset": 9.5,
+      "Elevation": 701.0
+    }
+  },
+  {
+    "OriginalFileName": "SA Oodnadatta Airport 944760 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Oodnadatta Airport",
+      "StateName": "SA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "944760",
+      "Latitude": -27.55,
+      "Longitude": 135.45,
+      "TimeZoneOffset": 9.5,
+      "Elevation": 117.0
+    }
+  },
+  {
+    "OriginalFileName": "SA Mount Gambier Aero 948210 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Mount Gambier Aero",
+      "StateName": "SA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "948210",
+      "Latitude": -37.73,
+      "Longitude": 140.78,
+      "TimeZoneOffset": 9.5,
+      "Elevation": 69.0
+    }
+  },
+  {
+    "OriginalFileName": "SA Ceduna 946530 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Ceduna",
+      "StateName": "SA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "946530",
+      "Latitude": -32.13,
+      "Longitude": 133.70,
+      "TimeZoneOffset": 9.5,
+      "Elevation": 16.0
+    }
+  },
+  {
+    "OriginalFileName": "SA Adelaide 946720 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "ADELAIDE",
+      "StateName": "-",
+      "Country": "AUS",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "946720",
+      "Latitude": -34.93,
+      "Longitude": 138.52,
+      "TimeZoneOffset": 9.5,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "SA Adelaide-Kent Town 946750 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Adelaide-Kent Town",
+      "StateName": "SA",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "946750",
+      "Latitude": -34.92,
+      "Longitude": 138.62,
+      "TimeZoneOffset": 9.5,
+      "Elevation": 51.0
+    }
+  },
+  {
+    "OriginalFileName": "QLD Weipa Aero 941700 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Weipa Aero",
+      "StateName": "QLD",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "941700",
+      "Latitude": -12.68,
+      "Longitude": 141.92,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 19.0
+    }
+  },
+  {
+    "OriginalFileName": "QLD Willis Island 942990 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Willis Island",
+      "StateName": "QLD",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "942990",
+      "Latitude": -16.30,
+      "Longitude": 149.97,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "QLD Rockhampton Aero 943740 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Rockhampton Aero",
+      "StateName": "QLD",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "943740",
+      "Latitude": -23.38,
+      "Longitude": 150.48,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 14.0
+    }
+  },
+  {
+    "OriginalFileName": "QLD Townsville Aero 942940 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Townsville Aero",
+      "StateName": "QLD",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "942940",
+      "Latitude": -19.25,
+      "Longitude": 146.77,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "QLD Oakey Aero 945520 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Oakey Aero",
+      "StateName": "QLD",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "945520",
+      "Latitude": -27.42,
+      "Longitude": 151.73,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 407.0
+    }
+  },
+  {
+    "OriginalFileName": "QLD Mackay 943670 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Mackay",
+      "StateName": "QLD",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "943670",
+      "Latitude": -21.12,
+      "Longitude": 149.22,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 36.0
+    }
+  },
+  {
+    "OriginalFileName": "QLD Mount Isa Aero 943320 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Mount Isa Aero",
+      "StateName": "QLD",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "943320",
+      "Latitude": -20.68,
+      "Longitude": 139.48,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 341.0
+    }
+  },
+  {
+    "OriginalFileName": "QLD Longreach Aero 943460 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Longreach Aero",
+      "StateName": "QLD",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "943460",
+      "Latitude": -23.43,
+      "Longitude": 144.28,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 192.0
+    }
+  },
+  {
+    "OriginalFileName": "QLD Gladstone Airport 943810 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Gladstone Airport",
+      "StateName": "QLD",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "943810",
+      "Latitude": -23.87,
+      "Longitude": 151.22,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 17.0
+    }
+  },
+  {
+    "OriginalFileName": "QLD Cairns Aero 948270 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Cairns Aero",
+      "StateName": "QLD",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "948270",
+      "Latitude": -16.88,
+      "Longitude": 145.75,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "QLD Charleville Aero 945100 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Charleville Aero",
+      "StateName": "QLD",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "945100",
+      "Latitude": -26.42,
+      "Longitude": 146.27,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 303.0
+    }
+  },
+  {
+    "OriginalFileName": "QLD Brisbane 94578 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Brisbane",
+      "StateName": "QLD",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "94578",
+      "Latitude": -27.38,
+      "Longitude": 153.13,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "QLD Brisbane 945780 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "BRISBANE",
+      "StateName": "-",
+      "Country": "AUS",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "945780",
+      "Latitude": -27.38,
+      "Longitude": 153.10,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "QLD Amberley 945680 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Amberly",
+      "StateName": "QLD",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "945680",
+      "Latitude": -27.63,
+      "Longitude": 152.72,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 31.0
+    }
+  },
+  {
+    "OriginalFileName": "NT Darwin Airport 941200 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Darwin Airport",
+      "StateName": "NT",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "941200",
+      "Latitude": -12.42,
+      "Longitude": 130.88,
+      "TimeZoneOffset": 9.5,
+      "Elevation": 35.0
+    }
+  },
+  {
+    "OriginalFileName": "NT Tennant Creek 942380 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Tennant Creek",
+      "StateName": "NT",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "942380",
+      "Latitude": -19.63,
+      "Longitude": 134.18,
+      "TimeZoneOffset": 9.5,
+      "Elevation": 377.0
+    }
+  },
+  {
+    "OriginalFileName": "NT Darwin 941200 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "DARWIN",
+      "StateName": "-",
+      "Country": "AUS",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "941200",
+      "Latitude": -12.40,
+      "Longitude": 130.87,
+      "TimeZoneOffset": 9.5,
+      "Elevation": 30.0
+    }
+  },
+  {
+    "OriginalFileName": "NSW Williamtown RAAF 947760 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Williamtown RAAF",
+      "StateName": "NSW",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "947760",
+      "Latitude": -32.80,
+      "Longitude": 151.83,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "NT Alice Springs Airport 943260 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Alice Springs Airport",
+      "StateName": "NT",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "943260",
+      "Latitude": -23.80,
+      "Longitude": 133.88,
+      "TimeZoneOffset": 9.5,
+      "Elevation": 547.0
+    }
+  },
+  {
+    "OriginalFileName": "NSW Wagga Wagga 949100 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Wagga Wagga",
+      "StateName": "NSW",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "949100",
+      "Latitude": -35.17,
+      "Longitude": 147.45,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 213.0
+    }
+  },
+  {
+    "OriginalFileName": "NSW Thredbo Village 959080 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Thredbo Village",
+      "StateName": "NSW",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "959080",
+      "Latitude": -36.50,
+      "Longitude": 148.30,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 1368.0
+    }
+  },
+  {
+    "OriginalFileName": "NSW Sydney 947670 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "SYDNEY",
+      "StateName": "-",
+      "Country": "AUS",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "947670",
+      "Latitude": -33.95,
+      "Longitude": 151.18,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "NSW Sydney 947680 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Sydney",
+      "StateName": "NSW",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "947680",
+      "Latitude": -33.85,
+      "Longitude": 151.20,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 40.0
+    }
+  },
+  {
+    "OriginalFileName": "NSW Richmond RAAF 957530 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Richmond RAAF",
+      "StateName": "NSW",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "957530",
+      "Latitude": -33.60,
+      "Longitude": 150.78,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 20.0
+    }
+  },
+  {
+    "OriginalFileName": "NSW Orange Airport 957260 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Orange Airport",
+      "StateName": "NSW",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "957260",
+      "Latitude": -33.38,
+      "Longitude": 149.13,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 948.0
+    }
+  },
+  {
+    "OriginalFileName": "NSW Moree Aero 955270 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Moree Aero",
+      "StateName": "NSW",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "955270",
+      "Latitude": -29.48,
+      "Longitude": 149.83,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 218.0
+    }
+  },
+  {
+    "OriginalFileName": "NSW Nowra RAN Air Station 947500 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Nowra RAN Air Station",
+      "StateName": "NSW",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "947500",
+      "Latitude": -34.95,
+      "Longitude": 150.53,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 105.0
+    }
+  },
+  {
+    "OriginalFileName": "NSW Mascot-Sydney Airport 947670 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Mascot-Sydney Airport",
+      "StateName": "NSW",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "947670",
+      "Latitude": -33.93,
+      "Longitude": 151.17,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "NSW Coffs Harbour 947910 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Coffs Harbour",
+      "StateName": "NSW",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "947910",
+      "Latitude": -30.32,
+      "Longitude": 153.12,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "NSW Dubbo Airport 957190 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Dubbo Airport",
+      "StateName": "NSW",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "957190",
+      "Latitude": -32.22,
+      "Longitude": 148.57,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 285.0
+    }
+  },
+  {
+    "OriginalFileName": "NSW Cobar 947110 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Cobar",
+      "StateName": "NSW",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "947110",
+      "Latitude": -31.48,
+      "Longitude": 145.83,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 264.0
+    }
+  },
+  {
+    "OriginalFileName": "NSW Cabramurra 959160 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Cabramurra",
+      "StateName": "NSW",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "959160",
+      "Latitude": -35.93,
+      "Longitude": 148.38,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 1483.0
+    }
+  },
+  {
+    "OriginalFileName": "NSW Armidale Airport 957730 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Armidale Airport",
+      "StateName": "NSW",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "957730",
+      "Latitude": -30.53,
+      "Longitude": 151.62,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 1081.0
+    }
+  },
+  {
+    "OriginalFileName": "ACT Canberra 949260 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "CANBERRA",
+      "StateName": "-",
+      "Country": "AUS",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "949260",
+      "Latitude": -35.30,
+      "Longitude": 149.18,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 577.0
+    }
+  }
+]

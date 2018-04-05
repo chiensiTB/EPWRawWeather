@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "Corpus Christi 722510 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "CORPUS_CHRISTI",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-12924",
+      "WMOID": "722510",
+      "Latitude": 27.77,
+      "Longitude": -97.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 13.0
+    }
+  },
+  {
+    "OriginalFileName": "Childress Muni AP 723604 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Childress Municipal Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723604",
+      "Latitude": 34.43,
+      "Longitude": -100.28,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 595.0
+    }
+  },
+  {
+    "OriginalFileName": "College Station-Easterwood Field 722445 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "College Station Easterwood Fl",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722445",
+      "Latitude": 30.58,
+      "Longitude": -96.37,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 96.0
+    }
+  },
+  {
+    "OriginalFileName": "Brownsville 722500 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "BROWNSVILLE",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-12919",
+      "WMOID": "722500",
+      "Latitude": 25.90,
+      "Longitude": -97.43,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Brownsville-South Padre Island AP 722500 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Brownsville S Padre Isl Intl",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722500",
+      "Latitude": 25.90,
+      "Longitude": -97.43,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Beaumont-Port Arthur 722410 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "PORT_ARTHUR",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-12917",
+      "WMOID": "722410",
+      "Latitude": 29.95,
+      "Longitude": -94.02,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Brownsville-South Padre Island AP 722500 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Brownsville",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--12919",
+      "WMOID": "722500",
+      "Latitude": 25.90,
+      "Longitude": -97.43,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Austin 722540 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "AUSTIN",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13958",
+      "WMOID": "722540",
+      "Latitude": 30.30,
+      "Longitude": -97.70,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 189.0
+    }
+  },
+  {
+    "OriginalFileName": "Austin-Mueller Muni AP 722540 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Austin Mueller Municipal Ap  U",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722540",
+      "Latitude": 30.29,
+      "Longitude": -97.74,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 213.0
+    }
+  },
+  {
+    "OriginalFileName": "Austin-Mueller Muni AP 722540 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Austin",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--13958",
+      "WMOID": "722540",
+      "Latitude": 30.30,
+      "Longitude": -97.70,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 189.0
+    }
+  },
+  {
+    "OriginalFileName": "Austin-Camp Mabry 722544 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Camp Mabry",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722544",
+      "Latitude": 30.32,
+      "Longitude": -97.77,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 198.0
+    }
+  },
+  {
+    "OriginalFileName": "Amarillo Intl AP 723630 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Amarillo",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--23047",
+      "WMOID": "723630",
+      "Latitude": 35.23,
+      "Longitude": -101.70,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 1099.0
+    }
+  },
+  {
+    "OriginalFileName": "Amarillo Intl AP 723630 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Amarillo International Ap  Can",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723630",
+      "Latitude": 34.99,
+      "Longitude": -101.90,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 1068.0
+    }
+  },
+  {
+    "OriginalFileName": "Amarillo 723630 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "AMARILLO",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23047",
+      "WMOID": "723630",
+      "Latitude": 35.23,
+      "Longitude": -101.70,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 1098.0
+    }
+  },
+  {
+    "OriginalFileName": "Alice Intl AP 722517 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Alice Intl Ap",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722517",
+      "Latitude": 27.73,
+      "Longitude": -98.03,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 53.0
+    }
+  },
+  {
+    "OriginalFileName": "Abilene Rgnl AP 722660 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Abilene",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY--13962",
+      "WMOID": "722660",
+      "Latitude": 32.42,
+      "Longitude": -99.68,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 546.0
+    }
+  },
+  {
+    "OriginalFileName": "Abilene Rgnl AP 722660 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Abilene Regional Ap  Ut",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722660",
+      "Latitude": 32.47,
+      "Longitude": -99.71,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 530.0
+    }
+  },
+  {
+    "OriginalFileName": "Abilene 722660 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ABILENE",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13962",
+      "WMOID": "722660",
+      "Latitude": 32.43,
+      "Longitude": -99.68,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 534.0
+    }
+  },
+  {
+    "OriginalFileName": "Abilene-Dyess AFB 690190 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Abilene Dyess Afb",
+      "StateName": "TX",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "690190",
+      "Latitude": 32.43,
+      "Longitude": -99.85,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 545.0
+    }
+  },
+  {
+    "OriginalFileName": "Nashville Intl AP 723270 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Nashville International Ap",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723270",
+      "Latitude": 36.12,
+      "Longitude": -86.68,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 177.0
+    }
+  },
+  {
+    "OriginalFileName": "Nashville Intl AP 723270 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Nashville",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY--13897",
+      "WMOID": "723270",
+      "Latitude": 36.13,
+      "Longitude": -86.68,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 180.0
+    }
+  },
+  {
+    "OriginalFileName": "Memphis Intl AP 723340 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Memphis International Ap",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723340",
+      "Latitude": 35.07,
+      "Longitude": -89.98,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 81.0
+    }
+  },
+  {
+    "OriginalFileName": "Nashville 723270 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "NASHVILLE",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13897",
+      "WMOID": "723270",
+      "Latitude": 36.12,
+      "Longitude": -86.68,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 180.0
+    }
+  },
+  {
+    "OriginalFileName": "Memphis Intl AP 723340 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Memphis",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY--13893",
+      "WMOID": "723340",
+      "Latitude": 35.05,
+      "Longitude": -90.00,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 87.0
+    }
+  },
+  {
+    "OriginalFileName": "Knoxville 723260 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "KNOXVILLE",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13891",
+      "WMOID": "723260",
+      "Latitude": 35.82,
+      "Longitude": -83.98,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 299.0
+    }
+  },
+  {
+    "OriginalFileName": "Memphis 723340 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "MEMPHIS",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13893",
+      "WMOID": "723340",
+      "Latitude": 35.05,
+      "Longitude": -89.98,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 87.0
+    }
+  },
+  {
+    "OriginalFileName": "Knoxville-McGhee Tyson AP 723260 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Knoxville Mcghee Tyson Ap",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723260",
+      "Latitude": 35.82,
+      "Longitude": -83.98,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 293.0
+    }
+  },
+  {
+    "OriginalFileName": "Jackson-McKellar Sipes Rgnl AP 723346 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Jackson Mckellar Sipes Regl A",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723346",
+      "Latitude": 35.60,
+      "Longitude": -88.92,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 132.0
+    }
+  },
+  {
+    "OriginalFileName": "Knoxville-McGhee Tyson AP 723260 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Knoxville",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY--13891",
+      "WMOID": "723260",
+      "Latitude": 35.82,
+      "Longitude": -83.98,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 299.0
+    }
+  },
+  {
+    "OriginalFileName": "Dyersburg Muni AP 723347 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Dyersburg Municipal Ap",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723347",
+      "Latitude": 36.02,
+      "Longitude": -89.40,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 103.0
+    }
+  },
+  {
+    "OriginalFileName": "Crossville Mem AP 723265 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Crossville Memorial Ap",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723265",
+      "Latitude": 35.95,
+      "Longitude": -85.08,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 569.0
+    }
+  },
+  {
+    "OriginalFileName": "Chattanooga 723240 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "CHATTANOOGA",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13882",
+      "WMOID": "723240",
+      "Latitude": 35.03,
+      "Longitude": -85.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 210.0
+    }
+  },
+  {
+    "OriginalFileName": "Chattanooga-Lovell Field AP 723240 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Chattanooga",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY--13882",
+      "WMOID": "723240",
+      "Latitude": 35.03,
+      "Longitude": -85.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 210.0
+    }
+  },
+  {
+    "OriginalFileName": "Chattanooga-Lovell Field AP 723240 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Chattanooga Lovell Field Ap",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723240",
+      "Latitude": 35.03,
+      "Longitude": -85.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 204.0
+    }
+  },
+  {
+    "OriginalFileName": "Bristol 723183 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "BRISTOL",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13877",
+      "WMOID": "723183",
+      "Latitude": 36.48,
+      "Longitude": -82.40,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 459.0
+    }
+  },
+  {
+    "OriginalFileName": "Bristol-TriCities Rgnl AP 723183 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Bristol Tri City Airport",
+      "StateName": "TN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723183",
+      "Latitude": 36.47,
+      "Longitude": -82.40,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 457.0
+    }
+  },
+  {
+    "OriginalFileName": "Yankton-Chan Gurney Muni AP 726525 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Chan Gurney Muni",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726525",
+      "Latitude": 42.92,
+      "Longitude": -97.38,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 408.0
+    }
+  },
+  {
+    "OriginalFileName": "Watertown Muni AP 726546 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Watertown Municipal Ap",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726546",
+      "Latitude": 44.93,
+      "Longitude": -97.15,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 532.0
+    }
+  },
+  {
+    "OriginalFileName": "Sioux Falls 726510 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SIOUX_FALLS",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14944",
+      "WMOID": "726510",
+      "Latitude": 43.57,
+      "Longitude": -96.73,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 435.0
+    }
+  },
+  {
+    "OriginalFileName": "Sioux Falls-Foss Field 726510 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sioux Falls Foss Field",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726510",
+      "Latitude": 43.58,
+      "Longitude": -96.75,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 433.0
+    }
+  },
+  {
+    "OriginalFileName": "Rapid City Rgnl AP 726620 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Rapid City Regional Arpt",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726620",
+      "Latitude": 44.05,
+      "Longitude": -103.05,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 963.0
+    }
+  },
+  {
+    "OriginalFileName": "Sioux Falls-Foss Field 726510 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Sioux Falls",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY--14944",
+      "WMOID": "726510",
+      "Latitude": 43.58,
+      "Longitude": -96.73,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 435.0
+    }
+  },
+  {
+    "OriginalFileName": "Rapid City Rgnl AP 726620 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Rapid City",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY--24090",
+      "WMOID": "726620",
+      "Latitude": 44.05,
+      "Longitude": -103.07,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 966.0
+    }
+  },
+  {
+    "OriginalFileName": "Pierre Muni AP 726686 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Pierre Municipal Ap",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726686",
+      "Latitude": 44.38,
+      "Longitude": -100.28,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 528.0
+    }
+  },
+  {
+    "OriginalFileName": "Rapid City 726620 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "RAPID_CITY",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24090",
+      "WMOID": "726620",
+      "Latitude": 44.05,
+      "Longitude": -103.07,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 966.0
+    }
+  },
+  {
+    "OriginalFileName": "Pierre Muni AP 726686 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Pierre",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY--24025",
+      "WMOID": "726686",
+      "Latitude": 44.38,
+      "Longitude": -100.28,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 531.0
+    }
+  },
+  {
+    "OriginalFileName": "Mobridge Muni AP 726685 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mobridge",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726685",
+      "Latitude": 45.53,
+      "Longitude": -100.43,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 508.0
+    }
+  },
+  {
+    "OriginalFileName": "Pierre 726686 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "PIERRE",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24025",
+      "WMOID": "726686",
+      "Latitude": 44.38,
+      "Longitude": -100.28,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 526.0
+    }
+  },
+  {
+    "OriginalFileName": "Mitchell AWOS 726545 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mitchell  Awos",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726545",
+      "Latitude": 43.77,
+      "Longitude": -98.03,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 397.0
+    }
+  },
+  {
+    "OriginalFileName": "Huron Rgnl AP 726540 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Huron",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY--14936",
+      "WMOID": "726540",
+      "Latitude": 44.38,
+      "Longitude": -98.22,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 393.0
+    }
+  },
+  {
+    "OriginalFileName": "Huron Rgnl AP 726540 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Huron Regional Arpt",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726540",
+      "Latitude": 44.40,
+      "Longitude": -98.22,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 390.0
+    }
+  },
+  {
+    "OriginalFileName": "Ellsworth AFB 726625 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Ellsworth Afb",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726625",
+      "Latitude": 44.15,
+      "Longitude": -103.10,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 980.0
+    }
+  },
+  {
+    "OriginalFileName": "Huron 726540 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "HURON",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14936",
+      "WMOID": "726540",
+      "Latitude": 44.38,
+      "Longitude": -98.22,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 393.0
+    }
+  },
+  {
+    "OriginalFileName": "Brookings AWOS 726515 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Brookings  Awos",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726515",
+      "Latitude": 44.30,
+      "Longitude": -96.82,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 502.0
+    }
+  },
+  {
+    "OriginalFileName": "Aberdeen Rgnl AP 726590 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Aberdeen Regional Arpt",
+      "StateName": "SD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726590",
+      "Latitude": 45.45,
+      "Longitude": -98.42,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 398.0
+    }
+  },
+  {
+    "OriginalFileName": "Shaw AFB 747900 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sumter Shaw Afb",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747900",
+      "Latitude": 33.97,
+      "Longitude": -80.47,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 74.0
+    }
+  },
+  {
+    "OriginalFileName": "Myrtle Beach AFB 747910 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Myrtle Beach Afb",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747910",
+      "Latitude": 33.68,
+      "Longitude": -78.93,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "North Myrtle Beach-Grand Strand Field 747915 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "North Myrtle Beach Grand Stra",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747915",
+      "Latitude": 33.82,
+      "Longitude": -78.72,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Greer Greenville-Spartanburg AP 723120 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Greer GreenvL Spartanbrg Ap",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723120",
+      "Latitude": 34.90,
+      "Longitude": -82.22,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 292.0
+    }
+  },
+  {
+    "OriginalFileName": "Greenville-Spartanburg 723120 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "GREENVILLE",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY2-03870",
+      "WMOID": "723120",
+      "Latitude": 34.90,
+      "Longitude": -82.22,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 296.0
+    }
+  },
+  {
+    "OriginalFileName": "Greer Greenville-Spartanburg AP 723120 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Greer/Greenville",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY-- 3870",
+      "WMOID": "723120",
+      "Latitude": 34.90,
+      "Longitude": -82.22,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 296.0
+    }
+  },
+  {
+    "OriginalFileName": "Florence Rgnl AP 723106 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Florence Regional Ap",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723106",
+      "Latitude": 34.18,
+      "Longitude": -79.73,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 44.0
+    }
+  },
+  {
+    "OriginalFileName": "Greenville-Downtown AP 723119 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Greenville Downtown Ap",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723119",
+      "Latitude": 34.85,
+      "Longitude": -82.35,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 319.0
+    }
+  },
+  {
+    "OriginalFileName": "Columbia Metro AP 723100 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Columbia Metro Arpt",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723100",
+      "Latitude": 33.95,
+      "Longitude": -81.12,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 65.0
+    }
+  },
+  {
+    "OriginalFileName": "Columbia Metro AP 723100 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Columbia",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY--13883",
+      "WMOID": "723100",
+      "Latitude": 33.95,
+      "Longitude": -81.12,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 69.0
+    }
+  },
+  {
+    "OriginalFileName": "Charleston Intl AP 722080 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Charleston Intl Arpt",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722080",
+      "Latitude": 32.90,
+      "Longitude": -80.03,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "Columbia 723100 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "COLUMBIA",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13883",
+      "WMOID": "723100",
+      "Latitude": 33.95,
+      "Longitude": -81.12,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 69.0
+    }
+  },
+  {
+    "OriginalFileName": "Charleston Intl AP 722080 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Charleston",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY--13880",
+      "WMOID": "722080",
+      "Latitude": 32.90,
+      "Longitude": -80.03,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 15.0
+    }
+  },
+  {
+    "OriginalFileName": "Charleston 722080 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "CHARLESTON",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13880",
+      "WMOID": "722080",
+      "Latitude": 32.90,
+      "Longitude": -80.03,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "Beaufort MCAS 722085 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Beaufort Mcas",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722085",
+      "Latitude": 32.48,
+      "Longitude": -80.72,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Anderson County AP 723125 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Anderson County Ap",
+      "StateName": "SC",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723125",
+      "Latitude": 34.50,
+      "Longitude": -82.72,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 232.0
+    }
+  },
+  {
+    "OriginalFileName": "Providence 725070 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "PROVIDENCE",
+      "StateName": "RI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14765",
+      "WMOID": "725070",
+      "Latitude": 41.73,
+      "Longitude": -71.43,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 19.0
+    }
+  },
+  {
+    "OriginalFileName": "Providence-T F Green State AP 725070 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Providence T F Green State Ar",
+      "StateName": "RI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725070",
+      "Latitude": 41.72,
+      "Longitude": -71.43,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 16.0
+    }
+  },
+  {
+    "OriginalFileName": "Providence-T F Green State AP 725070 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Providence",
+      "StateName": "RI",
+      "Country": "USA",
+      "WeatherSource": "TMY--14765",
+      "WMOID": "725070",
+      "Latitude": 41.73,
+      "Longitude": -71.43,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 19.0
+    }
+  },
+  {
+    "OriginalFileName": "Pawtucket AWOS 725054 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Pawtucket  Awos",
+      "StateName": "RI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725054",
+      "Latitude": 41.92,
+      "Longitude": -71.50,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 134.0
+    }
+  },
+  {
+    "OriginalFileName": "Block Island State AP 725058 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Block Island State Arpt",
+      "StateName": "RI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725058",
+      "Latitude": 41.17,
+      "Longitude": -71.58,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 34.0
+    }
+  },
+  {
+    "OriginalFileName": "Willow Grove NAS 724086 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Willow Grove Nas",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724086",
+      "Latitude": 40.20,
+      "Longitude": -75.15,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 102.0
+    }
+  },
+  {
+    "OriginalFileName": "Williamsport Rgnl AP 725140 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Williamsport Regional Ap",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725140",
+      "Latitude": 41.25,
+      "Longitude": -76.92,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 158.0
+    }
+  },
+  {
+    "OriginalFileName": "Williamsport 725140 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "WILLIAMSPORT",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14778",
+      "WMOID": "725140",
+      "Latitude": 41.27,
+      "Longitude": -77.05,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 243.0
+    }
+  },
+  {
+    "OriginalFileName": "Wilkes Barre-Scranton 725130 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "WILKES-BARRE",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14777",
+      "WMOID": "725130",
+      "Latitude": 41.33,
+      "Longitude": -75.73,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 289.0
+    }
+  },
+  {
+    "OriginalFileName": "Wilkes-Barre-Scranton Intl AP 725130 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Wilkes-Barre/Scranton",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY--14777",
+      "WMOID": "725130",
+      "Latitude": 41.33,
+      "Longitude": -75.73,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 289.0
+    }
+  },
+  {
+    "OriginalFileName": "Wilkes-Barre-Scranton Intl AP 725130 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Wilkes Barre Scranton Intl Ap",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725130",
+      "Latitude": 41.33,
+      "Longitude": -75.73,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 284.0
+    }
+  },
+  {
+    "OriginalFileName": "Washington AWOS 725117 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Washington  Awos",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725117",
+      "Latitude": 40.13,
+      "Longitude": -80.28,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 361.0
+    }
+  },
+  {
+    "OriginalFileName": "State College-Penn State University 725128 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "State College  Penn State   Su",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725128",
+      "Latitude": 40.72,
+      "Longitude": -77.93,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 376.0
+    }
+  },
+  {
+    "OriginalFileName": "Pittsburgh Intl AP 725200 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Pittsburgh International Ap",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725200",
+      "Latitude": 40.50,
+      "Longitude": -80.23,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 350.0
+    }
+  },
+  {
+    "OriginalFileName": "Reading Mem AP-Spaatz Field 725103 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Reading Spaatz Field",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725103",
+      "Latitude": 40.37,
+      "Longitude": -75.97,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 104.0
+    }
+  },
+  {
+    "OriginalFileName": "Pittsburgh 725200 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "PITTSBURGH",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94823",
+      "WMOID": "725200",
+      "Latitude": 40.50,
+      "Longitude": -80.22,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 373.0
+    }
+  },
+  {
+    "OriginalFileName": "Pittsburgh Intl AP 725200 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Pittsburgh/Pittsburgh",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY--94823",
+      "WMOID": "725200",
+      "Latitude": 40.50,
+      "Longitude": -80.22,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 373.0
+    }
+  },
+  {
+    "OriginalFileName": "Pittsburgh-Allegheny County AP 725205 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Pittsburgh Allegheny Co Ap",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725205",
+      "Latitude": 40.35,
+      "Longitude": -79.92,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 380.0
+    }
+  },
+  {
+    "OriginalFileName": "Philadelphia Intl AP 724080 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Philadelphia/Willow Gr",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY--13739",
+      "WMOID": "724080",
+      "Latitude": 40.20,
+      "Longitude": -75.15,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 110.0
+    }
+  },
+  {
+    "OriginalFileName": "Philadelphia Intl AP 724080 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Philadelphia International Ap",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724080",
+      "Latitude": 39.87,
+      "Longitude": -75.23,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Philadelphia 724086 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "PHILADELPHIA",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13739",
+      "WMOID": "724086",
+      "Latitude": 39.88,
+      "Longitude": -75.25,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "Lancaster AP 725116 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lancaster",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725116",
+      "Latitude": 40.12,
+      "Longitude": -76.30,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 126.0
+    }
+  },
+  {
+    "OriginalFileName": "Philadelphia-NE Philadelphia AP 724085 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Philadelphia Ne Philadelphia",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724085",
+      "Latitude": 40.08,
+      "Longitude": -75.02,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 30.0
+    }
+  },
+  {
+    "OriginalFileName": "Johnstown-Cambria County AP 725127 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Johnstown Cambria County Ap",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725127",
+      "Latitude": 40.32,
+      "Longitude": -78.83,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 695.0
+    }
+  },
+  {
+    "OriginalFileName": "Harrisburg 725115 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "HARRISBURG",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14751",
+      "WMOID": "725115",
+      "Latitude": 40.22,
+      "Longitude": -76.85,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 106.0
+    }
+  },
+  {
+    "OriginalFileName": "Harrisburg Intl AP 725115 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Middletown Harrisburg Intl Ap",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725115",
+      "Latitude": 40.20,
+      "Longitude": -76.77,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 92.0
+    }
+  },
+  {
+    "OriginalFileName": "Harrisburg-Capital City AP 725118 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Harrisburg Capital City Arpt",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725118",
+      "Latitude": 40.22,
+      "Longitude": -76.85,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 104.0
+    }
+  },
+  {
+    "OriginalFileName": "Franklin-Chess Lemberton AP 725267 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Franklin",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725267",
+      "Latitude": 41.38,
+      "Longitude": -79.87,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 470.0
+    }
+  },
+  {
+    "OriginalFileName": "Harrisburg-Capital City AP 725118 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Harrisburg",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY--14751",
+      "WMOID": "725118",
+      "Latitude": 40.20,
+      "Longitude": -76.77,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 94.0
+    }
+  }
+]

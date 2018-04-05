@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "Erie Intl AP 725260 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Erie International Ap",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725260",
+      "Latitude": 42.08,
+      "Longitude": -80.18,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 222.0
+    }
+  },
+  {
+    "OriginalFileName": "Erie 725260 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ERIE",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14860",
+      "WMOID": "725260",
+      "Latitude": 42.08,
+      "Longitude": -80.18,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 225.0
+    }
+  },
+  {
+    "OriginalFileName": "Erie Intl AP 725260 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Erie",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY--14860",
+      "WMOID": "725260",
+      "Latitude": 42.08,
+      "Longitude": -80.18,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 225.0
+    }
+  },
+  {
+    "OriginalFileName": "DuBois-Jefferson County AP 725125 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Dubois Faa Ap",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725125",
+      "Latitude": 41.18,
+      "Longitude": -78.90,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 553.0
+    }
+  },
+  {
+    "OriginalFileName": "Butler County AWOS 725124 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Butler Co   Awos",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725124",
+      "Latitude": 40.78,
+      "Longitude": -79.95,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 380.0
+    }
+  },
+  {
+    "OriginalFileName": "Bradford 725266 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "BRADFORD",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-04751",
+      "WMOID": "725266",
+      "Latitude": 41.80,
+      "Longitude": -78.63,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 600.0
+    }
+  },
+  {
+    "OriginalFileName": "Bradford Rgnl AP 725266 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Bradford Regional Ap",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725266",
+      "Latitude": 41.80,
+      "Longitude": -78.63,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 645.0
+    }
+  },
+  {
+    "OriginalFileName": "Allentown 725170 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ALLENTOWN",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14737",
+      "WMOID": "725170",
+      "Latitude": 40.65,
+      "Longitude": -75.43,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 117.0
+    }
+  },
+  {
+    "OriginalFileName": "Altoona-Blair County AP 725126 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Altoona Blair Co Arpt",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725126",
+      "Latitude": 40.30,
+      "Longitude": -78.32,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 451.0
+    }
+  },
+  {
+    "OriginalFileName": "Allentown-Lehigh Valley Intl AP 725170 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Allentown Lehigh Valley Intl",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725170",
+      "Latitude": 40.65,
+      "Longitude": -75.45,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 119.0
+    }
+  },
+  {
+    "OriginalFileName": "Allentown-Lehigh Valley Intl AP 725170 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Allentown",
+      "StateName": "PA",
+      "Country": "USA",
+      "WeatherSource": "TMY--14737",
+      "WMOID": "725170",
+      "Latitude": 40.65,
+      "Longitude": -75.43,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 117.0
+    }
+  },
+  {
+    "OriginalFileName": "Salem 726940 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SALEM",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24232",
+      "WMOID": "726940",
+      "Latitude": 44.92,
+      "Longitude": -123.02,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 61.0
+    }
+  },
+  {
+    "OriginalFileName": "Sexton Summit 725975 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sexton Summit",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725975",
+      "Latitude": 42.60,
+      "Longitude": -123.37,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1168.0
+    }
+  },
+  {
+    "OriginalFileName": "Salem-McNary Field 726940 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Salem Mcnary Field",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726940",
+      "Latitude": 44.90,
+      "Longitude": -123.00,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 60.0
+    }
+  },
+  {
+    "OriginalFileName": "Roseburg Rgnl AP 726904 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Roseburg Regional Ap",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726904",
+      "Latitude": 43.23,
+      "Longitude": -123.35,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 160.0
+    }
+  },
+  {
+    "OriginalFileName": "Salem-McNary Field 726940 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Salem",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY--24232",
+      "WMOID": "726940",
+      "Latitude": 44.92,
+      "Longitude": -123.00,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 61.0
+    }
+  },
+  {
+    "OriginalFileName": "Redmond 726835 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "REDMOND",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24230",
+      "WMOID": "726835",
+      "Latitude": 44.27,
+      "Longitude": -121.15,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 940.0
+    }
+  },
+  {
+    "OriginalFileName": "Redmond-Roberts Field 726835 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Redmond Roberts Field",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726835",
+      "Latitude": 44.25,
+      "Longitude": -121.17,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 933.0
+    }
+  },
+  {
+    "OriginalFileName": "Redmond-Roberts Field 726835 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Redmond",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY--24230",
+      "WMOID": "726835",
+      "Latitude": 44.25,
+      "Longitude": -121.15,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 938.0
+    }
+  },
+  {
+    "OriginalFileName": "Portland Intl AP 726980 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Portland International Ap",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726980",
+      "Latitude": 45.60,
+      "Longitude": -122.62,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Portland 726980 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "PORTLAND",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24229",
+      "WMOID": "726980",
+      "Latitude": 45.60,
+      "Longitude": -122.60,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "Portland Intl AP 726980 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Portland",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY--24229",
+      "WMOID": "726980",
+      "Latitude": 45.60,
+      "Longitude": -122.60,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "Portland-Troutdale AP 726985 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Portland Troutdale",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726985",
+      "Latitude": 45.55,
+      "Longitude": -122.40,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 11.0
+    }
+  },
+  {
+    "OriginalFileName": "Portland-Hillsboro AP 726986 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Portland Hillsboro",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726986",
+      "Latitude": 45.53,
+      "Longitude": -122.95,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 62.0
+    }
+  },
+  {
+    "OriginalFileName": "Pendleton 726880 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "PENDLETON",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24155",
+      "WMOID": "726880",
+      "Latitude": 45.68,
+      "Longitude": -118.85,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 456.0
+    }
+  },
+  {
+    "OriginalFileName": "North Bend Muni AP 726917 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "North Bend Muni Airport",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726917",
+      "Latitude": 43.42,
+      "Longitude": -124.25,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Pendleton-Eastern Oregon Rgnl AP 726880 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Pendleton E Or Regional Ap",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726880",
+      "Latitude": 45.70,
+      "Longitude": -118.83,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 452.0
+    }
+  },
+  {
+    "OriginalFileName": "North Bend Muni AP 726917 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "North Bend",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY--24284",
+      "WMOID": "726917",
+      "Latitude": 43.42,
+      "Longitude": -124.25,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "North Bend 726917 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "NORTH_BEND",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24284",
+      "WMOID": "726917",
+      "Latitude": 43.42,
+      "Longitude": -124.25,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Medford 725970 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "MEDFORD",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24225",
+      "WMOID": "725970",
+      "Latitude": 42.37,
+      "Longitude": -122.87,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 396.0
+    }
+  },
+  {
+    "OriginalFileName": "Medford-Rogue Valley Intl AP 725970 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Medford Rogue Valley Intl Ap",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725970",
+      "Latitude": 42.19,
+      "Longitude": -122.70,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 595.0
+    }
+  },
+  {
+    "OriginalFileName": "Lakeview AWOS 725976 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lakeview  Awos",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725976",
+      "Latitude": 42.17,
+      "Longitude": -120.40,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1441.0
+    }
+  },
+  {
+    "OriginalFileName": "Medford-Rogue Valley Intl AP 725970 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Medford",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY--24225",
+      "WMOID": "725970",
+      "Latitude": 42.37,
+      "Longitude": -122.87,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 405.0
+    }
+  },
+  {
+    "OriginalFileName": "La Grande Muni AP 726884 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "La Grande Muni Ap",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726884",
+      "Latitude": 45.28,
+      "Longitude": -118.00,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 827.0
+    }
+  },
+  {
+    "OriginalFileName": "Eugene 726930 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "EUGENE",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24221",
+      "WMOID": "726930",
+      "Latitude": 44.12,
+      "Longitude": -123.22,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 109.0
+    }
+  },
+  {
+    "OriginalFileName": "Klamath Falls Intl AP 725895 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Klamath Falls Intl Ap  Uo",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725895",
+      "Latitude": 42.22,
+      "Longitude": -121.74,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1220.0
+    }
+  },
+  {
+    "OriginalFileName": "Corvallis Muni AP 726945 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Corvallis Muni",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726945",
+      "Latitude": 44.48,
+      "Longitude": -123.28,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 77.0
+    }
+  },
+  {
+    "OriginalFileName": "Eugene-Mahlon Sweet AP 726930 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Eugene Mahlon Sweet Arpt  Uo",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726930",
+      "Latitude": 44.05,
+      "Longitude": -123.07,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 109.0
+    }
+  },
+  {
+    "OriginalFileName": "Burns 726830 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "BURNS",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94185",
+      "WMOID": "726830",
+      "Latitude": 43.58,
+      "Longitude": -119.05,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1271.0
+    }
+  },
+  {
+    "OriginalFileName": "Burns Muni AP 726830 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Burns Municipal Arpt  Uo",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726830",
+      "Latitude": 43.52,
+      "Longitude": -119.02,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1271.0
+    }
+  },
+  {
+    "OriginalFileName": "Aurora State AP 726959 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Aurora State",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726959",
+      "Latitude": 45.25,
+      "Longitude": -122.77,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 60.0
+    }
+  },
+  {
+    "OriginalFileName": "Baker Muni AP 726886 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Baker Municipal Ap",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726886",
+      "Latitude": 44.83,
+      "Longitude": -117.82,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1027.0
+    }
+  },
+  {
+    "OriginalFileName": "Astoria Rgnl AP 727910 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Astoria Regional Airport",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727910",
+      "Latitude": 46.15,
+      "Longitude": -123.88,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Astoria 727910 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ASTORIA",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94224",
+      "WMOID": "727910",
+      "Latitude": 46.15,
+      "Longitude": -123.88,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Astoria Rgnl AP 727910 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Astoria",
+      "StateName": "OR",
+      "Country": "USA",
+      "WeatherSource": "TMY--94224",
+      "WMOID": "727910",
+      "Latitude": 46.15,
+      "Longitude": -123.88,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Tulsa Intl AP 723560 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Tulsa International Airport",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723560",
+      "Latitude": 36.20,
+      "Longitude": -95.88,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 198.0
+    }
+  },
+  {
+    "OriginalFileName": "Vance AFB 723535 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Vance Afb",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723535",
+      "Latitude": 36.33,
+      "Longitude": -97.92,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 408.0
+    }
+  },
+  {
+    "OriginalFileName": "Tulsa Intl AP 723560 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Tulsa",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY--13968",
+      "WMOID": "723560",
+      "Latitude": 36.20,
+      "Longitude": -95.90,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 206.0
+    }
+  },
+  {
+    "OriginalFileName": "Stillwater Rgnl AP 723545 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Stillwater Rgnl",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723545",
+      "Latitude": 36.15,
+      "Longitude": -97.08,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 308.0
+    }
+  },
+  {
+    "OriginalFileName": "Tulsa 723560 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "TULSA",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13968",
+      "WMOID": "723560",
+      "Latitude": 36.20,
+      "Longitude": -95.90,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 206.0
+    }
+  },
+  {
+    "OriginalFileName": "Ponca City Muni AP 723546 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Ponca City Municipal Ap  Sgp",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723546",
+      "Latitude": 36.61,
+      "Longitude": -97.49,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 318.0
+    }
+  },
+  {
+    "OriginalFileName": "Oklahoma City 723530 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "OKLAHOMA_CITY",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13967",
+      "WMOID": "723530",
+      "Latitude": 35.40,
+      "Longitude": -97.60,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 397.0
+    }
+  },
+  {
+    "OriginalFileName": "Oklahoma City-Will Rogers World AP 723530 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Oklahoma City Will Rogers Wor",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723530",
+      "Latitude": 35.38,
+      "Longitude": -97.60,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 398.0
+    }
+  },
+  {
+    "OriginalFileName": "Oklahoma City-Wiley Post Field 723544 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Oklahoma City Wiley",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723544",
+      "Latitude": 35.53,
+      "Longitude": -97.65,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 396.0
+    }
+  },
+  {
+    "OriginalFileName": "Oklahoma City-Will Rogers World AP 723530 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Oklahoma City/Will Rog",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY--13967",
+      "WMOID": "723530",
+      "Latitude": 35.40,
+      "Longitude": -97.60,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 397.0
+    }
+  },
+  {
+    "OriginalFileName": "Oklahoma City-Tinker AFB 723540 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Oklahoma City Tinker Afb",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723540",
+      "Latitude": 35.42,
+      "Longitude": -97.38,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 384.0
+    }
+  },
+  {
+    "OriginalFileName": "Lawton Muni AP 723575 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lawton Municipal",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723575",
+      "Latitude": 34.57,
+      "Longitude": -98.42,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 338.0
+    }
+  },
+  {
+    "OriginalFileName": "McAlester Rgnl AP 723566 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mcalester Municipal Ap",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723566",
+      "Latitude": 34.90,
+      "Longitude": -95.78,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 232.0
+    }
+  },
+  {
+    "OriginalFileName": "Gage AP 723527 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Gage Airport",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723527",
+      "Latitude": 36.30,
+      "Longitude": -99.77,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 668.0
+    }
+  },
+  {
+    "OriginalFileName": "Hobart Muni AP 723525 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hobart Municipal Ap",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723525",
+      "Latitude": 35.00,
+      "Longitude": -99.05,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 478.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Sill-Henry Post AAF 723550 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Sill Post Field Af",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723550",
+      "Latitude": 34.65,
+      "Longitude": -98.40,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 369.0
+    }
+  },
+  {
+    "OriginalFileName": "Bartlesville-Phillips Field 723565 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Bartlesville Philli",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723565",
+      "Latitude": 36.77,
+      "Longitude": -96.02,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 218.0
+    }
+  },
+  {
+    "OriginalFileName": "Clinton Sherman AP 723526 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Clinton Sherman",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723526",
+      "Latitude": 35.33,
+      "Longitude": -99.20,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 586.0
+    }
+  },
+  {
+    "OriginalFileName": "Altus AFB 723520 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Altus Afb",
+      "StateName": "OK",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723520",
+      "Latitude": 34.65,
+      "Longitude": -99.27,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 414.0
+    }
+  },
+  {
+    "OriginalFileName": "Youngstown Rgnl AP 725250 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Youngstown Regional Airport",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725250",
+      "Latitude": 41.25,
+      "Longitude": -80.67,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 360.0
+    }
+  },
+  {
+    "OriginalFileName": "Zanesville Muni AP 724286 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Zanesville Municipal Ap",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724286",
+      "Latitude": 39.95,
+      "Longitude": -81.90,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 268.0
+    }
+  },
+  {
+    "OriginalFileName": "Youngstown Rgnl AP 725250 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Youngstown",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY--14852",
+      "WMOID": "725250",
+      "Latitude": 41.27,
+      "Longitude": -80.67,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 361.0
+    }
+  },
+  {
+    "OriginalFileName": "Youngstown 725250 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "YOUNGSTOWN",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14852",
+      "WMOID": "725250",
+      "Latitude": 41.27,
+      "Longitude": -80.67,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 361.0
+    }
+  },
+  {
+    "OriginalFileName": "Toledo Express AP 725360 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Toledo Express Airport",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725360",
+      "Latitude": 41.58,
+      "Longitude": -83.80,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 204.0
+    }
+  },
+  {
+    "OriginalFileName": "Toledo 725360 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "TOLEDO",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94830",
+      "WMOID": "725360",
+      "Latitude": 41.60,
+      "Longitude": -83.80,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 211.0
+    }
+  },
+  {
+    "OriginalFileName": "Toledo Express AP 725360 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Toledo",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY--94830",
+      "WMOID": "725360",
+      "Latitude": 41.60,
+      "Longitude": -83.80,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 211.0
+    }
+  },
+  {
+    "OriginalFileName": "Ohio State University AP 724288 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Ohio State Universi",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724288",
+      "Latitude": 40.07,
+      "Longitude": -83.07,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 283.0
+    }
+  },
+  {
+    "OriginalFileName": "Mansfield 725246 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "MANSFIELD",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14891",
+      "WMOID": "725246",
+      "Latitude": 40.82,
+      "Longitude": -82.52,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 395.0
+    }
+  },
+  {
+    "OriginalFileName": "Mansfield-Lahm Muni AP 725246 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mansfield Lahm Municipal Arpt",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725246",
+      "Latitude": 40.82,
+      "Longitude": -82.52,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 395.0
+    }
+  },
+  {
+    "OriginalFileName": "Findlay AP 725366 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Findlay Airport",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725366",
+      "Latitude": 41.02,
+      "Longitude": -83.67,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 244.0
+    }
+  },
+  {
+    "OriginalFileName": "Dayton 745700 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "DAYTON",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93815",
+      "WMOID": "745700",
+      "Latitude": 39.90,
+      "Longitude": -84.22,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 306.0
+    }
+  },
+  {
+    "OriginalFileName": "Dayton Intl AP 724290 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Dayton International Airport",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724290",
+      "Latitude": 39.90,
+      "Longitude": -84.22,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 305.0
+    }
+  },
+  {
+    "OriginalFileName": "Dayton-Wright Patterson AFB 745700 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Dayton Wright Patterson Afb",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "745700",
+      "Latitude": 39.83,
+      "Longitude": -84.05,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 250.0
+    }
+  },
+  {
+    "OriginalFileName": "Dayton-Wright Patterson AFB 745700 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Dayton/Wright-Paterson",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY--93815",
+      "WMOID": "745700",
+      "Latitude": 39.83,
+      "Longitude": -84.05,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 251.0
+    }
+  },
+  {
+    "OriginalFileName": "Columbus 724280 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "COLUMBUS",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14821",
+      "WMOID": "724280",
+      "Latitude": 40.00,
+      "Longitude": -82.88,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 254.0
+    }
+  },
+  {
+    "OriginalFileName": "Columbus-Port Columbus Intl AP 724280 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Columbus/Int'l Airport",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY--14821",
+      "WMOID": "724280",
+      "Latitude": 40.00,
+      "Longitude": -82.88,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 249.0
+    }
+  },
+  {
+    "OriginalFileName": "Columbus-Port Columbus Intl AP 724280 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Columbus Port Columbus Intl A",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724280",
+      "Latitude": 39.98,
+      "Longitude": -82.88,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 247.0
+    }
+  },
+  {
+    "OriginalFileName": "Cleveland 725240 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "CLEVELAND",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14820",
+      "WMOID": "725240",
+      "Latitude": 41.40,
+      "Longitude": -81.85,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 245.0
+    }
+  },
+  {
+    "OriginalFileName": "Cleveland-Hopkins Intl AP 725240 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cleveland Hopkins Intl Ap",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725240",
+      "Latitude": 41.40,
+      "Longitude": -81.85,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 235.0
+    }
+  },
+  {
+    "OriginalFileName": "Cincinnati Muni AP-Lunken Field 724297 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cincinnati Municipal Ap Lunki",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724297",
+      "Latitude": 39.10,
+      "Longitude": -84.42,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 149.0
+    }
+  },
+  {
+    "OriginalFileName": "Cleveland-Burke Lakefront AP 725245 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Burke Lakefront",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725245",
+      "Latitude": 41.52,
+      "Longitude": -81.68,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 182.0
+    }
+  },
+  {
+    "OriginalFileName": "Akron Canton Rgnl AP 725210 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Akron Akron Canton Reg Ap",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725210",
+      "Latitude": 40.92,
+      "Longitude": -81.43,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 368.0
+    }
+  },
+  {
+    "OriginalFileName": "Akron 725210 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "AKRON",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14895",
+      "WMOID": "725210",
+      "Latitude": 40.92,
+      "Longitude": -81.43,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 377.0
+    }
+  },
+  {
+    "OriginalFileName": "Akron Canton Rgnl AP 725210 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Akron/Canton",
+      "StateName": "OH",
+      "Country": "USA",
+      "WeatherSource": "TMY--14895",
+      "WMOID": "725210",
+      "Latitude": 40.92,
+      "Longitude": -81.43,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 377.0
+    }
+  },
+  {
+    "OriginalFileName": "White Plains-Westchester County AP 725037 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "White Plains Westchester Co A",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725037",
+      "Latitude": 41.07,
+      "Longitude": -73.72,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 122.0
+    }
+  },
+  {
+    "OriginalFileName": "Westhampton-Suffolk County AP 744865 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Westhampton Gabreski Ap",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "744865",
+      "Latitude": 40.85,
+      "Longitude": -72.63,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 20.0
+    }
+  },
+  {
+    "OriginalFileName": "Utica-Oneida County AP 725197 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Utica Oneida County Ap",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725197",
+      "Latitude": 43.15,
+      "Longitude": -75.38,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 217.0
+    }
+  },
+  {
+    "OriginalFileName": "Watertown AP 726227 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Watertown Ap",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726227",
+      "Latitude": 44.00,
+      "Longitude": -76.02,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 97.0
+    }
+  },
+  {
+    "OriginalFileName": "Syracuse 725190 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SYRACUSE",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14771",
+      "WMOID": "725190",
+      "Latitude": 43.12,
+      "Longitude": -76.12,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 124.0
+    }
+  },
+  {
+    "OriginalFileName": "Syracuse-Hancock Intl AP 725190 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Syracuse Hancock IntL Arpt",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725190",
+      "Latitude": 43.12,
+      "Longitude": -76.10,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 125.0
+    }
+  },
+  {
+    "OriginalFileName": "Saranac Lake-Adirondack Rgnl AP 726228 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Adirondack Rgnl",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726228",
+      "Latitude": 44.38,
+      "Longitude": -74.20,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 520.0
+    }
+  },
+  {
+    "OriginalFileName": "Syracuse-Hancock Intl AP 725190 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Syracuse",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY--14771",
+      "WMOID": "725190",
+      "Latitude": 43.12,
+      "Longitude": -76.12,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 124.0
+    }
+  },
+  {
+    "OriginalFileName": "Rochester 725290 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ROCHESTER",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14768",
+      "WMOID": "725290",
+      "Latitude": 43.12,
+      "Longitude": -77.67,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 169.0
+    }
+  },
+  {
+    "OriginalFileName": "Rochester-Greater Rochester Intl AP 725290 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Rochester",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY--14768",
+      "WMOID": "725290",
+      "Latitude": 43.12,
+      "Longitude": -77.67,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 169.0
+    }
+  },
+  {
+    "OriginalFileName": "Rochester-Greater Rochester Intl AP 725290 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Rochester Greater Rochester I",
+      "StateName": "NY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725290",
+      "Latitude": 43.12,
+      "Longitude": -77.68,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 183.0
+    }
+  }
+]

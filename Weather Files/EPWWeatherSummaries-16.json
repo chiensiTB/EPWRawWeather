@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "Daytona Beach Intl AP 722056 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Daytona Beach",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY--12834",
+      "WMOID": "722056",
+      "Latitude": 29.18,
+      "Longitude": -81.05,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 11.0
+    }
+  },
+  {
+    "OriginalFileName": "Crestview-Bob Sikes AP 722215 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Crestview Bob Sikes Ap",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722215",
+      "Latitude": 30.78,
+      "Longitude": -86.52,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 58.0
+    }
+  },
+  {
+    "OriginalFileName": "Apalachicola 722200 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Apalachicola",
+      "StateName": "FL",
+      "Country": "USA",
+      "WeatherSource": "TMY--12832",
+      "WMOID": "722200",
+      "Latitude": 29.73,
+      "Longitude": -85.03,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Wilmington 724089 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "WILMINGTON",
+      "StateName": "DE",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13781",
+      "WMOID": "724089",
+      "Latitude": 39.67,
+      "Longitude": -75.60,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 24.0
+    }
+  },
+  {
+    "OriginalFileName": "Wilmington-New Castle County AP 724089 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Wilmington New Castle Cnty Ap",
+      "StateName": "DE",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724089",
+      "Latitude": 39.67,
+      "Longitude": -75.60,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 23.0
+    }
+  },
+  {
+    "OriginalFileName": "Wilmington-New Castle County AP 724089 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Wilmington",
+      "StateName": "DE",
+      "Country": "USA",
+      "WeatherSource": "TMY--13781",
+      "WMOID": "724089",
+      "Latitude": 39.68,
+      "Longitude": -75.60,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 24.0
+    }
+  },
+  {
+    "OriginalFileName": "Dover AFB 724088 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Dover Afb",
+      "StateName": "DE",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724088",
+      "Latitude": 39.13,
+      "Longitude": -75.47,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Oxford AWOS 725029 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Oxford  Awos",
+      "StateName": "CT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725029",
+      "Latitude": 41.48,
+      "Longitude": -73.13,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 222.0
+    }
+  },
+  {
+    "OriginalFileName": "New Haven-Tweed AP 725045 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "New Haven Tweed Airport",
+      "StateName": "CT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725045",
+      "Latitude": 41.27,
+      "Longitude": -72.88,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Hartford 725087 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "HARTFORD",
+      "StateName": "CT",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14740",
+      "WMOID": "725087",
+      "Latitude": 41.93,
+      "Longitude": -72.68,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 55.0
+    }
+  },
+  {
+    "OriginalFileName": "Hartford-Bradley Intl AP 725080 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hartford Bradley Intl Ap",
+      "StateName": "CT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725080",
+      "Latitude": 41.93,
+      "Longitude": -72.68,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 49.0
+    }
+  },
+  {
+    "OriginalFileName": "Hartford-Brainard Field 725087 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hartford Brainard Fd",
+      "StateName": "CT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725087",
+      "Latitude": 41.73,
+      "Longitude": -72.65,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Hartford-Bradley Intl AP 725080 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Hartford/Brainard Fiel",
+      "StateName": "CT",
+      "Country": "USA",
+      "WeatherSource": "TMY--14740",
+      "WMOID": "725080",
+      "Latitude": 41.73,
+      "Longitude": -72.65,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Danbury Muni AP 725086 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Danbury Municipal",
+      "StateName": "CT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725086",
+      "Latitude": 41.37,
+      "Longitude": -73.48,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 139.0
+    }
+  },
+  {
+    "OriginalFileName": "Groton-New London AP 725046 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Groton New London Ap",
+      "StateName": "CT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725046",
+      "Latitude": 41.33,
+      "Longitude": -72.05,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Bridgeport 725040 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "BRIDGEPORT",
+      "StateName": "CT",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94702",
+      "WMOID": "725040",
+      "Latitude": 41.17,
+      "Longitude": -73.13,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Bridgeport-Sikorsky Mem AP 725040 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Bridgeport Sikorsky Memorial",
+      "StateName": "CT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725040",
+      "Latitude": 41.18,
+      "Longitude": -73.15,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Trinidad-Las Animas County AP 724645 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Trinidad Las Animas County Ap",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724645",
+      "Latitude": 37.27,
+      "Longitude": -104.33,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1751.0
+    }
+  },
+  {
+    "OriginalFileName": "Pueblo Mem AP 724640 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Pueblo Memorial Ap",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724640",
+      "Latitude": 38.28,
+      "Longitude": -104.50,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1428.0
+    }
+  },
+  {
+    "OriginalFileName": "Rifle-Garfield County Rgnl AP 725717 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Rifle Garfield Rgnl",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725717",
+      "Latitude": 39.53,
+      "Longitude": -107.72,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1691.0
+    }
+  },
+  {
+    "OriginalFileName": "Pueblo Mem AP 724640 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Pueblo",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY--93058",
+      "WMOID": "724640",
+      "Latitude": 38.28,
+      "Longitude": -104.52,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1439.0
+    }
+  },
+  {
+    "OriginalFileName": "Pueblo 724640 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "PUEBLO",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93058",
+      "WMOID": "724640",
+      "Latitude": 38.28,
+      "Longitude": -104.52,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1439.0
+    }
+  },
+  {
+    "OriginalFileName": "Limon Muni AP 724665 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Limon",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724665",
+      "Latitude": 39.18,
+      "Longitude": -103.72,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1695.0
+    }
+  },
+  {
+    "OriginalFileName": "Montrose County AP 724765 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Montrose Co  Arpt",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724765",
+      "Latitude": 38.50,
+      "Longitude": -107.90,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1755.0
+    }
+  },
+  {
+    "OriginalFileName": "Leadville-Lake County AP 724673 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Leadville Lake Co",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724673",
+      "Latitude": 39.22,
+      "Longitude": -106.32,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 3026.0
+    }
+  },
+  {
+    "OriginalFileName": "La Junta Muni AP 724635 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "La Junta Municipal Ap",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724635",
+      "Latitude": 38.05,
+      "Longitude": -103.53,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1281.0
+    }
+  },
+  {
+    "OriginalFileName": "Lamar Muni AP 724636 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lamar Municipal",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724636",
+      "Latitude": 38.07,
+      "Longitude": -102.68,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1129.0
+    }
+  },
+  {
+    "OriginalFileName": "Hayden-Yampa AWOS 725715 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hayden Yampa  Awos",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725715",
+      "Latitude": 40.48,
+      "Longitude": -107.22,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2012.0
+    }
+  },
+  {
+    "OriginalFileName": "Greeley-Weld County AWOS 724768 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Greeley Weld  Awos",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724768",
+      "Latitude": 40.43,
+      "Longitude": -104.63,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1420.0
+    }
+  },
+  {
+    "OriginalFileName": "Gunnison County AWOS 724677 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Gunnison Co   Awos",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724677",
+      "Latitude": 38.53,
+      "Longitude": -106.93,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2339.0
+    }
+  },
+  {
+    "OriginalFileName": "Grand Junction 724760 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "GRAND_JUNCTION",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23066",
+      "WMOID": "724760",
+      "Latitude": 39.12,
+      "Longitude": -108.53,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1475.0
+    }
+  },
+  {
+    "OriginalFileName": "Grand Junction-Walker Field 724760 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Grand Junction",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY--23066",
+      "WMOID": "724760",
+      "Latitude": 39.12,
+      "Longitude": -108.53,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1475.0
+    }
+  },
+  {
+    "OriginalFileName": "Grand Junction-Walker Field 724760 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Grand Junction Walker Field",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724760",
+      "Latitude": 39.13,
+      "Longitude": -108.53,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1475.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Collins AWOS 724769 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Collins  Awos",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724769",
+      "Latitude": 40.45,
+      "Longitude": -105.02,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1529.0
+    }
+  },
+  {
+    "OriginalFileName": "Golden-NREL 724666 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Denver Centennial  Golden   Nr",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724666",
+      "Latitude": 39.74,
+      "Longitude": -105.18,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1829.0
+    }
+  },
+  {
+    "OriginalFileName": "Eagle County Rgnl AP 724675 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Eagle County Ap",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724675",
+      "Latitude": 39.65,
+      "Longitude": -106.92,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1980.0
+    }
+  },
+  {
+    "OriginalFileName": "Eagle 724675 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "EAGLE",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23063",
+      "WMOID": "724675",
+      "Latitude": 39.65,
+      "Longitude": -106.92,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1985.0
+    }
+  },
+  {
+    "OriginalFileName": "Eagle County Rgnl AP 724675 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Eagle",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY--23063",
+      "WMOID": "724675",
+      "Latitude": 39.65,
+      "Longitude": -106.92,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1993.0
+    }
+  },
+  {
+    "OriginalFileName": "Denver Intl AP 725650 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Denver Intl Ap",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725650",
+      "Latitude": 39.83,
+      "Longitude": -104.65,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1650.0
+    }
+  },
+  {
+    "OriginalFileName": "Durango-La Plata County AP 724625 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Durango La Plata Co",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724625",
+      "Latitude": 37.15,
+      "Longitude": -107.75,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2038.0
+    }
+  },
+  {
+    "OriginalFileName": "Denver-Stapleton 724690 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Denver-Stapleton",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY--23062",
+      "WMOID": "724690",
+      "Latitude": 39.76,
+      "Longitude": -104.86,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1611.0
+    }
+  },
+  {
+    "OriginalFileName": "Cortez-Montezuma County AP 724767 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cortez Montezuma Co",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724767",
+      "Latitude": 37.30,
+      "Longitude": -108.63,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1803.0
+    }
+  },
+  {
+    "OriginalFileName": "Craig Moffat AP 725700 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Craig Moffat",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725700",
+      "Latitude": 40.50,
+      "Longitude": -107.53,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1915.0
+    }
+  },
+  {
+    "OriginalFileName": "Colorado Springs 724660 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "COLORADO_SPRINGS",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93037",
+      "WMOID": "724660",
+      "Latitude": 38.82,
+      "Longitude": -104.72,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1881.0
+    }
+  },
+  {
+    "OriginalFileName": "Colorado Springs-Peterson Field 724660 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Colorado Springs Muni Ap",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724660",
+      "Latitude": 38.82,
+      "Longitude": -104.72,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1872.0
+    }
+  },
+  {
+    "OriginalFileName": "Colorado Springs-Peterson Field 724660 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Colorado Springs",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY--93037",
+      "WMOID": "724660",
+      "Latitude": 38.82,
+      "Longitude": -104.72,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1881.0
+    }
+  },
+  {
+    "OriginalFileName": "Boulder 724699 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "BOULDER",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94018",
+      "WMOID": "724699",
+      "Latitude": 40.02,
+      "Longitude": -105.25,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1634.0
+    }
+  },
+  {
+    "OriginalFileName": "Aurora-Buckley Field ANGB 724695 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Aurora Buckley Field Angb",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724695",
+      "Latitude": 39.72,
+      "Longitude": -104.75,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1726.0
+    }
+  },
+  {
+    "OriginalFileName": "Boulder-Broomfield-Jefferson County AP 724699 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Broomfield Jeffco  Boulder   S",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724699",
+      "Latitude": 40.13,
+      "Longitude": -105.24,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1689.0
+    }
+  },
+  {
+    "OriginalFileName": "Aspen-Pitkin County-Sardy Field 724676 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Aspen Pitkin Co Sar",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724676",
+      "Latitude": 39.22,
+      "Longitude": -106.87,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2444.0
+    }
+  },
+  {
+    "OriginalFileName": "Alamosa 724620 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ALAMOSA",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23061",
+      "WMOID": "724620",
+      "Latitude": 37.45,
+      "Longitude": -105.87,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2297.0
+    }
+  },
+  {
+    "OriginalFileName": "Alamosa Muni AP 724620 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Alamosa San Luis Valley Rgnl",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724620",
+      "Latitude": 37.43,
+      "Longitude": -105.87,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2296.0
+    }
+  },
+  {
+    "OriginalFileName": "Akron-Washington County AP 724698 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Akron Washington Co Ap",
+      "StateName": "CO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724698",
+      "Latitude": 40.17,
+      "Longitude": -103.23,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1421.0
+    }
+  },
+  {
+    "OriginalFileName": "Visalia Muni AWOS 723896 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Visalia Muni  Awos",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723896",
+      "Latitude": 36.32,
+      "Longitude": -119.40,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 89.0
+    }
+  },
+  {
+    "OriginalFileName": "Yuba County AP 724838 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Yuba Co",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724838",
+      "Latitude": 39.10,
+      "Longitude": -121.57,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 19.0
+    }
+  },
+  {
+    "OriginalFileName": "Van Nuys AP 722886 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Van Nuys Airport",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722886",
+      "Latitude": 34.22,
+      "Longitude": -118.48,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 235.0
+    }
+  },
+  {
+    "OriginalFileName": "Ukiah Muni AP 725905 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Ukiah Municipal Ap",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725905",
+      "Latitude": 39.13,
+      "Longitude": -123.20,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 189.0
+    }
+  },
+  {
+    "OriginalFileName": "Truckee Tahoe AP 725846 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Truckee Tahoe",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725846",
+      "Latitude": 39.32,
+      "Longitude": -120.13,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1798.0
+    }
+  },
+  {
+    "OriginalFileName": "Twentynine Palms 690150 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Twentynine Palms",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "690150",
+      "Latitude": 34.30,
+      "Longitude": -116.17,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 626.0
+    }
+  },
+  {
+    "OriginalFileName": "Stockton Metro AP 724920 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Stockton Metropolitan Arpt",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724920",
+      "Latitude": 37.90,
+      "Longitude": -121.23,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "South Lake Tahoe-Lake Tahoe AP 725847 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "South Lake Tahoe",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725847",
+      "Latitude": 38.90,
+      "Longitude": -120.00,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1909.0
+    }
+  },
+  {
+    "OriginalFileName": "Santa Monica Muni AP 722885 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Santa Monica Muni",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722885",
+      "Latitude": 34.02,
+      "Longitude": -118.45,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 53.0
+    }
+  },
+  {
+    "OriginalFileName": "Santa Rosa AWOS 724957 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Santa Rosa  Awos",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724957",
+      "Latitude": 38.52,
+      "Longitude": -122.82,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 38.0
+    }
+  },
+  {
+    "OriginalFileName": "Santa Maria Public AP 723940 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Santa Maria Public Arpt",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723940",
+      "Latitude": 34.92,
+      "Longitude": -120.47,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 77.0
+    }
+  },
+  {
+    "OriginalFileName": "Santa Maria Public AP 723940 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Santa Maria",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY--23273",
+      "WMOID": "723940",
+      "Latitude": 34.90,
+      "Longitude": -120.45,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 73.0
+    }
+  },
+  {
+    "OriginalFileName": "Santa Maria 723940 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SANTA_MARIA",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23273",
+      "WMOID": "723940",
+      "Latitude": 34.90,
+      "Longitude": -120.45,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 72.0
+    }
+  },
+  {
+    "OriginalFileName": "Santa Ana-John Wayne AP 722977 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Santa Ana John Wayne Ap",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722977",
+      "Latitude": 33.68,
+      "Longitude": -117.87,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 16.0
+    }
+  },
+  {
+    "OriginalFileName": "Santa Barbara Muni AP 723925 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Santa Barbara Municipal Ap",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723925",
+      "Latitude": 34.43,
+      "Longitude": -119.85,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Sandberg 723830 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sandberg",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723830",
+      "Latitude": 34.75,
+      "Longitude": -118.72,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1377.0
+    }
+  },
+  {
+    "OriginalFileName": "San Jose Intl AP 724945 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "San Jose Intl Ap",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724945",
+      "Latitude": 37.37,
+      "Longitude": -121.93,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 16.0
+    }
+  },
+  {
+    "OriginalFileName": "San Luis Obispo AP 722897 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "San Luis Co Rgnl",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722897",
+      "Latitude": 35.23,
+      "Longitude": -120.63,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 66.0
+    }
+  },
+  {
+    "OriginalFileName": "San Francisco Intl AP 724940 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "San Francisco",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY--23234",
+      "WMOID": "724940",
+      "Latitude": 37.62,
+      "Longitude": -122.38,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "San Francisco Intl AP 724940 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "San Francisco Intl Ap",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724940",
+      "Latitude": 37.62,
+      "Longitude": -122.40,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "San Francisco 724940 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SAN_FRANCISCO",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23234",
+      "WMOID": "724940",
+      "Latitude": 37.62,
+      "Longitude": -122.38,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "San Diego 722900 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SAN_DIEGO",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23188",
+      "WMOID": "722900",
+      "Latitude": 32.73,
+      "Longitude": -117.17,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "San Diego-North Island NAS 722906 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "San Diego North Island Nas",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722906",
+      "Latitude": 32.70,
+      "Longitude": -117.20,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 15.0
+    }
+  },
+  {
+    "OriginalFileName": "San Diego-Montgomery Field 722903 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "San Diego Montgomer",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722903",
+      "Latitude": 32.82,
+      "Longitude": -117.13,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 129.0
+    }
+  },
+  {
+    "OriginalFileName": "San Diego-Lindbergh Field 722900 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "San Diego Lindbergh Field",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722900",
+      "Latitude": 32.73,
+      "Longitude": -117.17,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "San Diego-Miramar NAS 722930 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "San Diego Miramar Nas",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722930",
+      "Latitude": 32.87,
+      "Longitude": -117.13,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 140.0
+    }
+  },
+  {
+    "OriginalFileName": "San Diego-Lindbergh Field 722900 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "San Diego/Int'l Airpor",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY--23188",
+      "WMOID": "722900",
+      "Latitude": 32.73,
+      "Longitude": -117.17,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "Sacramento Metro AP 724839 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sacramento Metropolitan Ap",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724839",
+      "Latitude": 38.70,
+      "Longitude": -121.58,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Salinas Muni AP 724917 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Salinas Municipal Ap",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724917",
+      "Latitude": 36.67,
+      "Longitude": -121.60,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 21.0
+    }
+  },
+  {
+    "OriginalFileName": "Sacramento Exec AP 724830 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sacramento Executive Arpt",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724830",
+      "Latitude": 38.50,
+      "Longitude": -121.50,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Sacramento 724835 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SACRAMENTO",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23232",
+      "WMOID": "724835",
+      "Latitude": 38.52,
+      "Longitude": -121.50,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "Sacramento Exec AP 724830 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Sacramento/Mather Fiel",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY--23232",
+      "WMOID": "724830",
+      "Latitude": 38.55,
+      "Longitude": -121.30,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 29.0
+    }
+  },
+  {
+    "OriginalFileName": "Riverside Muni AP 722869 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Riverside Muni",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722869",
+      "Latitude": 33.95,
+      "Longitude": -117.45,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 256.0
+    }
+  },
+  {
+    "OriginalFileName": "Red Bluff Muni AP 725910 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Red Bluff Municipal Arpt",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725910",
+      "Latitude": 40.15,
+      "Longitude": -122.25,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 106.0
+    }
+  },
+  {
+    "OriginalFileName": "Redding Muni AP 725920 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Redding Municipal Arpt",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725920",
+      "Latitude": 40.52,
+      "Longitude": -122.32,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 153.0
+    }
+  },
+  {
+    "OriginalFileName": "Red Bluff Muni AP 725910 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Red Bluff",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY--24216",
+      "WMOID": "725910",
+      "Latitude": 40.15,
+      "Longitude": -122.25,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 106.0
+    }
+  },
+  {
+    "OriginalFileName": "Point Mugu NAS 723910 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Point Mugu Nf",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723910",
+      "Latitude": 34.12,
+      "Longitude": -119.12,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Porterville AWOS 723895 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Porterville  Awos",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723895",
+      "Latitude": 36.03,
+      "Longitude": -119.07,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 135.0
+    }
+  },
+  {
+    "OriginalFileName": "Paso Robles Muni AP 723965 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Paso Robles Municipal Arpt",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723965",
+      "Latitude": 35.67,
+      "Longitude": -120.63,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 244.0
+    }
+  },
+  {
+    "OriginalFileName": "Point Mugu NAS 723910 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Oxnard/Point Mugu NF",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY--93111",
+      "WMOID": "723910",
+      "Latitude": 34.11,
+      "Longitude": -119.11,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Palmdale AP 723820 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Palmdale Airport",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723820",
+      "Latitude": 34.63,
+      "Longitude": -118.08,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 769.0
+    }
+  },
+  {
+    "OriginalFileName": "Palm Springs Intl AP 722868 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Palm Springs Intl",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722868",
+      "Latitude": 33.83,
+      "Longitude": -116.50,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 145.0
+    }
+  },
+  {
+    "OriginalFileName": "Palm Springs-Thermal AP 747187 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Palm Springs Thermal Ap",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747187",
+      "Latitude": 33.63,
+      "Longitude": -116.17,
+      "TimeZoneOffset": -8.0,
+      "Elevation": -34.0
+    }
+  },
+  {
+    "OriginalFileName": "Oakland Intl AP 724930 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Oakland Metropolitan Arpt",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724930",
+      "Latitude": 37.72,
+      "Longitude": -122.22,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Oxnard AP 723927 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Oxnard Airport",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723927",
+      "Latitude": 34.20,
+      "Longitude": -119.20,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 11.0
+    }
+  },
+  {
+    "OriginalFileName": "Needles AP 723805 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Needles Airport",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723805",
+      "Latitude": 34.77,
+      "Longitude": -114.62,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 279.0
+    }
+  },
+  {
+    "OriginalFileName": "Oakland Intl AP 724930 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Oakland",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY--23230",
+      "WMOID": "724930",
+      "Latitude": 37.71,
+      "Longitude": -122.21,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1.0
+    }
+  }
+]

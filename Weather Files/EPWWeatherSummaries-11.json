@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "Helena Rgnl AP 727720 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Helena Regional Airport",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727720",
+      "Latitude": 46.60,
+      "Longitude": -111.97,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1167.0
+    }
+  },
+  {
+    "OriginalFileName": "Helena 727720 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "HELENA",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24144",
+      "WMOID": "727720",
+      "Latitude": 46.60,
+      "Longitude": -112.00,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1188.0
+    }
+  },
+  {
+    "OriginalFileName": "Great Falls Intl AP 727750 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Great Falls Intl Arpt",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727750",
+      "Latitude": 47.47,
+      "Longitude": -111.38,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1117.0
+    }
+  },
+  {
+    "OriginalFileName": "Havre City-County AP 727770 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Havre City County Ap",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727770",
+      "Latitude": 48.55,
+      "Longitude": -109.77,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 788.0
+    }
+  },
+  {
+    "OriginalFileName": "Great Falls 727755 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "GREAT_FALLS",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24143",
+      "WMOID": "727755",
+      "Latitude": 47.48,
+      "Longitude": -111.37,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1116.0
+    }
+  },
+  {
+    "OriginalFileName": "Great Falls Intl AP 727750 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Great Falls/Malmstrom",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY--24143",
+      "WMOID": "727750",
+      "Latitude": 47.50,
+      "Longitude": -111.18,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1075.0
+    }
+  },
+  {
+    "OriginalFileName": "Glendive AWOS 726676 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Glendive Awos",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726676",
+      "Latitude": 47.13,
+      "Longitude": -104.80,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 749.0
+    }
+  },
+  {
+    "OriginalFileName": "Glasgow Intl AP 727680 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Glasgow",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY--94008",
+      "WMOID": "727680",
+      "Latitude": 48.22,
+      "Longitude": -106.62,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 700.0
+    }
+  },
+  {
+    "OriginalFileName": "Glasgow Intl AP 727680 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Glasgow Intl Arpt",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727680",
+      "Latitude": 48.22,
+      "Longitude": -106.62,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 699.0
+    }
+  },
+  {
+    "OriginalFileName": "Dillon 726796 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Dillon",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY--24138",
+      "WMOID": "726796",
+      "Latitude": 45.25,
+      "Longitude": -112.55,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1597.0
+    }
+  },
+  {
+    "OriginalFileName": "Glasgow 727680 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "GLASGOW",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94008",
+      "WMOID": "727680",
+      "Latitude": 48.22,
+      "Longitude": -106.62,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 700.0
+    }
+  },
+  {
+    "OriginalFileName": "Cut Bank Muni AP 727796 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cut Bank Muni Ap",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727796",
+      "Latitude": 48.60,
+      "Longitude": -112.37,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1170.0
+    }
+  },
+  {
+    "OriginalFileName": "Cut Bank 727796 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "CUT_BANK",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24137",
+      "WMOID": "727796",
+      "Latitude": 48.60,
+      "Longitude": -112.37,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1170.0
+    }
+  },
+  {
+    "OriginalFileName": "Cut Bank Muni AP 727796 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Cut Bank",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY--24137",
+      "WMOID": "727796",
+      "Latitude": 48.60,
+      "Longitude": -112.37,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1175.0
+    }
+  },
+  {
+    "OriginalFileName": "Butte-Bert Mooney AP 726785 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Butte Bert Mooney Arpt",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726785",
+      "Latitude": 45.95,
+      "Longitude": -112.50,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1689.0
+    }
+  },
+  {
+    "OriginalFileName": "Bozeman-Gallatin Field 726797 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Bozeman Gallatin Field",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726797",
+      "Latitude": 45.80,
+      "Longitude": -111.15,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1349.0
+    }
+  },
+  {
+    "OriginalFileName": "Billings 726770 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "BILLINGS",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24033",
+      "WMOID": "726770",
+      "Latitude": 45.80,
+      "Longitude": -108.53,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1088.0
+    }
+  },
+  {
+    "OriginalFileName": "Billings-Logan Intl AP 726770 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Billings Logan IntL Arpt",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726770",
+      "Latitude": 45.80,
+      "Longitude": -108.55,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1087.0
+    }
+  },
+  {
+    "OriginalFileName": "Billings-Logan Intl AP 726770 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Billings",
+      "StateName": "MT",
+      "Country": "USA",
+      "WeatherSource": "TMY--24033",
+      "WMOID": "726770",
+      "Latitude": 45.80,
+      "Longitude": -108.53,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1088.0
+    }
+  },
+  {
+    "OriginalFileName": "Tupelo Muni-C D Lemons AP 723320 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Tupelo C D Lemons Arpt",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723320",
+      "Latitude": 34.27,
+      "Longitude": -88.77,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 110.0
+    }
+  },
+  {
+    "OriginalFileName": "Natchez-Hardy Anders Field 722357 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Natchez Hardy Awos",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722357",
+      "Latitude": 31.62,
+      "Longitude": -91.30,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 83.0
+    }
+  },
+  {
+    "OriginalFileName": "Meridian 722340 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "MERIDIAN",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13865",
+      "WMOID": "722340",
+      "Latitude": 32.33,
+      "Longitude": -88.75,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 94.0
+    }
+  },
+  {
+    "OriginalFileName": "Meridian NAS 722345 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Meridian Naas",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722345",
+      "Latitude": 32.55,
+      "Longitude": -88.57,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 83.0
+    }
+  },
+  {
+    "OriginalFileName": "Meridian-Key Field 722340 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Meridian Key Field",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722340",
+      "Latitude": 32.33,
+      "Longitude": -88.75,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 90.0
+    }
+  },
+  {
+    "OriginalFileName": "McComb-Pike Co AP 722358 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mccomb Pike County Ap",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722358",
+      "Latitude": 31.23,
+      "Longitude": -90.47,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 126.0
+    }
+  },
+  {
+    "OriginalFileName": "Meridian-Key Field 722340 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Meridian",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY--13865",
+      "WMOID": "722340",
+      "Latitude": 32.33,
+      "Longitude": -88.75,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 94.0
+    }
+  },
+  {
+    "OriginalFileName": "Jackson Intl AP 722350 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Jackson International Ap",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722350",
+      "Latitude": 32.32,
+      "Longitude": -90.08,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 94.0
+    }
+  },
+  {
+    "OriginalFileName": "Jackson Intl AP 722350 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Jackson",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY-- 3940",
+      "WMOID": "722350",
+      "Latitude": 32.32,
+      "Longitude": -90.08,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 101.0
+    }
+  },
+  {
+    "OriginalFileName": "Jackson 722350 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "JACKSON",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY2-03940",
+      "WMOID": "722350",
+      "Latitude": 32.32,
+      "Longitude": -90.08,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 101.0
+    }
+  },
+  {
+    "OriginalFileName": "Gulfport-Biloxi Intl AP 747685 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Gulfport Biloxi Int",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747685",
+      "Latitude": 30.40,
+      "Longitude": -89.07,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "Hattiesburg-Laurel AP 722348 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hattiesburg Laurel",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722348",
+      "Latitude": 31.47,
+      "Longitude": -89.33,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 93.0
+    }
+  },
+  {
+    "OriginalFileName": "Greenwood-Leflore AP 722359 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Greenwood Leflore Arpt",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722359",
+      "Latitude": 33.50,
+      "Longitude": -90.08,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 47.0
+    }
+  },
+  {
+    "OriginalFileName": "Greenville Muni AP 722356 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Greenville Municipal",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722356",
+      "Latitude": 33.48,
+      "Longitude": -90.98,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 42.0
+    }
+  },
+  {
+    "OriginalFileName": "Columbus AFB 723306 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Columbus Afb",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723306",
+      "Latitude": 33.65,
+      "Longitude": -88.45,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 68.0
+    }
+  },
+  {
+    "OriginalFileName": "Golden Triangle Rgnl AWOS 723307 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Golden Tri Awos",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723307",
+      "Latitude": 33.45,
+      "Longitude": -88.58,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 80.0
+    }
+  },
+  {
+    "OriginalFileName": "Biloxi-Keesler AFB 747686 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Keesler Afb",
+      "StateName": "MS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747686",
+      "Latitude": 30.42,
+      "Longitude": -88.92,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "St Louis 724340 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ST._LOUIS",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13994",
+      "WMOID": "724340",
+      "Latitude": 38.75,
+      "Longitude": -90.38,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 172.0
+    }
+  },
+  {
+    "OriginalFileName": "Whiteman AFB 724467 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Whiteman Afb",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724467",
+      "Latitude": 38.72,
+      "Longitude": -93.55,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 255.0
+    }
+  },
+  {
+    "OriginalFileName": "St Louis-Spirit of St Louis AP 724345 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "St Louis Spirit Of St Louis A",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724345",
+      "Latitude": 38.65,
+      "Longitude": -90.65,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 141.0
+    }
+  },
+  {
+    "OriginalFileName": "St Louis-Lambert Intl AP 724340 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "St Louis Lambert IntL Arpt",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724340",
+      "Latitude": 38.75,
+      "Longitude": -90.37,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 173.0
+    }
+  },
+  {
+    "OriginalFileName": "St Joseph-Rosecrans Mem AP 724490 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "St Joseph Rosecrans Memorial",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724490",
+      "Latitude": 39.77,
+      "Longitude": -94.90,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 247.0
+    }
+  },
+  {
+    "OriginalFileName": "St Louis-Lambert Intl AP 724340 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "St Louis/Int'l Airport",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY--13994",
+      "WMOID": "724340",
+      "Latitude": 38.75,
+      "Longitude": -90.37,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 172.0
+    }
+  },
+  {
+    "OriginalFileName": "Springfield Rgnl AP 724400 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Springfield Regional Arpt",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724400",
+      "Latitude": 37.23,
+      "Longitude": -93.38,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 384.0
+    }
+  },
+  {
+    "OriginalFileName": "Springfield Rgnl AP 724400 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Springfield",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY--13995",
+      "WMOID": "724400",
+      "Latitude": 37.23,
+      "Longitude": -93.38,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 387.0
+    }
+  },
+  {
+    "OriginalFileName": "Rolla National AP 724456 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Vichy Rolla Natl Arpt",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724456",
+      "Latitude": 38.13,
+      "Longitude": -91.77,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 336.0
+    }
+  },
+  {
+    "OriginalFileName": "Springfield 724400 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SPRINGFIELD",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13995",
+      "WMOID": "724400",
+      "Latitude": 37.23,
+      "Longitude": -93.38,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 387.0
+    }
+  },
+  {
+    "OriginalFileName": "Poplar Bluff AWOS 723300 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Poplar Bluff Amos",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723300",
+      "Latitude": 36.77,
+      "Longitude": -90.47,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 146.0
+    }
+  },
+  {
+    "OriginalFileName": "Kirksville Muni AP 724455 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Kirksville Regional Ap",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724455",
+      "Latitude": 40.10,
+      "Longitude": -92.55,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 294.0
+    }
+  },
+  {
+    "OriginalFileName": "Kansas City Intl AP 724460 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Kansas City IntL Arpt",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724460",
+      "Latitude": 39.30,
+      "Longitude": -94.72,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 298.0
+    }
+  },
+  {
+    "OriginalFileName": "Kansas City Downtown AP 724463 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Kansas City Downtown Ap",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724463",
+      "Latitude": 39.12,
+      "Longitude": -94.60,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 226.0
+    }
+  },
+  {
+    "OriginalFileName": "Kaiser-Lee Fine Mem AWOS 724459 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Kaiser Mem  Awos",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724459",
+      "Latitude": 38.10,
+      "Longitude": -92.55,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 265.0
+    }
+  },
+  {
+    "OriginalFileName": "Kansas City 724460 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "KANSAS_CITY",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY2-03947",
+      "WMOID": "724460",
+      "Latitude": 39.30,
+      "Longitude": -94.72,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 315.0
+    }
+  },
+  {
+    "OriginalFileName": "Joplin Muni AP 723495 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Joplin Municipal Ap",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723495",
+      "Latitude": 37.15,
+      "Longitude": -94.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 297.0
+    }
+  },
+  {
+    "OriginalFileName": "Jefferson City Mem AP 724458 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Jefferson City Mem",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724458",
+      "Latitude": 38.58,
+      "Longitude": -92.15,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 167.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Leonard Wood-Forney AAF 724457 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Ft Lnrd Wd Aaf",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724457",
+      "Latitude": 37.75,
+      "Longitude": -92.15,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 351.0
+    }
+  },
+  {
+    "OriginalFileName": "Farmington Rgnl AP 724454 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Farmington",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724454",
+      "Latitude": 37.77,
+      "Longitude": -90.40,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 274.0
+    }
+  },
+  {
+    "OriginalFileName": "Columbia Rgnl AP 724450 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Columbia",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY-- 3945",
+      "WMOID": "724450",
+      "Latitude": 38.82,
+      "Longitude": -92.22,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 274.0
+    }
+  },
+  {
+    "OriginalFileName": "Columbia Rgnl AP 724450 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Columbia Regional Airport",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724450",
+      "Latitude": 38.82,
+      "Longitude": -92.22,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 272.0
+    }
+  },
+  {
+    "OriginalFileName": "Columbia 724450 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "COLUMBIA",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY2-03945",
+      "WMOID": "724450",
+      "Latitude": 38.82,
+      "Longitude": -92.22,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 270.0
+    }
+  },
+  {
+    "OriginalFileName": "Cape Girardeau Muni AP 723489 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cape Girardeau Municipal Ap",
+      "StateName": "MO",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723489",
+      "Latitude": 37.23,
+      "Longitude": -89.57,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 103.0
+    }
+  },
+  {
+    "OriginalFileName": "Winona Muni AWOS 726588 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Winona Muni  Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726588",
+      "Latitude": 44.08,
+      "Longitude": -91.70,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 200.0
+    }
+  },
+  {
+    "OriginalFileName": "Worthington AWOS 726587 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Worthington  Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726587",
+      "Latitude": 43.65,
+      "Longitude": -95.58,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 480.0
+    }
+  },
+  {
+    "OriginalFileName": "Willmar Muni AP 726576 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Willmar",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726576",
+      "Latitude": 45.12,
+      "Longitude": -95.08,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 345.0
+    }
+  },
+  {
+    "OriginalFileName": "Two Harbors Muni AP 727444 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Two Harbors",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727444",
+      "Latitude": 47.05,
+      "Longitude": -91.75,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 328.0
+    }
+  },
+  {
+    "OriginalFileName": "Wheaton AWOS 727533 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Wheaton Ndb  Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727533",
+      "Latitude": 45.70,
+      "Longitude": -96.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 313.0
+    }
+  },
+  {
+    "OriginalFileName": "Thief River AWOS 727555 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Thief River Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727555",
+      "Latitude": 48.07,
+      "Longitude": -96.18,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 340.0
+    }
+  },
+  {
+    "OriginalFileName": "St Cloud Muni AP 726550 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "St Cloud Regional Arpt",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726550",
+      "Latitude": 45.55,
+      "Longitude": -94.05,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 311.0
+    }
+  },
+  {
+    "OriginalFileName": "St Paul-Downtown AP 726584 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "St Paul Downtown Ap",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726584",
+      "Latitude": 44.93,
+      "Longitude": -93.05,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 220.0
+    }
+  },
+  {
+    "OriginalFileName": "South St Paul Muni AP 726603 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "South St Paul Muni",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726603",
+      "Latitude": 44.85,
+      "Longitude": -93.15,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 250.0
+    }
+  },
+  {
+    "OriginalFileName": "Silver Bay Muni AP 727556 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Silver Bay",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727556",
+      "Latitude": 47.20,
+      "Longitude": -91.40,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 331.0
+    }
+  },
+  {
+    "OriginalFileName": "Saint Cloud 726550 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SAINT_CLOUD",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14926",
+      "WMOID": "726550",
+      "Latitude": 45.55,
+      "Longitude": -94.07,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 313.0
+    }
+  },
+  {
+    "OriginalFileName": "Rochester Intl AP 726440 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Rochester International Arpt",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726440",
+      "Latitude": 43.90,
+      "Longitude": -92.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 398.0
+    }
+  },
+  {
+    "OriginalFileName": "Roseau Muni AWOS 727477 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Roseau Muni  Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727477",
+      "Latitude": 48.85,
+      "Longitude": -95.70,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 323.0
+    }
+  },
+  {
+    "OriginalFileName": "Rochester Intl AP 726440 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Rochester",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY--14925",
+      "WMOID": "726440",
+      "Latitude": 43.92,
+      "Longitude": -92.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 402.0
+    }
+  },
+  {
+    "OriginalFileName": "Redwood Falls Muni AP 726556 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Redwood Falls Muni",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726556",
+      "Latitude": 44.55,
+      "Longitude": -95.08,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 312.0
+    }
+  },
+  {
+    "OriginalFileName": "Rochester 726440 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ROCHESTER",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14925",
+      "WMOID": "726440",
+      "Latitude": 43.92,
+      "Longitude": -92.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 402.0
+    }
+  },
+  {
+    "OriginalFileName": "Red Wing Muni AP 726564 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Red Wing",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726564",
+      "Latitude": 44.58,
+      "Longitude": -92.48,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 239.0
+    }
+  },
+  {
+    "OriginalFileName": "Park Rapids Muni AP 727453 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Park Rapids Municipal Ap",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727453",
+      "Latitude": 46.90,
+      "Longitude": -95.07,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 437.0
+    }
+  },
+  {
+    "OriginalFileName": "Pipestone AWOS 726566 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Pipestone  Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726566",
+      "Latitude": 43.98,
+      "Longitude": -96.32,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 529.0
+    }
+  },
+  {
+    "OriginalFileName": "Owatonna AWOS 726568 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Owatonna  Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726568",
+      "Latitude": 44.12,
+      "Longitude": -93.25,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 350.0
+    }
+  },
+  {
+    "OriginalFileName": "Orr Rgnl AP 726544 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Orr",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726544",
+      "Latitude": 48.02,
+      "Longitude": -92.87,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 397.0
+    }
+  },
+  {
+    "OriginalFileName": "New Ulm Muni AWOS 726567 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "New Ulm Muni  Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726567",
+      "Latitude": 44.32,
+      "Longitude": -94.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 308.0
+    }
+  },
+  {
+    "OriginalFileName": "Mora Muni AWOS 727475 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mora Muni  Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727475",
+      "Latitude": 45.88,
+      "Longitude": -93.27,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 309.0
+    }
+  },
+  {
+    "OriginalFileName": "Morris Muni AWOS 726565 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Morris Muni  Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726565",
+      "Latitude": 45.57,
+      "Longitude": -95.97,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 344.0
+    }
+  },
+  {
+    "OriginalFileName": "Minneapolis-St Paul Intl AP 726580 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Minneapolis St Paul IntL Arp",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726580",
+      "Latitude": 44.88,
+      "Longitude": -93.23,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 254.0
+    }
+  },
+  {
+    "OriginalFileName": "Minneapolis-St Paul Intl AP 726580 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Minneapolis-St Paul",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY--14922",
+      "WMOID": "726580",
+      "Latitude": 44.88,
+      "Longitude": -93.22,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 255.0
+    }
+  },
+  {
+    "OriginalFileName": "Minneapolis-St Paul 726580 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "MINNEAPOLIS",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14922",
+      "WMOID": "726580",
+      "Latitude": 44.88,
+      "Longitude": -93.22,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 255.0
+    }
+  },
+  {
+    "OriginalFileName": "Marshall Muni-Ryan Field AWOS 726559 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Marshall Ryan Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726559",
+      "Latitude": 44.45,
+      "Longitude": -95.82,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 359.0
+    }
+  },
+  {
+    "OriginalFileName": "Minneapolis-Crystal AP 726575 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Minneapolis Crystal",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726575",
+      "Latitude": 45.07,
+      "Longitude": -93.35,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 265.0
+    }
+  },
+  {
+    "OriginalFileName": "Mankato AWOS 726585 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mankato Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726585",
+      "Latitude": 44.22,
+      "Longitude": -93.92,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 311.0
+    }
+  },
+  {
+    "OriginalFileName": "Little Falls AWOS 726578 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Little Falls  Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726578",
+      "Latitude": 45.95,
+      "Longitude": -94.35,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 342.0
+    }
+  },
+  {
+    "OriginalFileName": "Litchfield Muni AP 726583 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Litchfield Muni",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726583",
+      "Latitude": 45.10,
+      "Longitude": -94.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 347.0
+    }
+  },
+  {
+    "OriginalFileName": "International Falls Intl AP 727470 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "International Falls Intl Ap",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727470",
+      "Latitude": 48.57,
+      "Longitude": -93.40,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 359.0
+    }
+  },
+  {
+    "OriginalFileName": "International Falls Intl AP 727470 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "International Falls",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY--14918",
+      "WMOID": "727470",
+      "Latitude": 48.57,
+      "Longitude": -93.38,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 361.0
+    }
+  },
+  {
+    "OriginalFileName": "International Falls 727470 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "INTERNATIONAL_FALLS",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14918",
+      "WMOID": "727470",
+      "Latitude": 48.57,
+      "Longitude": -93.38,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 361.0
+    }
+  },
+  {
+    "OriginalFileName": "Hibbing-Chisholm Hibbing AP 727455 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hibbing Chisholm Hibbing Ap",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727455",
+      "Latitude": 47.38,
+      "Longitude": -92.85,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 411.0
+    }
+  },
+  {
+    "OriginalFileName": "Hutchinson AWOS 726569 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hutchinson  Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726569",
+      "Latitude": 44.87,
+      "Longitude": -94.38,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 323.0
+    }
+  },
+  {
+    "OriginalFileName": "Hallock 727478 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hallock",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727478",
+      "Latitude": 48.78,
+      "Longitude": -96.95,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 250.0
+    }
+  },
+  {
+    "OriginalFileName": "Glenwood AWOS 726547 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Glenwood  Asos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726547",
+      "Latitude": 45.65,
+      "Longitude": -95.32,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 425.0
+    }
+  },
+  {
+    "OriginalFileName": "Grand Rapids AWOS 727458 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Grand Rapids Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727458",
+      "Latitude": 47.22,
+      "Longitude": -93.52,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 413.0
+    }
+  }
+]

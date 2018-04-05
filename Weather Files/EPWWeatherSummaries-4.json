@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "ACT Canberra Airport 949260 (RMY)",
+    "EPWLocationInfo": {
+      "CityName": "Canberra Airport",
+      "StateName": "ACT",
+      "Country": "AUS",
+      "WeatherSource": "RMY",
+      "WMOID": "949260",
+      "Latitude": -35.30,
+      "Longitude": 149.20,
+      "TimeZoneOffset": 10.0,
+      "Elevation": 580.0
+    }
+  },
+  {
+    "OriginalFileName": "Charlotte Amalie-Harry S Truman AP 785430 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Charlotte Amalie Harry S Trum",
+      "StateName": "VI",
+      "Country": "VIR",
+      "WeatherSource": "TMY3",
+      "WMOID": "785430",
+      "Latitude": 18.35,
+      "Longitude": -64.97,
+      "TimeZoneOffset": -4.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "San Salvador-Ilopango 786630 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "ILOPANGO/S.SALVADOR",
+      "StateName": "-",
+      "Country": "SLV",
+      "WeatherSource": "SWERA",
+      "WMOID": "786630",
+      "Latitude": 13.70,
+      "Longitude": -89.12,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 621.0
+    }
+  },
+  {
+    "OriginalFileName": "Acajutla 786500 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "ACAJUTLA/SONSONATE",
+      "StateName": "-",
+      "Country": "SLV",
+      "WeatherSource": "SWERA",
+      "WMOID": "786500",
+      "Latitude": 13.57,
+      "Longitude": -89.83,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 15.0
+    }
+  },
+  {
+    "OriginalFileName": "San Juan Intl AP 785260 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "San Juan Intl Arpt",
+      "StateName": "PR",
+      "Country": "PRI",
+      "WeatherSource": "TMY3",
+      "WMOID": "785260",
+      "Latitude": 18.42,
+      "Longitude": -66.00,
+      "TimeZoneOffset": -4.0,
+      "Elevation": 19.0
+    }
+  },
+  {
+    "OriginalFileName": "San Juan 785260 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SAN_JUAN",
+      "StateName": "PR",
+      "Country": "PRI",
+      "WeatherSource": "TMY2-11641",
+      "WMOID": "785260",
+      "Latitude": 18.43,
+      "Longitude": -66.00,
+      "TimeZoneOffset": -4.0,
+      "Elevation": 19.0
+    }
+  },
+  {
+    "OriginalFileName": "Roosevelt Roads NAS 785350 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Roosevelt Roads",
+      "StateName": "PR",
+      "Country": "PRI",
+      "WeatherSource": "TMY3",
+      "WMOID": "785350",
+      "Latitude": 18.25,
+      "Longitude": -65.63,
+      "TimeZoneOffset": -4.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "San Juan-Luis Munoz Marin Intl AP 785263 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "San Juan L M Marin Intl Ap",
+      "StateName": "PR",
+      "Country": "PRI",
+      "WeatherSource": "TMY3",
+      "WMOID": "785263",
+      "Latitude": 18.43,
+      "Longitude": -66.00,
+      "TimeZoneOffset": -4.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Mercedita AP 785203 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mercedita",
+      "StateName": "PR",
+      "Country": "PRI",
+      "WeatherSource": "TMY3",
+      "WMOID": "785203",
+      "Latitude": 18.00,
+      "Longitude": -66.55,
+      "TimeZoneOffset": -4.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "Mayaguez-Eugenio Maria de Hostos AP 785145 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Eugenio Maria De Ho",
+      "StateName": "PR",
+      "Country": "PRI",
+      "WeatherSource": "TMY3",
+      "WMOID": "785145",
+      "Latitude": 18.25,
+      "Longitude": -67.15,
+      "TimeZoneOffset": -4.0,
+      "Elevation": 9.0
+    }
+  },
+  {
+    "OriginalFileName": "Aguadilla-Borinquen AP 785140 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Aquadilla Borinquen",
+      "StateName": "PR",
+      "Country": "PRI",
+      "WeatherSource": "TMY3",
+      "WMOID": "785140",
+      "Latitude": 18.50,
+      "Longitude": -67.13,
+      "TimeZoneOffset": -4.0,
+      "Elevation": 72.0
+    }
+  },
+  {
+    "OriginalFileName": "Rivas 787330 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "RIVAS",
+      "StateName": "-",
+      "Country": "NIC",
+      "WeatherSource": "SWERA",
+      "WMOID": "787330",
+      "Latitude": 11.42,
+      "Longitude": -85.83,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 53.0
+    }
+  },
+  {
+    "OriginalFileName": "Managua-Augusto CES 787410 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "MANAGUA/AUGUSTO_CES",
+      "StateName": "-",
+      "Country": "NIC",
+      "WeatherSource": "SWERA",
+      "WMOID": "787410",
+      "Latitude": 12.15,
+      "Longitude": -86.17,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 50.0
+    }
+  },
+  {
+    "OriginalFileName": "Chinandega 787390 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "CHINANDEGA",
+      "StateName": "-",
+      "Country": "NIC",
+      "WeatherSource": "SWERA",
+      "WMOID": "787390",
+      "Latitude": 12.63,
+      "Longitude": -87.13,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 53.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort-de-France 789250 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "FORT-DE-FRANCE",
+      "StateName": "-",
+      "Country": "MTQ",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "789250",
+      "Latitude": 14.60,
+      "Longitude": -61.00,
+      "TimeZoneOffset": -4.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "Mexico City 766790 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "MEXICO CITY",
+      "StateName": "-",
+      "Country": "MEX",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "766790",
+      "Latitude": 19.43,
+      "Longitude": -99.08,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 2234.0
+    }
+  },
+  {
+    "OriginalFileName": "Veracruz 766910 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "VERACRUZ",
+      "StateName": "-",
+      "Country": "MEX",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "766910",
+      "Latitude": 19.20,
+      "Longitude": -96.13,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 14.0
+    }
+  },
+  {
+    "OriginalFileName": "Acapulco 768056 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "ACAPULCO",
+      "StateName": "-",
+      "Country": "MEX",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "768056",
+      "Latitude": 16.77,
+      "Longitude": -99.75,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Tela 787060 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "TELA",
+      "StateName": "-",
+      "Country": "HND",
+      "WeatherSource": "SWERA",
+      "WMOID": "787060",
+      "Latitude": 15.72,
+      "Longitude": -87.48,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Santa Rosa de Copan 787170 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "Santa Rosa de Copan",
+      "StateName": "-",
+      "Country": "HND",
+      "WeatherSource": "SWERA",
+      "WMOID": "787170",
+      "Latitude": 14.78,
+      "Longitude": -88.78,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 1079.0
+    }
+  },
+  {
+    "OriginalFileName": "Puerto Lempira 787110 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "PUERTO_LEMPIRA",
+      "StateName": "-",
+      "Country": "HND",
+      "WeatherSource": "SWERA",
+      "WMOID": "787110",
+      "Latitude": 15.22,
+      "Longitude": -83.80,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 13.0
+    }
+  },
+  {
+    "OriginalFileName": "La Mesa-San Pedro Sula 787080 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "La Mesa/San Pedro Sula",
+      "StateName": "-",
+      "Country": "HND",
+      "WeatherSource": "SWERA",
+      "WMOID": "787080",
+      "Latitude": 15.45,
+      "Longitude": -87.93,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 31.0
+    }
+  },
+  {
+    "OriginalFileName": "La Ceiba-Goloson 787050 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "La Ceiba/Goloson",
+      "StateName": "-",
+      "Country": "HND",
+      "WeatherSource": "SWERA",
+      "WMOID": "787050",
+      "Latitude": 15.73,
+      "Longitude": -86.87,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Catacamas 787140 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "CATACAMAS",
+      "StateName": "-",
+      "Country": "HND",
+      "WeatherSource": "SWERA",
+      "WMOID": "787140",
+      "Latitude": 14.90,
+      "Longitude": -85.93,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 442.0
+    }
+  },
+  {
+    "OriginalFileName": "Choluteca 787240 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "CHOLUTECA",
+      "StateName": "-",
+      "Country": "HND",
+      "WeatherSource": "SWERA",
+      "WMOID": "787240",
+      "Latitude": 13.30,
+      "Longitude": -87.18,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 48.0
+    }
+  },
+  {
+    "OriginalFileName": "Amapala 787000 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "AMAPALA/LOS_PELONAS",
+      "StateName": "-",
+      "Country": "HND",
+      "WeatherSource": "SWERA",
+      "WMOID": "787000",
+      "Latitude": 13.28,
+      "Longitude": -87.67,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Puerto Barrios 786370 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "PUERTO_BARRIOS(MIL)",
+      "StateName": "GU",
+      "Country": "GTM",
+      "WeatherSource": "SWERA",
+      "WMOID": "786370",
+      "Latitude": 15.72,
+      "Longitude": -88.60,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 1.0
+    }
+  },
+  {
+    "OriginalFileName": "San Jose 786470 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "San Jose",
+      "StateName": "GU",
+      "Country": "GTM",
+      "WeatherSource": "SWERA",
+      "WMOID": "786470",
+      "Latitude": 13.92,
+      "Longitude": -90.82,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Guatemala-La Aurora 786410 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "GUATEMALA/LA_AURORA",
+      "StateName": "GU",
+      "Country": "GTM",
+      "WeatherSource": "SWERA",
+      "WMOID": "786410",
+      "Latitude": 14.58,
+      "Longitude": -90.52,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 1489.0
+    }
+  },
+  {
+    "OriginalFileName": "Huehuetenango 786270 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "HUEHUETENANGO",
+      "StateName": "GU",
+      "Country": "GTM",
+      "WeatherSource": "SWERA",
+      "WMOID": "786270",
+      "Latitude": 15.32,
+      "Longitude": -91.47,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 1901.0
+    }
+  },
+  {
+    "OriginalFileName": "Flores 786150 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "FLORES/SANTA_ELENA",
+      "StateName": "GU",
+      "Country": "GTM",
+      "WeatherSource": "SWERA",
+      "WMOID": "786150",
+      "Latitude": 16.92,
+      "Longitude": -89.88,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 115.0
+    }
+  },
+  {
+    "OriginalFileName": "Union de Reyes 783270 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "Union de Reyes",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "783270",
+      "Latitude": 22.77,
+      "Longitude": -81.53,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 30.0
+    }
+  },
+  {
+    "OriginalFileName": "Varadero 782290 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "VARADERO",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "782290",
+      "Latitude": 23.13,
+      "Longitude": -81.28,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Santiago de Cuba 782640 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "Santiago de Cuba",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "782640",
+      "Latitude": 19.97,
+      "Longitude": -75.85,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 69.0
+    }
+  },
+  {
+    "OriginalFileName": "Saua la Grande 783380 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "Saua la Grande",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "783380",
+      "Latitude": 22.82,
+      "Longitude": -80.08,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 22.0
+    }
+  },
+  {
+    "OriginalFileName": "Sancti Spiritus 783490 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "SANCTI_SPIRITUS",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "783490",
+      "Latitude": 21.93,
+      "Longitude": -79.45,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 65.0
+    }
+  },
+  {
+    "OriginalFileName": "Puerto Padre 783580 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "PUERTO_PADRE",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "783580",
+      "Latitude": 21.20,
+      "Longitude": -76.60,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 13.0
+    }
+  },
+  {
+    "OriginalFileName": "Punta de Maisi 783690 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "Punta de Maisi",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "783690",
+      "Latitude": 20.25,
+      "Longitude": -74.15,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Playa Giron 783330 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "PLAYA_GIRON",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "783330",
+      "Latitude": 22.07,
+      "Longitude": -81.03,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Pinar del Rio 783150 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "Pinar del Rio",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "783150",
+      "Latitude": 22.42,
+      "Longitude": -83.68,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 51.0
+    }
+  },
+  {
+    "OriginalFileName": "Paso Real de San Diego 783170 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "Paso Real de San Diego",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "783170",
+      "Latitude": 22.57,
+      "Longitude": -83.30,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 44.0
+    }
+  },
+  {
+    "OriginalFileName": "La Fe 783210 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "LA_FE",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "783210",
+      "Latitude": 21.73,
+      "Longitude": -82.77,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 32.0
+    }
+  },
+  {
+    "OriginalFileName": "La Bajada 783110 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "LA_BAJADA",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "783110",
+      "Latitude": 21.92,
+      "Longitude": -84.47,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "Havana 782240 (IWEC)",
+    "EPWLocationInfo": {
+      "CityName": "HAVANA",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "IWEC Data",
+      "WMOID": "782240",
+      "Latitude": 22.98,
+      "Longitude": -82.40,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 59.0
+    }
+  },
+  {
+    "OriginalFileName": "Havana-Jose Marti 782240 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "HAVANA/JOSE_MARTI",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "782240",
+      "Latitude": 22.98,
+      "Longitude": -82.40,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 59.0
+    }
+  },
+  {
+    "OriginalFileName": "Guantanamo Bay NAS 783670 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Guantanamo Bay",
+      "StateName": "",
+      "Country": "CUB",
+      "WeatherSource": "TMY--11706",
+      "WMOID": "783670",
+      "Latitude": 19.90,
+      "Longitude": -75.15,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 17.0
+    }
+  },
+  {
+    "OriginalFileName": "Cienfuegos 783440 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "CIENFUEGOS",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "783440",
+      "Latitude": 22.13,
+      "Longitude": -80.45,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 13.0
+    }
+  },
+  {
+    "OriginalFileName": "Guantanamo Bay NAS 783670 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "GUANTANAMO_BAY_NAS",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "783670",
+      "Latitude": 19.90,
+      "Longitude": -75.22,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 17.0
+    }
+  },
+  {
+    "OriginalFileName": "Casa Blanca 783250 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "CASA_BLANCA",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "783250",
+      "Latitude": 23.17,
+      "Longitude": -82.35,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 50.0
+    }
+  },
+  {
+    "OriginalFileName": "Bahia Honda 783180 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "BAHIA_HONDA",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "783180",
+      "Latitude": 22.90,
+      "Longitude": -83.15,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 4.0
+    }
+  },
+  {
+    "OriginalFileName": "Camaguey 783550 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "CAMAGUEY",
+      "StateName": "-",
+      "Country": "CUB",
+      "WeatherSource": "SWERA",
+      "WMOID": "783550",
+      "Latitude": 21.40,
+      "Longitude": -77.85,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 122.0
+    }
+  },
+  {
+    "OriginalFileName": "Belize 785830 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "BELIZE_INTL_AIRPORT",
+      "StateName": "-",
+      "Country": "BLZ",
+      "WeatherSource": "SWERA",
+      "WMOID": "785830",
+      "Latitude": 17.53,
+      "Longitude": -88.30,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Worland Muni AP 726665 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Worland Municipal",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726665",
+      "Latitude": 43.97,
+      "Longitude": -107.95,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1294.0
+    }
+  },
+  {
+    "OriginalFileName": "Sheridan County AP 726660 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sheridan County Arpt",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726660",
+      "Latitude": 44.77,
+      "Longitude": -106.97,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1208.0
+    }
+  },
+  {
+    "OriginalFileName": "Sheridan 726660 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SHERIDAN",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24029",
+      "WMOID": "726660",
+      "Latitude": 44.77,
+      "Longitude": -106.97,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1209.0
+    }
+  },
+  {
+    "OriginalFileName": "Sheridan County AP 726660 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Sheridan",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY--24029",
+      "WMOID": "726660",
+      "Latitude": 44.77,
+      "Longitude": -106.97,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1209.0
+    }
+  },
+  {
+    "OriginalFileName": "Rock Springs 725744 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ROCK_SPRINGS",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24027",
+      "WMOID": "725744",
+      "Latitude": 41.60,
+      "Longitude": -109.07,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2056.0
+    }
+  },
+  {
+    "OriginalFileName": "Rawlins Muni AP 725745 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Rawlins Municipal Ap",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725745",
+      "Latitude": 41.80,
+      "Longitude": -107.20,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2053.0
+    }
+  },
+  {
+    "OriginalFileName": "Riverton Rgnl AP 725765 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Riverton Municipl Ap",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725765",
+      "Latitude": 43.05,
+      "Longitude": -108.45,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1663.0
+    }
+  },
+  {
+    "OriginalFileName": "Laramie-General Brees Field 725645 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Laramie General Brees Field",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725645",
+      "Latitude": 41.32,
+      "Longitude": -105.68,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2215.0
+    }
+  },
+  {
+    "OriginalFileName": "Lander 725760 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "LANDER",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24021",
+      "WMOID": "725760",
+      "Latitude": 42.82,
+      "Longitude": -108.73,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1696.0
+    }
+  },
+  {
+    "OriginalFileName": "Jackson Hole AP 725776 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Jackson Hole",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725776",
+      "Latitude": 43.60,
+      "Longitude": -110.73,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2016.0
+    }
+  },
+  {
+    "OriginalFileName": "Lander-Hunt Field 725760 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lander Hunt Field",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725760",
+      "Latitude": 42.82,
+      "Longitude": -108.73,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1694.0
+    }
+  },
+  {
+    "OriginalFileName": "Green River-Greater Green River Intergalactic Spaceport 725744 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Rock Springs",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY--24027",
+      "WMOID": "725744",
+      "Latitude": 41.60,
+      "Longitude": -109.07,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2060.0
+    }
+  },
+  {
+    "OriginalFileName": "Green River-Greater Green River Intergalactic Spaceport 725744 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Rock Springs Arpt  Green River",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725744",
+      "Latitude": 41.46,
+      "Longitude": -109.44,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1000.0
+    }
+  },
+  {
+    "OriginalFileName": "Gillette-Gillette County AP 726650 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Gillette Gillette C",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726650",
+      "Latitude": 44.35,
+      "Longitude": -105.53,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1230.0
+    }
+  },
+  {
+    "OriginalFileName": "Cody Muni AWOS 726700 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cody Muni  Awos",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726700",
+      "Latitude": 44.52,
+      "Longitude": -109.02,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1553.0
+    }
+  },
+  {
+    "OriginalFileName": "Evanston-Uinta County AP-Burns Field 725775 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Evanston Burns Fld",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725775",
+      "Latitude": 41.28,
+      "Longitude": -111.03,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 2183.0
+    }
+  },
+  {
+    "OriginalFileName": "Cheyenne Muni AP 725640 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cheyenne Municipal Arpt",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725640",
+      "Latitude": 41.15,
+      "Longitude": -104.80,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1867.0
+    }
+  },
+  {
+    "OriginalFileName": "Cheyenne 725640 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "CHEYENNE",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24018",
+      "WMOID": "725640",
+      "Latitude": 41.15,
+      "Longitude": -104.82,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1872.0
+    }
+  },
+  {
+    "OriginalFileName": "Cheyenne Muni AP 725640 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Cheyenne/Warren AFB",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY--24018",
+      "WMOID": "725640",
+      "Latitude": 41.15,
+      "Longitude": -104.82,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1872.0
+    }
+  },
+  {
+    "OriginalFileName": "Casper 725690 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "CASPER",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY2-24089",
+      "WMOID": "725690",
+      "Latitude": 42.92,
+      "Longitude": -106.47,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1612.0
+    }
+  },
+  {
+    "OriginalFileName": "Casper-Natrona County Intl AP 725690 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Casper Natrona Co Intl Ap",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725690",
+      "Latitude": 42.90,
+      "Longitude": -106.47,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1627.0
+    }
+  },
+  {
+    "OriginalFileName": "Casper-Natrona County Intl AP 725690 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Casper",
+      "StateName": "WY",
+      "Country": "USA",
+      "WeatherSource": "TMY--24089",
+      "WMOID": "725690",
+      "Latitude": 42.92,
+      "Longitude": -106.47,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1612.0
+    }
+  },
+  {
+    "OriginalFileName": "Parkersburg-Wood County-Gill Robb Wilson AP 724273 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Parkersburg Wood County Ap",
+      "StateName": "WV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724273",
+      "Latitude": 39.35,
+      "Longitude": -81.43,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 253.0
+    }
+  },
+  {
+    "OriginalFileName": "Wheeling-Ohio County AP 724275 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Wheeling Ohio County Ap",
+      "StateName": "WV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724275",
+      "Latitude": 40.18,
+      "Longitude": -80.65,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 359.0
+    }
+  },
+  {
+    "OriginalFileName": "Morgantown Muni-Hart Field 724176 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Morgantown Hart Field",
+      "StateName": "WV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724176",
+      "Latitude": 39.65,
+      "Longitude": -79.92,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 378.0
+    }
+  },
+  {
+    "OriginalFileName": "Lewisburg-Greenbrier Valley AP 724127 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lewisburg Greenbrie",
+      "StateName": "WV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724127",
+      "Latitude": 37.87,
+      "Longitude": -80.40,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 702.0
+    }
+  },
+  {
+    "OriginalFileName": "Martinsburg-Eastern WV Rgnl AP 724177 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Martinsburg Eastern Wv Reg Ap",
+      "StateName": "WV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724177",
+      "Latitude": 39.40,
+      "Longitude": -77.98,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 162.0
+    }
+  },
+  {
+    "OriginalFileName": "Huntington 724250 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "HUNTINGTON",
+      "StateName": "WV",
+      "Country": "USA",
+      "WeatherSource": "TMY2-03860",
+      "WMOID": "724250",
+      "Latitude": 38.37,
+      "Longitude": -82.55,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 255.0
+    }
+  },
+  {
+    "OriginalFileName": "Huntington-Tri State Walker Long Field 724250 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Huntington Tri State Arpt",
+      "StateName": "WV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724250",
+      "Latitude": 38.38,
+      "Longitude": -82.55,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 253.0
+    }
+  },
+  {
+    "OriginalFileName": "Elkins 724170 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ELKINS",
+      "StateName": "WV",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13729",
+      "WMOID": "724170",
+      "Latitude": 38.88,
+      "Longitude": -79.85,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 594.0
+    }
+  },
+  {
+    "OriginalFileName": "Elkins-Randolph County AP 724170 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Elkins Elkins Randolph Co Arp",
+      "StateName": "WV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724170",
+      "Latitude": 38.88,
+      "Longitude": -79.85,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 594.0
+    }
+  },
+  {
+    "OriginalFileName": "Clarksburg-Harrison Marion Rgnl AP 724175 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Harrison Marion Rgn",
+      "StateName": "WV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724175",
+      "Latitude": 39.28,
+      "Longitude": -80.23,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 380.0
+    }
+  },
+  {
+    "OriginalFileName": "Charleston 724140 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "CHARLESTON",
+      "StateName": "WV",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13866",
+      "WMOID": "724140",
+      "Latitude": 38.37,
+      "Longitude": -81.60,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 290.0
+    }
+  },
+  {
+    "OriginalFileName": "Charleston-Yeager AP 724140 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Charleston Yeager Arpt",
+      "StateName": "WV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724140",
+      "Latitude": 38.38,
+      "Longitude": -81.58,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 310.0
+    }
+  },
+  {
+    "OriginalFileName": "Bluefield-Mercer County AP 724125 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Bluefield Mercer Co  Nrel",
+      "StateName": "WV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724125",
+      "Latitude": 37.27,
+      "Longitude": -81.24,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 803.0
+    }
+  },
+  {
+    "OriginalFileName": "Charleston-Yeager AP 724140 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Charleston",
+      "StateName": "WV",
+      "Country": "USA",
+      "WeatherSource": "TMY--13866",
+      "WMOID": "724140",
+      "Latitude": 38.37,
+      "Longitude": -81.60,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 299.0
+    }
+  },
+  {
+    "OriginalFileName": "Beckley-Raleigh County Mem AP 724120 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Beckley Raleigh Co Mem Ap",
+      "StateName": "WV",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724120",
+      "Latitude": 37.80,
+      "Longitude": -81.12,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 763.0
+    }
+  },
+  {
+    "OriginalFileName": "Wittman Rgnl AP 726456 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Wittman Rgnl",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726456",
+      "Latitude": 43.98,
+      "Longitude": -88.55,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 253.0
+    }
+  },
+  {
+    "OriginalFileName": "Watertown Muni AP 726464 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Watertown",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726464",
+      "Latitude": 43.17,
+      "Longitude": -88.72,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 254.0
+    }
+  },
+  {
+    "OriginalFileName": "Wausau Muni AP 726463 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Wausau Municipal Arpt",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726463",
+      "Latitude": 44.92,
+      "Longitude": -89.63,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 366.0
+    }
+  },
+  {
+    "OriginalFileName": "Sturgeon Bay-Door County AP 726458 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sturgeon Bay",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726458",
+      "Latitude": 44.85,
+      "Longitude": -87.42,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 221.0
+    }
+  },
+  {
+    "OriginalFileName": "Phillips-Price County AP 726468 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Phillips Price Co",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726468",
+      "Latitude": 45.70,
+      "Longitude": -90.40,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 449.0
+    }
+  },
+  {
+    "OriginalFileName": "Rice Lake Muni AP 726467 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Rice Lake Municipal",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726467",
+      "Latitude": 45.48,
+      "Longitude": -91.72,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 347.0
+    }
+  },
+  {
+    "OriginalFileName": "Mosinee-Central Wisconsin AP 726465 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mosinee Central Wi",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726465",
+      "Latitude": 44.78,
+      "Longitude": -89.67,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 389.0
+    }
+  },
+  {
+    "OriginalFileName": "Milwaukee 726400 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "MILWAUKEE",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14839",
+      "WMOID": "726400",
+      "Latitude": 42.95,
+      "Longitude": -87.90,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 211.0
+    }
+  },
+  {
+    "OriginalFileName": "Minocqua-Woodruff-Lee Field 726404 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Minocqua Woodruff",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726404",
+      "Latitude": 45.93,
+      "Longitude": -89.73,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 496.0
+    }
+  },
+  {
+    "OriginalFileName": "Milwaukee-Mitchell Intl AP 726400 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Milwaukee Mitchell Intl Ap",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726400",
+      "Latitude": 42.95,
+      "Longitude": -87.90,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 205.0
+    }
+  },
+  {
+    "OriginalFileName": "Marshfield Muni AP 726574 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Marshfield Muni",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726574",
+      "Latitude": 44.63,
+      "Longitude": -90.18,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 389.0
+    }
+  }
+]

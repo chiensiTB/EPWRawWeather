@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "Fergus Falls AWOS 726560 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fergus Falls Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726560",
+      "Latitude": 46.28,
+      "Longitude": -96.15,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 361.0
+    }
+  },
+  {
+    "OriginalFileName": "Fosston AWOS 727505 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fosston Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727505",
+      "Latitude": 47.58,
+      "Longitude": -95.77,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 388.0
+    }
+  },
+  {
+    "OriginalFileName": "Faribault Muni AWOS 726563 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Faribault Muni Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726563",
+      "Latitude": 44.33,
+      "Longitude": -93.32,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 322.0
+    }
+  },
+  {
+    "OriginalFileName": "Fairmont Muni AWOS 726586 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fairmont Muni Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726586",
+      "Latitude": 43.65,
+      "Longitude": -94.42,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 354.0
+    }
+  },
+  {
+    "OriginalFileName": "Ely Muni AP 727459 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Ely Muni",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727459",
+      "Latitude": 47.82,
+      "Longitude": -91.83,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 455.0
+    }
+  },
+  {
+    "OriginalFileName": "Eveleth Muni AWOS 727474 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Eveleth Muni  Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727474",
+      "Latitude": 47.40,
+      "Longitude": -92.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 421.0
+    }
+  },
+  {
+    "OriginalFileName": "Edin Prairie-Flying Cloud AP 726579 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Flying Cloud",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726579",
+      "Latitude": 44.82,
+      "Longitude": -93.45,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 283.0
+    }
+  },
+  {
+    "OriginalFileName": "Duluth Intl AP 727450 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Duluth International Arpt",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727450",
+      "Latitude": 46.83,
+      "Longitude": -92.22,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 433.0
+    }
+  },
+  {
+    "OriginalFileName": "Duluth 727450 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "DULUTH",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14913",
+      "WMOID": "727450",
+      "Latitude": 46.83,
+      "Longitude": -92.18,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 432.0
+    }
+  },
+  {
+    "OriginalFileName": "Duluth Intl AP 727450 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Duluth",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY--14913",
+      "WMOID": "727450",
+      "Latitude": 46.83,
+      "Longitude": -92.18,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 432.0
+    }
+  },
+  {
+    "OriginalFileName": "Detroit Lakes AWOS 727457 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Detroit Lakes Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727457",
+      "Latitude": 46.83,
+      "Longitude": -95.88,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 426.0
+    }
+  },
+  {
+    "OriginalFileName": "Crane Lake AWOS 727473 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Crane Lake  Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727473",
+      "Latitude": 46.27,
+      "Longitude": -92.57,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 350.0
+    }
+  },
+  {
+    "OriginalFileName": "Crookston Muni Field 727452 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Crookston Muni Fld",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727452",
+      "Latitude": 47.85,
+      "Longitude": -96.62,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 273.0
+    }
+  },
+  {
+    "OriginalFileName": "Cloquet AWOS 726558 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cloquet  Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726558",
+      "Latitude": 46.70,
+      "Longitude": -92.50,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 390.0
+    }
+  },
+  {
+    "OriginalFileName": "Cambridge Muni AP 727503 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cambridge Muni",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727503",
+      "Latitude": 45.57,
+      "Longitude": -93.27,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 287.0
+    }
+  },
+  {
+    "OriginalFileName": "Benson Muni AP 727507 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Benson Muni",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727507",
+      "Latitude": 45.32,
+      "Longitude": -95.65,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 317.0
+    }
+  },
+  {
+    "OriginalFileName": "Brainerd-Crow Wing County AP 726555 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Brainerd Wieland",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726555",
+      "Latitude": 46.40,
+      "Longitude": -94.13,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 374.0
+    }
+  },
+  {
+    "OriginalFileName": "Baudette Intl AP 727476 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Baudette International Ap",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727476",
+      "Latitude": 48.72,
+      "Longitude": -94.60,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 330.0
+    }
+  },
+  {
+    "OriginalFileName": "Bemidji Muni AP 727550 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Bemidji Municipal",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727550",
+      "Latitude": 47.50,
+      "Longitude": -94.93,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 420.0
+    }
+  },
+  {
+    "OriginalFileName": "Alexandria Muni AP 726557 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Alexandria Municipal Ap",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726557",
+      "Latitude": 45.88,
+      "Longitude": -95.40,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 433.0
+    }
+  },
+  {
+    "OriginalFileName": "Austin Muni AP 727566 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Austin Muni",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727566",
+      "Latitude": 43.67,
+      "Longitude": -92.93,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 375.0
+    }
+  },
+  {
+    "OriginalFileName": "Albert Lea AWOS 726589 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Albert Lea  Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726589",
+      "Latitude": 43.68,
+      "Longitude": -93.37,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 383.0
+    }
+  },
+  {
+    "OriginalFileName": "Aitkin AWOS 727504 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Aitkin Ndb Awos",
+      "StateName": "MN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727504",
+      "Latitude": 46.55,
+      "Longitude": -93.68,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 367.0
+    }
+  },
+  {
+    "OriginalFileName": "Traverse City 726387 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "TRAVERSE_CITY",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14850",
+      "WMOID": "726387",
+      "Latitude": 44.73,
+      "Longitude": -85.58,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 192.0
+    }
+  },
+  {
+    "OriginalFileName": "Traverse City-Cherry Capital AP 726387 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Traverse City Cherry Capital",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726387",
+      "Latitude": 44.73,
+      "Longitude": -85.58,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 188.0
+    }
+  },
+  {
+    "OriginalFileName": "Traverse City-Cherry Capital AP 726387 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Traverse City",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY--14850",
+      "WMOID": "726387",
+      "Latitude": 44.73,
+      "Longitude": -85.58,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 190.0
+    }
+  },
+  {
+    "OriginalFileName": "Sault Ste Marie 727340 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SAULT_STE._MARIE",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14847",
+      "WMOID": "727340",
+      "Latitude": 46.47,
+      "Longitude": -84.37,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 221.0
+    }
+  },
+  {
+    "OriginalFileName": "St Clair County Intl AP 725384 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "St Clair County Int",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725384",
+      "Latitude": 42.92,
+      "Longitude": -82.53,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 198.0
+    }
+  },
+  {
+    "OriginalFileName": "Sault Ste Marie-Sanderson Field 727340 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Sault Ste Marie",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY--14847",
+      "WMOID": "727340",
+      "Latitude": 46.47,
+      "Longitude": -84.37,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 221.0
+    }
+  },
+  {
+    "OriginalFileName": "Sault Ste Marie-Sanderson Field 727340 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sault Ste Marie Sanderson Fie",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727340",
+      "Latitude": 46.47,
+      "Longitude": -84.35,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 219.0
+    }
+  },
+  {
+    "OriginalFileName": "Rhinelander-Oneida County AP 727415 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Rhinelander Oneida",
+      "StateName": "WI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727415",
+      "Latitude": 45.63,
+      "Longitude": -89.47,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 507.0
+    }
+  },
+  {
+    "OriginalFileName": "Saginaw-Tri City Intl AP 726379 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Saginaw Tri City Intl Ap",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726379",
+      "Latitude": 43.53,
+      "Longitude": -84.08,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 201.0
+    }
+  },
+  {
+    "OriginalFileName": "Pellston-Emmet County AP 727347 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Pellston Emmet County Ap",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727347",
+      "Latitude": 45.57,
+      "Longitude": -84.78,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 218.0
+    }
+  },
+  {
+    "OriginalFileName": "Oscoda-Wurtsmith AFB 726395 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Oscoda Wurtsmith Afb",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726395",
+      "Latitude": 44.45,
+      "Longitude": -83.40,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 188.0
+    }
+  },
+  {
+    "OriginalFileName": "Muskegon County AP 726360 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Muskegon County Arpt",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726360",
+      "Latitude": 43.17,
+      "Longitude": -86.23,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 190.0
+    }
+  },
+  {
+    "OriginalFileName": "Oakland County Intl AP 726375 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Oakland Co Intl",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726375",
+      "Latitude": 42.67,
+      "Longitude": -83.42,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 306.0
+    }
+  },
+  {
+    "OriginalFileName": "Muskegon 726360 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "MUSKEGON",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14840",
+      "WMOID": "726360",
+      "Latitude": 43.17,
+      "Longitude": -86.25,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 191.0
+    }
+  },
+  {
+    "OriginalFileName": "Menominee AWOS 726487 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Menominee  Awos",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726487",
+      "Latitude": 45.13,
+      "Longitude": -87.63,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 191.0
+    }
+  },
+  {
+    "OriginalFileName": "Mount Clemens-Selfridge ANGB 725377 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mount Clemens Selfridge Fld",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725377",
+      "Latitude": 42.62,
+      "Longitude": -82.83,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 177.0
+    }
+  },
+  {
+    "OriginalFileName": "Manistee AWOS 726385 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Manistee  Awos",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726385",
+      "Latitude": 44.27,
+      "Longitude": -86.25,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 189.0
+    }
+  },
+  {
+    "OriginalFileName": "Lansing 725390 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "LANSING",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14836",
+      "WMOID": "725390",
+      "Latitude": 42.78,
+      "Longitude": -84.60,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 256.0
+    }
+  },
+  {
+    "OriginalFileName": "Lansing-Capital City AP 725390 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lansing Capital City Arpt",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725390",
+      "Latitude": 42.78,
+      "Longitude": -84.58,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 256.0
+    }
+  },
+  {
+    "OriginalFileName": "Jackson-Reynolds Field 725395 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Jackson Reynolds Field",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725395",
+      "Latitude": 42.27,
+      "Longitude": -84.47,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 304.0
+    }
+  },
+  {
+    "OriginalFileName": "Kalamazoo-Battle Creek Intl AP 726357 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Kalamazoo Battle Cr",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726357",
+      "Latitude": 42.23,
+      "Longitude": -85.55,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 273.0
+    }
+  },
+  {
+    "OriginalFileName": "Ironwood AWOS 727445 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Ironwood  Awos",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727445",
+      "Latitude": 46.53,
+      "Longitude": -90.13,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 375.0
+    }
+  },
+  {
+    "OriginalFileName": "Iron Mountain-Ford Field 727437 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Iron Mountain Ford",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727437",
+      "Latitude": 45.82,
+      "Longitude": -88.12,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 360.0
+    }
+  },
+  {
+    "OriginalFileName": "Houghton 727440 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "HOUGHTON",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94814",
+      "WMOID": "727440",
+      "Latitude": 47.17,
+      "Longitude": -88.50,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 329.0
+    }
+  },
+  {
+    "OriginalFileName": "Howell-Livingston County AP 725378 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Howell",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725378",
+      "Latitude": 42.63,
+      "Longitude": -83.98,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 293.0
+    }
+  },
+  {
+    "OriginalFileName": "Houghton-Lake Roscommon County AP 726380 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Houghton Lake Roscommon Co Ar",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726380",
+      "Latitude": 44.37,
+      "Longitude": -84.68,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 351.0
+    }
+  },
+  {
+    "OriginalFileName": "Grand Rapids 726350 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "GRAND_RAPIDS",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94860",
+      "WMOID": "726350",
+      "Latitude": 42.88,
+      "Longitude": -85.52,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 245.0
+    }
+  },
+  {
+    "OriginalFileName": "Hancock-Houghton County AP 727440 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hancock Houghton Co Ap",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727440",
+      "Latitude": 47.17,
+      "Longitude": -88.50,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 327.0
+    }
+  },
+  {
+    "OriginalFileName": "Grand Rapids-Kent County Intl AP 726350 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Grand Rapids Kent County Int",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726350",
+      "Latitude": 42.88,
+      "Longitude": -85.52,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 242.0
+    }
+  },
+  {
+    "OriginalFileName": "Flint 726370 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "FLINT",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14826",
+      "WMOID": "726370",
+      "Latitude": 42.97,
+      "Longitude": -83.73,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 233.0
+    }
+  },
+  {
+    "OriginalFileName": "Grand Rapids-Kent County Intl AP 726350 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Grand Rapids",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY--94860",
+      "WMOID": "726350",
+      "Latitude": 42.88,
+      "Longitude": -85.52,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 245.0
+    }
+  },
+  {
+    "OriginalFileName": "Flint-Bishop Intl AP 726370 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Flint Bishop Intl Arpt",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726370",
+      "Latitude": 42.97,
+      "Longitude": -83.75,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 234.0
+    }
+  },
+  {
+    "OriginalFileName": "Escanaba AWOS 726480 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Escanaba  Awos",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726480",
+      "Latitude": 45.75,
+      "Longitude": -87.03,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 187.0
+    }
+  },
+  {
+    "OriginalFileName": "Flint-Bishop Intl AP 726370 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Flint",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY--14826",
+      "WMOID": "726370",
+      "Latitude": 42.97,
+      "Longitude": -83.75,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 233.0
+    }
+  },
+  {
+    "OriginalFileName": "Detroit Metro AP 725370 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Detroit Metropolitan Arpt",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725370",
+      "Latitude": 42.22,
+      "Longitude": -83.35,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 194.0
+    }
+  },
+  {
+    "OriginalFileName": "Detroit-Willow Run AP 725376 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Detroit Willow Run Ap",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725376",
+      "Latitude": 42.23,
+      "Longitude": -83.53,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 218.0
+    }
+  },
+  {
+    "OriginalFileName": "Detroit-Metro AP 725370 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "DETROIT",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94847",
+      "WMOID": "725370",
+      "Latitude": 42.42,
+      "Longitude": -83.02,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 191.0
+    }
+  },
+  {
+    "OriginalFileName": "Detroit-City AP 725375 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Detroit/City",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY--14822",
+      "WMOID": "725375",
+      "Latitude": 42.50,
+      "Longitude": -83.00,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 190.0
+    }
+  },
+  {
+    "OriginalFileName": "Detroit-City AP 725375 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Detroit City Airport",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725375",
+      "Latitude": 42.40,
+      "Longitude": -83.00,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 190.0
+    }
+  },
+  {
+    "OriginalFileName": "Cadillac-Wexford County AP 726384 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cadillac Wexford Co Ap",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726384",
+      "Latitude": 44.28,
+      "Longitude": -85.42,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 396.0
+    }
+  },
+  {
+    "OriginalFileName": "Chippewa County Intl AP 727344 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Chippewa Co Intl",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727344",
+      "Latitude": 46.25,
+      "Longitude": -84.47,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 250.0
+    }
+  },
+  {
+    "OriginalFileName": "Benton Harbor-Ross Field-Twin Cities AP 726355 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Benton Harbor Ross",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726355",
+      "Latitude": 42.13,
+      "Longitude": -86.43,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 196.0
+    }
+  },
+  {
+    "OriginalFileName": "Ann Arbor Muni AP 725374 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Ann Arbor Municipal",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725374",
+      "Latitude": 42.22,
+      "Longitude": -83.75,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 256.0
+    }
+  },
+  {
+    "OriginalFileName": "Battle Creek-Kellogg AP 725396 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Battle Creek Kellogg Ap",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725396",
+      "Latitude": 42.30,
+      "Longitude": -85.25,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 283.0
+    }
+  },
+  {
+    "OriginalFileName": "Alpena County Rgnl AP 726390 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Alpena County Regional Ap",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726390",
+      "Latitude": 45.07,
+      "Longitude": -83.58,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 210.0
+    }
+  },
+  {
+    "OriginalFileName": "Alpena 726390 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "ALPENA",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94849",
+      "WMOID": "726390",
+      "Latitude": 45.07,
+      "Longitude": -83.57,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 210.0
+    }
+  },
+  {
+    "OriginalFileName": "Alpena County Rgnl AP 726390 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Alpena",
+      "StateName": "MI",
+      "Country": "USA",
+      "WeatherSource": "TMY--94849",
+      "WMOID": "726390",
+      "Latitude": 45.07,
+      "Longitude": -83.57,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 211.0
+    }
+  },
+  {
+    "OriginalFileName": "Wiscasset AP 727135 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Wiscasset",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727135",
+      "Latitude": 43.97,
+      "Longitude": -69.72,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 21.0
+    }
+  },
+  {
+    "OriginalFileName": "Sanford Muni AWOS 726064 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Sanford Muni  Awos",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726064",
+      "Latitude": 43.40,
+      "Longitude": -70.72,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 74.0
+    }
+  },
+  {
+    "OriginalFileName": "Waterville AWOS 726073 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Waterville  Awos",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726073",
+      "Latitude": 44.53,
+      "Longitude": -69.68,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 101.0
+    }
+  },
+  {
+    "OriginalFileName": "Rockland-Knox AWOS 726079 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Rockland Knox Awos",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726079",
+      "Latitude": 44.07,
+      "Longitude": -69.10,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 17.0
+    }
+  },
+  {
+    "OriginalFileName": "Portland Intl Jetport 726060 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Portland Intl Jetport",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726060",
+      "Latitude": 43.65,
+      "Longitude": -70.30,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 14.0
+    }
+  },
+  {
+    "OriginalFileName": "Presque Isle Muni AP 727130 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Presque Isle Municip",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727130",
+      "Latitude": 46.68,
+      "Longitude": -68.05,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 163.0
+    }
+  },
+  {
+    "OriginalFileName": "Portland Intl Jetport 726060 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Portland",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY--14764",
+      "WMOID": "726060",
+      "Latitude": 43.65,
+      "Longitude": -70.32,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 19.0
+    }
+  },
+  {
+    "OriginalFileName": "Millinocket Muni AP 726196 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Millinocket Municipal Ap",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726196",
+      "Latitude": 45.65,
+      "Longitude": -68.68,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 124.0
+    }
+  },
+  {
+    "OriginalFileName": "Portland 726060 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "PORTLAND",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14764",
+      "WMOID": "726060",
+      "Latitude": 43.65,
+      "Longitude": -70.32,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 19.0
+    }
+  },
+  {
+    "OriginalFileName": "Houlton Intl AP 727033 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Houlton Intl Arpt",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727033",
+      "Latitude": 46.12,
+      "Longitude": -67.80,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 150.0
+    }
+  },
+  {
+    "OriginalFileName": "Edmundston-Northern Aroostook Rgnl AP 726083 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Northern Aroostook",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726083",
+      "Latitude": 47.28,
+      "Longitude": -68.32,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 309.0
+    }
+  },
+  {
+    "OriginalFileName": "Caribou Muni AP 727120 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Caribou Municipal Arpt",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "727120",
+      "Latitude": 46.87,
+      "Longitude": -68.03,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 190.0
+    }
+  },
+  {
+    "OriginalFileName": "Caribou 727120 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "CARIBOU",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14607",
+      "WMOID": "727120",
+      "Latitude": 46.87,
+      "Longitude": -68.02,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 190.0
+    }
+  },
+  {
+    "OriginalFileName": "Caribou Muni AP 727120 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Caribou",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY--14607",
+      "WMOID": "727120",
+      "Latitude": 46.87,
+      "Longitude": -68.02,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 190.0
+    }
+  },
+  {
+    "OriginalFileName": "Brunswick NAS 743920 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Naval Air Station",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "743920",
+      "Latitude": 43.90,
+      "Longitude": -69.93,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 21.0
+    }
+  },
+  {
+    "OriginalFileName": "Bangor Intl AP 726088 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Bangor International Ap",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726088",
+      "Latitude": 44.80,
+      "Longitude": -68.82,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 56.0
+    }
+  },
+  {
+    "OriginalFileName": "Bar Harbor AWOS 726077 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Bar Harbor  Awos",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726077",
+      "Latitude": 44.45,
+      "Longitude": -68.37,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 26.0
+    }
+  },
+  {
+    "OriginalFileName": "Augusta AP 726185 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Augusta Airport",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726185",
+      "Latitude": 44.32,
+      "Longitude": -69.80,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 107.0
+    }
+  },
+  {
+    "OriginalFileName": "Bangor Intl AP 726088 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Bangor/Dow AFB",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY--14601",
+      "WMOID": "726088",
+      "Latitude": 44.80,
+      "Longitude": -68.80,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 56.0
+    }
+  },
+  {
+    "OriginalFileName": "Auburn-Lewiston Muni AP 726184 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Auburn Lewiston",
+      "StateName": "ME",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "726184",
+      "Latitude": 44.05,
+      "Longitude": -70.28,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 88.0
+    }
+  },
+  {
+    "OriginalFileName": "Patuxent River NAS 724040 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Patuxent River Nas",
+      "StateName": "MD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724040",
+      "Latitude": 38.30,
+      "Longitude": -76.42,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 14.0
+    }
+  },
+  {
+    "OriginalFileName": "Salisbury-Wicomico County Rgnl AP 724045 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Salisbury Wicomico Co Ap",
+      "StateName": "MD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724045",
+      "Latitude": 38.33,
+      "Longitude": -75.52,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 15.0
+    }
+  },
+  {
+    "OriginalFileName": "Hagerstown-Washington County Rgnl AP 724066 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hagerstown Rgnl Ric",
+      "StateName": "MD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724066",
+      "Latitude": 39.70,
+      "Longitude": -77.73,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 220.0
+    }
+  },
+  {
+    "OriginalFileName": "Patuxent River NAS 724040 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Patuxent River NAS",
+      "StateName": "MD",
+      "Country": "USA",
+      "WeatherSource": "TMY--13721",
+      "WMOID": "724040",
+      "Latitude": 38.30,
+      "Longitude": -76.41,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 14.0
+    }
+  },
+  {
+    "OriginalFileName": "Baltimore 724060 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "BALTIMORE",
+      "StateName": "MD",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93721",
+      "WMOID": "724060",
+      "Latitude": 39.18,
+      "Longitude": -76.67,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 47.0
+    }
+  },
+  {
+    "OriginalFileName": "Baltimore-Washington Intl AP 724060 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Glen Burnie/Baltimore/",
+      "StateName": "MD",
+      "Country": "USA",
+      "WeatherSource": "TMY--93721",
+      "WMOID": "724060",
+      "Latitude": 39.18,
+      "Longitude": -76.67,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 47.0
+    }
+  },
+  {
+    "OriginalFileName": "Baltimore-Washington Intl AP 724060 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Baltimore Blt Washngtn IntL",
+      "StateName": "MD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724060",
+      "Latitude": 39.17,
+      "Longitude": -76.68,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 45.0
+    }
+  },
+  {
+    "OriginalFileName": "Andrews AFB 745940 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Andrews Afb",
+      "StateName": "MD",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "745940",
+      "Latitude": 38.82,
+      "Longitude": -76.87,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 86.0
+    }
+  },
+  {
+    "OriginalFileName": "Worcester 725095 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "WORCESTER",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-94746",
+      "WMOID": "725095",
+      "Latitude": 42.27,
+      "Longitude": -71.87,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 301.0
+    }
+  },
+  {
+    "OriginalFileName": "Worcester Rgnl AP 725095 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Worchester Regional Arpt",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725095",
+      "Latitude": 42.27,
+      "Longitude": -71.88,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 300.0
+    }
+  }
+]

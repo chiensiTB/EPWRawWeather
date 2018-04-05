@@ -1,0 +1,688 @@
+[
+  {
+    "OriginalFileName": "Napa County AP 724955 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Napa Co  Airport",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724955",
+      "Latitude": 38.22,
+      "Longitude": -122.28,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Mountain View-Moffett Field NAS 745090 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Mountain View/Moffet N",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY--23244",
+      "WMOID": "745090",
+      "Latitude": 37.42,
+      "Longitude": -122.05,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "Mountain View-Moffett Field NAS 745090 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mountain View Moffett Fld Nas",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "745090",
+      "Latitude": 37.40,
+      "Longitude": -122.05,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "Monterey NAF 724915 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Monterey Naf",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724915",
+      "Latitude": 36.60,
+      "Longitude": -121.87,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 50.0
+    }
+  },
+  {
+    "OriginalFileName": "Mount Shasta 725957 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Mount Shasta",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY--24215",
+      "WMOID": "725957",
+      "Latitude": 41.33,
+      "Longitude": -122.33,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1077.0
+    }
+  },
+  {
+    "OriginalFileName": "Montague-Siskiyou County AP 725955 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Montague Siskiyou County Ap",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725955",
+      "Latitude": 41.78,
+      "Longitude": -122.47,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 803.0
+    }
+  },
+  {
+    "OriginalFileName": "Merced-Macready Field 724815 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Merced Macready Fld",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724815",
+      "Latitude": 37.28,
+      "Longitude": -120.52,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 47.0
+    }
+  },
+  {
+    "OriginalFileName": "Modesto Muni AP 724926 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Modesto City County Ap",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724926",
+      "Latitude": 37.63,
+      "Longitude": -120.95,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 30.0
+    }
+  },
+  {
+    "OriginalFileName": "March AFB 722860 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "March Afb",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722860",
+      "Latitude": 33.90,
+      "Longitude": -117.25,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 462.0
+    }
+  },
+  {
+    "OriginalFileName": "Los Angeles Intl AP 722950 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Los Angeles",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY--23174",
+      "WMOID": "722950",
+      "Latitude": 33.93,
+      "Longitude": -118.40,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 32.0
+    }
+  },
+  {
+    "OriginalFileName": "Los Angeles Intl AP 722950 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Los Angeles Intl Arpt",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722950",
+      "Latitude": 33.93,
+      "Longitude": -118.40,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 30.0
+    }
+  },
+  {
+    "OriginalFileName": "Los Angeles 722950 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "LOS_ANGELES",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23174",
+      "WMOID": "722950",
+      "Latitude": 33.93,
+      "Longitude": -118.40,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 32.0
+    }
+  },
+  {
+    "OriginalFileName": "Long Beach 722970 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "LONG_BEACH",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23129",
+      "WMOID": "722970",
+      "Latitude": 33.82,
+      "Longitude": -118.15,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 17.0
+    }
+  },
+  {
+    "OriginalFileName": "Long Beach-Daugherty Field 722970 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Long Beach Daugherty Fld",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722970",
+      "Latitude": 33.83,
+      "Longitude": -118.17,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "Long Beach-Daugherty Field 722970 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Long Beach",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY--23129",
+      "WMOID": "722970",
+      "Latitude": 33.82,
+      "Longitude": -118.15,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "Livermore Muni AP 724927 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Livermore Municipal",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724927",
+      "Latitude": 37.70,
+      "Longitude": -121.82,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 121.0
+    }
+  },
+  {
+    "OriginalFileName": "Lompoc AWOS 722895 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lompoc  Awos",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722895",
+      "Latitude": 34.67,
+      "Longitude": -120.47,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 27.0
+    }
+  },
+  {
+    "OriginalFileName": "Lemoore NAS 747020 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lemoore Reeves Nas",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747020",
+      "Latitude": 36.33,
+      "Longitude": -119.95,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 73.0
+    }
+  },
+  {
+    "OriginalFileName": "Imperial County AP 747185 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Imperial",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747185",
+      "Latitude": 32.83,
+      "Longitude": -115.58,
+      "TimeZoneOffset": -8.0,
+      "Elevation": -17.0
+    }
+  },
+  {
+    "OriginalFileName": "Lancaster-Gen Wm Fox Field 723816 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lancaster Gen Wm Fox Field",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723816",
+      "Latitude": 34.73,
+      "Longitude": -118.22,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 713.0
+    }
+  },
+  {
+    "OriginalFileName": "Hawthorne-Jack Northrop Field 722956 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Jack Northrop Fld H",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722956",
+      "Latitude": 33.92,
+      "Longitude": -118.33,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 21.0
+    }
+  },
+  {
+    "OriginalFileName": "Hayward Air Terminal 724935 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hayward Air Term",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724935",
+      "Latitude": 37.67,
+      "Longitude": -122.12,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 14.0
+    }
+  },
+  {
+    "OriginalFileName": "Fullerton Muni AP 722976 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fullerton Municipal",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722976",
+      "Latitude": 33.87,
+      "Longitude": -117.98,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 29.0
+    }
+  },
+  {
+    "OriginalFileName": "Fresno Air Terminal 723890 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Fresno",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY--93193",
+      "WMOID": "723890",
+      "Latitude": 36.77,
+      "Longitude": -119.72,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 100.0
+    }
+  },
+  {
+    "OriginalFileName": "Fresno Air Terminal 723890 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fresno Yosemite Intl Ap",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723890",
+      "Latitude": 36.78,
+      "Longitude": -119.72,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 102.0
+    }
+  },
+  {
+    "OriginalFileName": "Fresno 723890 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "FRESNO",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93193",
+      "WMOID": "723890",
+      "Latitude": 36.77,
+      "Longitude": -119.72,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 100.0
+    }
+  },
+  {
+    "OriginalFileName": "Fairfield-Travis AFB 745160 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Travis Field Afb",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "745160",
+      "Latitude": 38.27,
+      "Longitude": -121.93,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 18.0
+    }
+  },
+  {
+    "OriginalFileName": "Edwards AFB 723810 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Edwards Afb",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723810",
+      "Latitude": 34.90,
+      "Longitude": -117.87,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 706.0
+    }
+  },
+  {
+    "OriginalFileName": "El Toro MCAS 690140 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "El Toro MCAS",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY--93101",
+      "WMOID": "690140",
+      "Latitude": 33.66,
+      "Longitude": -117.73,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 116.0
+    }
+  },
+  {
+    "OriginalFileName": "Crescent City-Jack McNamara Field 725946 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Crescent City Faa Ai",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725946",
+      "Latitude": 41.78,
+      "Longitude": -124.23,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 17.0
+    }
+  },
+  {
+    "OriginalFileName": "Concord-Buchanan Field 724936 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Concord Concord Buchanan Fiel",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724936",
+      "Latitude": 38.00,
+      "Longitude": -122.05,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 7.0
+    }
+  },
+  {
+    "OriginalFileName": "Chino AP 722899 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Chino Airport",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722899",
+      "Latitude": 33.97,
+      "Longitude": -117.63,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 198.0
+    }
+  },
+  {
+    "OriginalFileName": "Chula Vista-Brown Field Muni AP 722904 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Chula Vista Brown Field Naas",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722904",
+      "Latitude": 32.58,
+      "Longitude": -116.98,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 159.0
+    }
+  },
+  {
+    "OriginalFileName": "China Lake NAF 746120 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "China Lake Naf",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "746120",
+      "Latitude": 35.68,
+      "Longitude": -117.68,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 677.0
+    }
+  },
+  {
+    "OriginalFileName": "Carlsbad 722927 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Carlsbad Palomar",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722927",
+      "Latitude": 33.13,
+      "Longitude": -117.28,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 100.0
+    }
+  },
+  {
+    "OriginalFileName": "China Lake NAF 746120 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "China Lake",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY--93104",
+      "WMOID": "746120",
+      "Latitude": 35.68,
+      "Longitude": -117.68,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 676.0
+    }
+  },
+  {
+    "OriginalFileName": "Camp Pendleton MCAS 722926 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Camp Pendleton Mcas",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722926",
+      "Latitude": 33.30,
+      "Longitude": -117.35,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 23.0
+    }
+  },
+  {
+    "OriginalFileName": "Burbank-Glendale-Passadena Bob Hope AP 722880 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Burbank Glendale Passadena Ap",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722880",
+      "Latitude": 34.20,
+      "Longitude": -118.35,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 226.0
+    }
+  },
+  {
+    "OriginalFileName": "Camarillo AWOS 723926 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Camarillo  Awos",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723926",
+      "Latitude": 34.22,
+      "Longitude": -119.08,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 23.0
+    }
+  },
+  {
+    "OriginalFileName": "Blythe-Riverside County AP 747188 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Blythe Riverside Co Arpt",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747188",
+      "Latitude": 33.62,
+      "Longitude": -114.72,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 119.0
+    }
+  },
+  {
+    "OriginalFileName": "Blue Canyon AP 725845 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Blue Canyon Ap",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725845",
+      "Latitude": 39.30,
+      "Longitude": -120.72,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1609.0
+    }
+  },
+  {
+    "OriginalFileName": "Bishop AP 724800 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Bishop Airport",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724800",
+      "Latitude": 37.37,
+      "Longitude": -118.35,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 1250.0
+    }
+  },
+  {
+    "OriginalFileName": "Barstow Daggett AP 723815 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Daggett Barstow Daggett Ap",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "723815",
+      "Latitude": 34.85,
+      "Longitude": -116.80,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 586.0
+    }
+  },
+  {
+    "OriginalFileName": "Beale AFB 724837 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Beale Afb",
+      "StateName": "CA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724837",
+      "Latitude": 39.13,
+      "Longitude": -121.43,
+      "TimeZoneOffset": -8.0,
+      "Elevation": 38.0
+    }
+  },
+  {
+    "OriginalFileName": "Zhejiang Dinghai 584770 (CSWD)",
+    "EPWLocationInfo": {
+      "CityName": "Dinghai",
+      "StateName": "Zhejiang",
+      "Country": "CHN",
+      "WeatherSource": "CSWD",
+      "WMOID": "584770",
+      "Latitude": 30.03,
+      "Longitude": 122.10,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 35.7
+    }
+  },
+  {
+    "OriginalFileName": "Zhejiang Hangzhou 584570 (CSWD)",
+    "EPWLocationInfo": {
+      "CityName": "Hangzhou",
+      "StateName": "Zhejiang",
+      "Country": "CHN",
+      "WeatherSource": "CSWD",
+      "WMOID": "584570",
+      "Latitude": 30.23,
+      "Longitude": 120.17,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 41.7
+    }
+  },
+  {
+    "OriginalFileName": "Zhejiang Hangzhou 584570 (SWERA)",
+    "EPWLocationInfo": {
+      "CityName": "HANGZHOU/JIANQIAO",
+      "StateName": "-",
+      "Country": "CHN",
+      "WeatherSource": "SWERA",
+      "WMOID": "584570",
+      "Latitude": 30.23,
+      "Longitude": 120.17,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 43.0
+    }
+  },
+  {
+    "OriginalFileName": "Zhejiang Hongjia 586650 (CSWD)",
+    "EPWLocationInfo": {
+      "CityName": "Hongjia",
+      "StateName": "Zhejiang",
+      "Country": "CHN",
+      "WeatherSource": "CSWD",
+      "WMOID": "586650",
+      "Latitude": 28.62,
+      "Longitude": 121.42,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 4.6
+    }
+  },
+  {
+    "OriginalFileName": "Zhejiang Quxian 586330 (CSWD)",
+    "EPWLocationInfo": {
+      "CityName": "Quxian",
+      "StateName": "Zhejiang",
+      "Country": "CHN",
+      "WeatherSource": "CSWD",
+      "WMOID": "586330",
+      "Latitude": 29.00,
+      "Longitude": 118.90,
+      "TimeZoneOffset": 8.0,
+      "Elevation": 82.4
+    }
+  }
+]

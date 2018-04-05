@@ -1,0 +1,1402 @@
+[
+  {
+    "OriginalFileName": "Westfield-Barnes Muni AP 744915 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Westfield Barnes Muni Ap",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "744915",
+      "Latitude": 42.15,
+      "Longitude": -72.72,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 83.0
+    }
+  },
+  {
+    "OriginalFileName": "Provincetown AWOS 725073 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Provincetown  Awos",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725073",
+      "Latitude": 42.07,
+      "Longitude": -70.22,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Otis ANGB 725060 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Otis Angb",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725060",
+      "Latitude": 41.65,
+      "Longitude": -70.52,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 40.0
+    }
+  },
+  {
+    "OriginalFileName": "Plymouth Muni AP 725064 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Plymouth Municipal",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725064",
+      "Latitude": 41.92,
+      "Longitude": -70.73,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 45.0
+    }
+  },
+  {
+    "OriginalFileName": "Norwood Mem AP 725098 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Norwood Memorial",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725098",
+      "Latitude": 42.18,
+      "Longitude": -71.18,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 15.0
+    }
+  },
+  {
+    "OriginalFileName": "New Bedford Rgnl AP 725065 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "New Bedford Rgnl",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725065",
+      "Latitude": 41.67,
+      "Longitude": -70.95,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 25.0
+    }
+  },
+  {
+    "OriginalFileName": "North Adams AP 725075 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "North Adams",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725075",
+      "Latitude": 42.70,
+      "Longitude": -73.17,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 201.0
+    }
+  },
+  {
+    "OriginalFileName": "Nantucket Mem AP 725063 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Nantucket Memorial Ap",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725063",
+      "Latitude": 41.25,
+      "Longitude": -70.07,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 14.0
+    }
+  },
+  {
+    "OriginalFileName": "Lawrence Muni AP 744904 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lawrence Muni",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "744904",
+      "Latitude": 42.72,
+      "Longitude": -71.12,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 46.0
+    }
+  },
+  {
+    "OriginalFileName": "Marthas Vineyard AP 725066 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Marthas Vineyard",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725066",
+      "Latitude": 41.40,
+      "Longitude": -70.62,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 21.0
+    }
+  },
+  {
+    "OriginalFileName": "Chicopee Falls-Westover AFB 744910 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Chicopee Falls Westo",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "744910",
+      "Latitude": 42.20,
+      "Longitude": -72.53,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 75.0
+    }
+  },
+  {
+    "OriginalFileName": "Boston-Logan Intl AP 725090 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Boston",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY--94701",
+      "WMOID": "725090",
+      "Latitude": 42.35,
+      "Longitude": -71.07,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Boston-Logan Intl AP 725090 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Boston Logan IntL Arpt",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725090",
+      "Latitude": 42.37,
+      "Longitude": -71.02,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 6.0
+    }
+  },
+  {
+    "OriginalFileName": "Beverly Muni AP 725088 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Beverly Muni",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725088",
+      "Latitude": 42.58,
+      "Longitude": -70.92,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 34.0
+    }
+  },
+  {
+    "OriginalFileName": "Boston-Logan 725090 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "BOSTON",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14739",
+      "WMOID": "725090",
+      "Latitude": 42.37,
+      "Longitude": -71.03,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Barnstable-Boardman Poland AP 725067 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Barnstable Muni Boa",
+      "StateName": "MA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725067",
+      "Latitude": 41.67,
+      "Longitude": -70.28,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 17.0
+    }
+  },
+  {
+    "OriginalFileName": "Shreveport Rgnl AP 722480 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Shreveport Regional Arpt",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722480",
+      "Latitude": 32.45,
+      "Longitude": -93.82,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 77.0
+    }
+  },
+  {
+    "OriginalFileName": "Shreveport Downtown 722484 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Shreveport Downtown",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722484",
+      "Latitude": 32.53,
+      "Longitude": -93.75,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 55.0
+    }
+  },
+  {
+    "OriginalFileName": "Shreveport Rgnl AP 722480 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Shreveport",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY--13957",
+      "WMOID": "722480",
+      "Latitude": 32.47,
+      "Longitude": -93.82,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 79.0
+    }
+  },
+  {
+    "OriginalFileName": "Shreveport 722480 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SHREVEPORT",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13957",
+      "WMOID": "722480",
+      "Latitude": 32.47,
+      "Longitude": -93.82,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 79.0
+    }
+  },
+  {
+    "OriginalFileName": "New Orleans Intl AP 722310 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "New Orleans Intl Arpt",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722310",
+      "Latitude": 30.00,
+      "Longitude": -90.25,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 1.0
+    }
+  },
+  {
+    "OriginalFileName": "Patterson Mem AP 722329 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Patterson Memorial",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722329",
+      "Latitude": 29.72,
+      "Longitude": -91.33,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "New Orleans 722315 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "NEW_ORLEANS",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-12916",
+      "WMOID": "722315",
+      "Latitude": 29.98,
+      "Longitude": -90.25,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "New Orleans Intl AP 722310 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "New Orleans/Lakefront",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY--12916",
+      "WMOID": "722310",
+      "Latitude": 30.05,
+      "Longitude": -90.03,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "New Orleans-Lakefront AP 722315 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "New Orleans Lakefront Ap",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722315",
+      "Latitude": 30.05,
+      "Longitude": -90.03,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "New Iberia 722314 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "New Iberia Naas",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722314",
+      "Latitude": 30.03,
+      "Longitude": -91.88,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 8.0
+    }
+  },
+  {
+    "OriginalFileName": "New Orleans-Alvin Callender Field 722316 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "New Orleans Alvin Callender F",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722316",
+      "Latitude": 29.82,
+      "Longitude": -90.02,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 2.0
+    }
+  },
+  {
+    "OriginalFileName": "Monroe Rgnl AP 722486 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Monroe Regional Ap",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722486",
+      "Latitude": 32.52,
+      "Longitude": -92.03,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 40.0
+    }
+  },
+  {
+    "OriginalFileName": "Lake Charles Rgnl AP 722400 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lake Charles Regional Arpt",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722400",
+      "Latitude": 30.12,
+      "Longitude": -93.23,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Lake Charles AP 722404 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lake Charles Wb Airp",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722404",
+      "Latitude": 30.22,
+      "Longitude": -93.17,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 5.0
+    }
+  },
+  {
+    "OriginalFileName": "Lake Charles Rgnl AP 722400 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Lake Charles",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY-- 3937",
+      "WMOID": "722400",
+      "Latitude": 30.12,
+      "Longitude": -93.22,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 10.0
+    }
+  },
+  {
+    "OriginalFileName": "Lake Charles 722400 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "LAKE_CHARLES",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-03937",
+      "WMOID": "722400",
+      "Latitude": 30.12,
+      "Longitude": -93.22,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Houma-Terrebonne AP 722406 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Houma Terrebonne",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722406",
+      "Latitude": 29.57,
+      "Longitude": -90.67,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 3.0
+    }
+  },
+  {
+    "OriginalFileName": "Lafayette RgnlAP 722405 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lafayette Regional Ap",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722405",
+      "Latitude": 30.20,
+      "Longitude": -91.98,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 12.0
+    }
+  },
+  {
+    "OriginalFileName": "Baton Rouge 722317 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "BATON_ROUGE",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13970",
+      "WMOID": "722317",
+      "Latitude": 30.53,
+      "Longitude": -91.15,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 23.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Polk 722390 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Polk Aaf",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722390",
+      "Latitude": 31.05,
+      "Longitude": -93.18,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 102.0
+    }
+  },
+  {
+    "OriginalFileName": "Baton Rouge-Ryan AP 722317 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Baton Rouge",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY--13970",
+      "WMOID": "722317",
+      "Latitude": 30.53,
+      "Longitude": -91.15,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 21.0
+    }
+  },
+  {
+    "OriginalFileName": "Baton Rouge-Ryan AP 722317 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Baton Rouge Ryan Arpt",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722317",
+      "Latitude": 30.53,
+      "Longitude": -91.15,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 20.0
+    }
+  },
+  {
+    "OriginalFileName": "Alexandria-Esler Rgnl AP 722487 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Alexandria Esler Regional Ap",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722487",
+      "Latitude": 31.40,
+      "Longitude": -92.30,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 34.0
+    }
+  },
+  {
+    "OriginalFileName": "Barksdale AFB 722485 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Barksdale Afb",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "722485",
+      "Latitude": 32.50,
+      "Longitude": -93.67,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 54.0
+    }
+  },
+  {
+    "OriginalFileName": "Alexandria-England AFB 747540 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "England Afb",
+      "StateName": "LA",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "747540",
+      "Latitude": 31.32,
+      "Longitude": -92.55,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 27.0
+    }
+  },
+  {
+    "OriginalFileName": "Somerset-Pulaski County AWOS 724354 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Somerset Awos",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724354",
+      "Latitude": 38.00,
+      "Longitude": -84.60,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 283.0
+    }
+  },
+  {
+    "OriginalFileName": "Louisville 724230 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "LOUISVILLE",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93821",
+      "WMOID": "724230",
+      "Latitude": 38.18,
+      "Longitude": -85.73,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 149.0
+    }
+  },
+  {
+    "OriginalFileName": "Paducah-Barkley Rgnl AP 724350 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Paducah Barkley Regional Ap",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724350",
+      "Latitude": 37.05,
+      "Longitude": -88.77,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 124.0
+    }
+  },
+  {
+    "OriginalFileName": "Louisville-Standiford Field 724230 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Louisville",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY--93821",
+      "WMOID": "724230",
+      "Latitude": 38.18,
+      "Longitude": -85.73,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 149.0
+    }
+  },
+  {
+    "OriginalFileName": "Louisville-Standiford Field 724230 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Louisville Standiford Field",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724230",
+      "Latitude": 38.18,
+      "Longitude": -85.73,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 147.0
+    }
+  },
+  {
+    "OriginalFileName": "Louisville-Bowman Field 724235 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Louisville Bowman Field",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724235",
+      "Latitude": 38.23,
+      "Longitude": -85.67,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 165.0
+    }
+  },
+  {
+    "OriginalFileName": "Lexington 724220 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "LEXINGTON",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93820",
+      "WMOID": "724220",
+      "Latitude": 38.03,
+      "Longitude": -84.60,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 301.0
+    }
+  },
+  {
+    "OriginalFileName": "London-Corbin-Magee Field 724243 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "London Corbin Ap",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724243",
+      "Latitude": 37.08,
+      "Longitude": -84.08,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 362.0
+    }
+  },
+  {
+    "OriginalFileName": "Lexington-Bluegrass AP 724220 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lexington Bluegrass Ap",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724220",
+      "Latitude": 38.03,
+      "Longitude": -84.60,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 294.0
+    }
+  },
+  {
+    "OriginalFileName": "Lexington-Bluegrass AP 724220 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Lexington",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY--93820",
+      "WMOID": "724220",
+      "Latitude": 38.03,
+      "Longitude": -84.60,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 301.0
+    }
+  },
+  {
+    "OriginalFileName": "Henderson City County AP 724238 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Henderson City",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724238",
+      "Latitude": 37.82,
+      "Longitude": -87.68,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 117.0
+    }
+  },
+  {
+    "OriginalFileName": "Jackson-Julian Carroll AP 724236 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Jackson Julian Carroll Ap",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724236",
+      "Latitude": 37.58,
+      "Longitude": -83.32,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 416.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Knox-Godman AAF 724240 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Knox Godman Aaf",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724240",
+      "Latitude": 37.90,
+      "Longitude": -85.97,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 239.0
+    }
+  },
+  {
+    "OriginalFileName": "Covington-Cincinnati AP 724210 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "COVINGTON",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93814",
+      "WMOID": "724210",
+      "Latitude": 39.07,
+      "Longitude": -84.67,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 271.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Campbell AAF 746710 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Campbell Aaf",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "746710",
+      "Latitude": 36.67,
+      "Longitude": -87.48,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 173.0
+    }
+  },
+  {
+    "OriginalFileName": "Cincinnati-Northern Kentucky AP 724210 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Cincinnati Northern Ky Ap",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724210",
+      "Latitude": 39.05,
+      "Longitude": -84.67,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 265.0
+    }
+  },
+  {
+    "OriginalFileName": "Bowling Green-Warren County AP 746716 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Bowling Green Warren Co Ap",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "746716",
+      "Latitude": 36.98,
+      "Longitude": -86.43,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 161.0
+    }
+  },
+  {
+    "OriginalFileName": "Cincinnati-Northern Kentucky AP 724210 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Covington/Cincinnati O",
+      "StateName": "KY",
+      "Country": "USA",
+      "WeatherSource": "TMY--93814",
+      "WMOID": "724210",
+      "Latitude": 39.05,
+      "Longitude": -84.67,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 267.0
+    }
+  },
+  {
+    "OriginalFileName": "Wichita 724500 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "WICHITA",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY2-03928",
+      "WMOID": "724500",
+      "Latitude": 37.65,
+      "Longitude": -97.42,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 408.0
+    }
+  },
+  {
+    "OriginalFileName": "Wichita-Mid Continent AP 724500 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Wichita Mid Continent Ap",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724500",
+      "Latitude": 37.65,
+      "Longitude": -97.43,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 402.0
+    }
+  },
+  {
+    "OriginalFileName": "Wichita-Col Jabara Field 724504 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Wichita Col  Jabara",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724504",
+      "Latitude": 37.75,
+      "Longitude": -97.22,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 433.0
+    }
+  },
+  {
+    "OriginalFileName": "Wichita-McConnell AFB 724505 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Mcconnell Afb",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724505",
+      "Latitude": 37.62,
+      "Longitude": -97.27,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 414.0
+    }
+  },
+  {
+    "OriginalFileName": "Topeka 724560 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "TOPEKA",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13996",
+      "WMOID": "724560",
+      "Latitude": 39.07,
+      "Longitude": -95.63,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 270.0
+    }
+  },
+  {
+    "OriginalFileName": "Topeka-Phillip Billard Muni AP 724560 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Topeka",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY--13996",
+      "WMOID": "724560",
+      "Latitude": 39.07,
+      "Longitude": -95.62,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 270.0
+    }
+  },
+  {
+    "OriginalFileName": "Topeka-Phillip Billard Muni AP 724560 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Topeka Municipal Ap",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724560",
+      "Latitude": 39.07,
+      "Longitude": -95.63,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 269.0
+    }
+  },
+  {
+    "OriginalFileName": "Topeka-Forbes AFB 724565 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Topeka Forbes Field",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724565",
+      "Latitude": 38.95,
+      "Longitude": -95.67,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 325.0
+    }
+  },
+  {
+    "OriginalFileName": "Salina Muni AP 724586 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Salina Municipal Ap",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724586",
+      "Latitude": 38.82,
+      "Longitude": -97.67,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 385.0
+    }
+  },
+  {
+    "OriginalFileName": "Olathe-Johnson County Industrial AP 724475 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Olathe Johnson Co Industrial",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724475",
+      "Latitude": 38.83,
+      "Longitude": -94.88,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 331.0
+    }
+  },
+  {
+    "OriginalFileName": "Russell Muni AP 724585 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Russell Municipal Ap",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724585",
+      "Latitude": 38.88,
+      "Longitude": -98.82,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 566.0
+    }
+  },
+  {
+    "OriginalFileName": "Olathe-Johnson County Executive AP 724468 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Olathe Johnson Co",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724468",
+      "Latitude": 38.85,
+      "Longitude": -94.73,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 334.0
+    }
+  },
+  {
+    "OriginalFileName": "Newton AWOS 724509 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Newton  Awos",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724509",
+      "Latitude": 38.05,
+      "Longitude": -97.28,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 467.0
+    }
+  },
+  {
+    "OriginalFileName": "Manhattan Rgnl AP 724555 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Manhattan Rgnl",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724555",
+      "Latitude": 39.13,
+      "Longitude": -96.67,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 330.0
+    }
+  },
+  {
+    "OriginalFileName": "Hutchinson Muni AP 724506 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hutchinson Municipal Ap",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724506",
+      "Latitude": 38.07,
+      "Longitude": -97.87,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 463.0
+    }
+  },
+  {
+    "OriginalFileName": "Liberal Muni AP 724516 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Liberal Muni",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724516",
+      "Latitude": 37.03,
+      "Longitude": -100.97,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 901.0
+    }
+  },
+  {
+    "OriginalFileName": "Hill City Muni AP 724655 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hill City Municipal Ap",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724655",
+      "Latitude": 39.38,
+      "Longitude": -99.83,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 667.0
+    }
+  },
+  {
+    "OriginalFileName": "Great Bend AWOS 724517 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Great Bend  Awos",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724517",
+      "Latitude": 38.35,
+      "Longitude": -98.87,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 575.0
+    }
+  },
+  {
+    "OriginalFileName": "Hays Muni AWOS 724518 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Hays Muni  Awos",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724518",
+      "Latitude": 38.85,
+      "Longitude": -99.27,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 609.0
+    }
+  },
+  {
+    "OriginalFileName": "Goodland 724650 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "GOODLAND",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY2-23065",
+      "WMOID": "724650",
+      "Latitude": 39.37,
+      "Longitude": -101.70,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1124.0
+    }
+  },
+  {
+    "OriginalFileName": "Goodland-Renner Field 724650 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Goodland Renner Field",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724650",
+      "Latitude": 39.37,
+      "Longitude": -101.70,
+      "TimeZoneOffset": -7.0,
+      "Elevation": 1111.0
+    }
+  },
+  {
+    "OriginalFileName": "Goodland-Renner Field 724650 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Goodland",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY--23065",
+      "WMOID": "724650",
+      "Latitude": 39.37,
+      "Longitude": -101.70,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 1124.0
+    }
+  },
+  {
+    "OriginalFileName": "Fort Riley-Marshall AAF 724550 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Fort Riley Marshall Aaf",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724550",
+      "Latitude": 39.05,
+      "Longitude": -96.77,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 324.0
+    }
+  },
+  {
+    "OriginalFileName": "Garden City Muni AP 724515 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Garden City Municipal Ap",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724515",
+      "Latitude": 37.93,
+      "Longitude": -100.72,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 878.0
+    }
+  },
+  {
+    "OriginalFileName": "Emporia Muni AP 724556 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Emporia Municipal Ap",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724556",
+      "Latitude": 38.33,
+      "Longitude": -96.18,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 368.0
+    }
+  },
+  {
+    "OriginalFileName": "Dodge City Rgnl AP 724510 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Dodge City Regional Ap",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724510",
+      "Latitude": 37.77,
+      "Longitude": -99.97,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 785.0
+    }
+  },
+  {
+    "OriginalFileName": "Dodge City Rgnl AP 724510 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Dodge City",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY--13985",
+      "WMOID": "724510",
+      "Latitude": 37.77,
+      "Longitude": -99.97,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 790.0
+    }
+  },
+  {
+    "OriginalFileName": "Concordia-Blosser Muni AP 724580 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Concordia Blosser Muni Ap",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724580",
+      "Latitude": 39.55,
+      "Longitude": -97.65,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 448.0
+    }
+  },
+  {
+    "OriginalFileName": "Dodge City 724510 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "DODGE_CITY",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY2-13985",
+      "WMOID": "724510",
+      "Latitude": 37.77,
+      "Longitude": -99.97,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 787.0
+    }
+  },
+  {
+    "OriginalFileName": "Chanute-Martin Johnson AP 724507 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Chanute Martin Johnson Ap",
+      "StateName": "KS",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724507",
+      "Latitude": 37.67,
+      "Longitude": -95.48,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 298.0
+    }
+  },
+  {
+    "OriginalFileName": "Terre Haute-Hulman Rgnl AP 724373 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Terre Haute Hulman Regional A",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724373",
+      "Latitude": 39.45,
+      "Longitude": -87.30,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 175.0
+    }
+  },
+  {
+    "OriginalFileName": "South Bend 725350 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "SOUTH_BEND",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY2-14848",
+      "WMOID": "725350",
+      "Latitude": 41.70,
+      "Longitude": -86.32,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 236.0
+    }
+  },
+  {
+    "OriginalFileName": "South Bend-Michiana Rgnl AP 725350 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "South Bend",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY--14848",
+      "WMOID": "725350",
+      "Latitude": 41.70,
+      "Longitude": -86.32,
+      "TimeZoneOffset": -6.0,
+      "Elevation": 236.0
+    }
+  },
+  {
+    "OriginalFileName": "South Bend-Michiana Rgnl AP 725350 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "South Bend Michiana Rgnl Ap",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725350",
+      "Latitude": 41.70,
+      "Longitude": -86.33,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 236.0
+    }
+  },
+  {
+    "OriginalFileName": "Monroe County AP 724375 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Monroe Co",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724375",
+      "Latitude": 39.13,
+      "Longitude": -86.62,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 264.0
+    }
+  },
+  {
+    "OriginalFileName": "Indianapolis Intl AP 724380 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Indianapolis Intl Ap",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724380",
+      "Latitude": 39.72,
+      "Longitude": -86.27,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 241.0
+    }
+  },
+  {
+    "OriginalFileName": "Lafayette-Purdue University AP 724386 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Lafayette Purdue Univ Ap",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724386",
+      "Latitude": 40.42,
+      "Longitude": -86.93,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 183.0
+    }
+  },
+  {
+    "OriginalFileName": "Indianapolis Intl AP 724380 (TMY)",
+    "EPWLocationInfo": {
+      "CityName": "Indianapolis",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY--93819",
+      "WMOID": "724380",
+      "Latitude": 39.73,
+      "Longitude": -86.27,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 246.0
+    }
+  },
+  {
+    "OriginalFileName": "Huntingburg Muni AP 724365 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Huntingburg",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "724365",
+      "Latitude": 38.25,
+      "Longitude": -86.95,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 161.0
+    }
+  },
+  {
+    "OriginalFileName": "Indianapolis 724380 (TMY2)",
+    "EPWLocationInfo": {
+      "CityName": "INDIANAPOLIS",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY2-93819",
+      "WMOID": "724380",
+      "Latitude": 39.73,
+      "Longitude": -86.28,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 246.0
+    }
+  },
+  {
+    "OriginalFileName": "Grissom AFB 725335 (TMY3)",
+    "EPWLocationInfo": {
+      "CityName": "Grissom Arb",
+      "StateName": "IN",
+      "Country": "USA",
+      "WeatherSource": "TMY3",
+      "WMOID": "725335",
+      "Latitude": 40.65,
+      "Longitude": -86.15,
+      "TimeZoneOffset": -5.0,
+      "Elevation": 253.0
+    }
+  }
+]
